@@ -4,8 +4,8 @@ services:
     container_name: eng_learning_db
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: syadmin@123
-      POSTGRES_DB: eng_learning
+      POSTGRES_PASSWORD: sysadmin@123
+      POSTGRES_DB: eng_learning_db
     ports:
       - "5432:5432"
     volumes:

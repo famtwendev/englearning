@@ -1,0 +1,36 @@
+# English Learning MVP Implementation Checklist
+
+## Phase 1: Planning & Setup
+- [x] Brainstorming Ideas
+- [x] Determine Architecture and Tech Stack
+- [x] Create Design Doc
+- [x] Setup Frontend Project (React + Vite + Tailwind)
+- [x] Setup Backend Monorepo or Multi-module layout (Spring Boot)
+- [x] Setup Database (PostgreSQL)
+
+## Phase 2: Core Platform (API Gateway & Identity)
+- [x] Build API Gateway
+- [x] Implement User Roles & Authentication (Identity)
+- [x] Integrate Frontend Auth State
+- [x] Refine Auth Validation & DB (firstName, lastName, ExceptionHandler)
+- [x] Refine Auth UI (Confirm password, Eye icon toggle, inline errors)
+
+## Phase 3: Vocabulary & Core Learning Features
+- [/] Backend: Vocabulary Service (Topics, Words, Progress)
+- [ ] Frontend: Vocabulary UI (Topic list, Vocabulary Viewer)
+- [ ] Frontend & Backend: Fill blanks Quiz and Audio Playback
+
+## Phase 4: Advanced AI Features (Writing/Speaking)
+- [ ] Backend: AI Assessment Service
+- [ ] Backend: External AI API integration (OpenAI/Gemini)
+- [ ] Frontend: Audio Recording Component
+- [ ] Frontend: Speaking & Writing interfaces
+
+## Phase 5: Other Skills (Reading, Listening, Idioms)
+- [ ] Backend: Reading & Listening Quiz module
+- [ ] Frontend: Reading UI & pop-up dictionary
+- [ ] Frontend: Listening Audio Player and fill-in-blanks
+
+## Phase 6: Verification & Polish
+- [ ] End-to-end testing
+- [ ] Performance and Error handling Polish
