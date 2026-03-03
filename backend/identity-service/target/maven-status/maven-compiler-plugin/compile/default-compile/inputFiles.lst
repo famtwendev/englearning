@@ -7,6 +7,7 @@ E:\eng-app\backend\identity-service\src\main\java\com\englearning\identity\dto\A
 E:\eng-app\backend\identity-service\src\main\java\com\englearning\identity\entity\User.java
 E:\eng-app\backend\identity-service\src\main\java\com\englearning\identity\security\ApplicationConfig.java
 E:\eng-app\backend\identity-service\src\main\java\com\englearning\identity\repository\UserRepository.java
+E:\eng-app\backend\identity-service\src\main\java\com\englearning\identity\exception\GlobalExceptionHandler.java
 E:\eng-app\backend\identity-service\src\main\java\com\englearning\identity\controller\AuthController.java
 E:\eng-app\backend\identity-service\src\main\java\com\englearning\identity\service\AuthService.java
 E:\eng-app\backend\identity-service\src\main\java\com\englearning\identity\security\SecurityConfig.java

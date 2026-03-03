@@ -5,9 +5,9 @@ spring:
   application:
     name: identity-service
   datasource:
-    url: jdbc:postgresql://localhost:5432/eng_learning
+    url: jdbc:postgresql://localhost:5432/eng_learning_db
     username: postgres
-    password: syadmin@123
+    password: sysadmin@123
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
