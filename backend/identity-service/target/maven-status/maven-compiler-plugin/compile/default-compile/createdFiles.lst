@@ -1,0 +1,17 @@
+com\englearning\identity\entity\User$UserBuilder.class
+com\englearning\identity\security\SecurityConfig.class
+com\englearning\identity\security\JwtService.class
+com\englearning\identity\controller\AuthController.class
+com\englearning\identity\IdentityServiceApplication.class
+com\englearning\identity\security\ApplicationConfig.class
+com\englearning\identity\dto\RegisterRequest.class
+com\englearning\identity\entity\User.class
+com\englearning\identity\security\JwtAuthenticationFilter.class
+com\englearning\identity\dto\AuthResponse$AuthResponseBuilder.class
+com\englearning\identity\entity\Role.class
+com\englearning\identity\dto\RegisterRequest$RegisterRequestBuilder.class
+com\englearning\identity\dto\AuthResponse.class
+com\englearning\identity\repository\UserRepository.class
+com\englearning\identity\dto\AuthRequest.class
+com\englearning\identity\dto\AuthRequest$AuthRequestBuilder.class
+com\englearning\identity\service\AuthService.class

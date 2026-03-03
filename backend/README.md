@@ -24,7 +24,18 @@ docker-compose up -d
 ```
 
 ### 2. Build the Project
+Where do you installed jdk?
+Example: C:\Program Files\Java\jdk-24 or E:\Program Files\Java\jdk-24
+If you don't have JAVA_HOME set, you can follow this link:
+https://viblo.asia/p/cach-cai-dat-bien-java-home-tren-windows-10-series-java-handbook-phan-2-aNj4vXA0L6r
+Run command in **Command Prompt**
 From the `backend` directory, build all microservices using Maven:
+```bash
+echo %JAVA_HOME%
+cd backend
+mvnw.cmd clean install -DskipTests
+```
+or
 ```bash
 ./mvnw clean install -DskipTests
 ```
@@ -36,14 +47,12 @@ Open separate terminal windows for each service:
 
 **Terminal 1 (Identity Service)**
 ```bash
-cd identity-service
-java -jar target/identity-service-1.0.0-SNAPSHOT.jar
+java -jar identity-service/target/identity-service-1.0.0-SNAPSHOT.jar
 ```
 
 **Terminal 2 (API Gateway)**
 ```bash
-cd api-gateway
-java -jar target/api-gateway-1.0.0-SNAPSHOT.jar
+java -jar api-gateway/target/api-gateway-1.0.0-SNAPSHOT.jar
 ```
 
 **Terminal 3 (Core Learning Service - When implemented)**
