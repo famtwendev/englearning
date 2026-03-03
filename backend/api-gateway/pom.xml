@@ -8,7 +8,10 @@
         <artifactId>backend-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
-
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
     <artifactId>api-gateway</artifactId>
     <packaging>jar</packaging>
     <name>api-gateway</name>
@@ -23,4 +26,20 @@
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
     </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
 </project>
