@@ -2,10 +2,24 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { useAuthStore } from './store/authStore';
 import Login from './pages/Login';
 import Register from './pages/Register';
+import Dashboard from './pages/Dashboard';
+import TopicList from './pages/TopicList';
+import Theory from './pages/Theory';
+import Practice from './pages/Practice';
+import React from 'react';
 
-const PrivateRoute = ({ children }: { children: JSX.Element }) => {
+import Navbar from './components/Navbar';
+
+const PrivateRoute = ({ children }: { children: React.ReactNode }) => {
   const isAuthenticated = useAuthStore((state) => state.isAuthenticated);
-  return isAuthenticated ? children : <Navigate to="/login" />;
+  return isAuthenticated ? (
+    <div className="min-h-screen flex flex-col bg-gray-50">
+      <Navbar />
+      <div className="flex-1">
+        {children}
+      </div>
+    </div>
+  ) : <Navigate to="/login" />;
 };
 
 function App() {
@@ -18,19 +32,13 @@ function App() {
           path="/"
           element={
             <PrivateRoute>
-              <div className="min-h-screen bg-gray-50 flex flex-col items-center justify-center">
-                <h1 className="text-4xl font-bold text-blue-600 mb-4">English Learning Platform</h1>
-                <p className="text-gray-600 text-lg">Welcome! You are logged in.</p>
-                <button
-                  onClick={() => useAuthStore.getState().logout()}
-                  className="mt-6 bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded"
-                >
-                  Logout
-                </button>
-              </div>
+              <Dashboard />
             </PrivateRoute>
           }
         />
+        <Route path="/topics" element={<PrivateRoute><TopicList /></PrivateRoute>} />
+        <Route path="/topics/:id/theory" element={<PrivateRoute><Theory /></PrivateRoute>} />
+        <Route path="/topics/:id/practice" element={<PrivateRoute><Practice /></PrivateRoute>} />
       </Routes>
     </Router>
   );

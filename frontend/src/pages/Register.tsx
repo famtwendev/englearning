@@ -17,7 +17,7 @@ const Register = () => {
     const [errors, setErrors] = useState<Record<string, string>>({});
     const [generalError, setGeneralError] = useState('');
 
-    const setToken = useAuthStore((state) => state.setToken);
+    const setAuth = useAuthStore((state) => state.setAuth);
     const navigate = useNavigate();
 
     const validateClientSide = () => {
@@ -56,14 +56,19 @@ const Register = () => {
 
         try {
             const response = await api.post('/auth/register', { firstName, lastName, email, password });
-            setToken(response.data.token);
+            const { token, ...user } = response.data.data;
+            setAuth(token, user);
             navigate('/');
         } catch (err) {
-            if (axios.isAxiosError(err) && err.response && (err.response.status === 400 || err.response.status === 409)) {
-                if (typeof err.response.data === 'object' && err.response.data !== null) {
-                    setErrors(err.response.data);
+            if (axios.isAxiosError(err)) {
+                if (err.response?.status === 409) {
+                    setGeneralError(err.response?.data?.message || 'An account with this email already exists.');
+                } else if (err.response?.status === 400 && err.response.data?.data) {
+                    setErrors(err.response.data.data as Record<string, string>);
+                } else if (err.response?.status === 403) {
+                    setGeneralError('Registration blocked. Check permissions.');
                 } else {
-                    setGeneralError('Registration failed. Please check your input.');
+                    setGeneralError(err.response?.data?.message || 'Registration failed. Please check your input.');
                 }
             } else {
                 setGeneralError('An unexpected error occurred. Please try again later.');

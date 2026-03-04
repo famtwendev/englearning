@@ -32,17 +32,26 @@ Run command in **Command Prompt**
 From the `backend` directory, build all microservices using Maven:
 ```bash
 echo %JAVA_HOME%
-cd backend
-mvnw.cmd clean install -DskipTests
+cd .\backend\ 
+.\mvnw.cmd clean install -DskipTests
 ```
 or
 ```bash
+cd .\backend\ 
 ./mvnw clean install -DskipTests
 ```
-
+or Run a service in Microservice (Example: API Gateway)
+```bash 
+cd api-gateway; 
+..\mvnw.cmd spring-boot:run
+```
+If the Maven error was due to Java processes still holding files, remember to use:
+```bash
+taskkill /IM java.exe /F
+```
 ### 3. Run Microservices
 You need to run the API Gateway and other relevant services. For testing Phase 2, `api-gateway` and `identity-service` are required.
-
+#### Option 1: Run each service
 Open separate terminal windows for each service:
 
 **Terminal 1 (Identity Service)**
@@ -55,10 +64,34 @@ java -jar identity-service/target/identity-service-1.0.0-SNAPSHOT.jar
 java -jar api-gateway/target/api-gateway-1.0.0-SNAPSHOT.jar
 ```
 
-**Terminal 3 (Core Learning Service - When implemented)**
+**Terminal 3 (Core Learning Service)**
 ```bash
-cd core-learning-service
-java -jar target/core-learning-service-1.0.0-SNAPSHOT.jar
+java -jar core-learning-service/target/core-learning-service-1.0.0-SNAPSHOT.jar
+```
+#### Option 2: Run all servers
+```bash
+.\start_all.bat
 ```
 
-The gateway maps endpoints such as `/api/v1/auth/**` to the identity service.
+The gateway maps endpoints such as `/api/v1/auth/**` to the identity service, and `/api/v1/topics/**` / `/api/v1/progress/**` to the core learning service.
+
+### 4. Consolidated Swagger UI (API Documentation)
+The backend project aggregates all documentation into a single easy-to-use Swagger UI hosted on the API Gateway at port 8080.
+
+1. Ensure the `api-gateway`, `identity-service`, and `core-learning-service` are running.
+2. Open your browser and go to:
+   [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+3. Upon first startup, the `identity-service` will automatically seed a default Administrator user to allow you to interact with secured endpoints.
+4. From the top-right "Select a definition" dropdown, you can switch between:
+   - `Identity Service`
+   - `Core Learning Service`
+
+**Default Admin Credentials:**
+- **Email:** `admin@system.com`
+- **Password:** `Admin@123`
+
+To securely test endpoints directly from Swagger:
+1. Navigate to the `Identity Service` spec.
+2. Open `POST /api/v1/auth/login`.
+3. Provide the above admin credentials and copy the `token` from the response string.
+4. Click the **Authorize** icon (padlock) at the top of the Swagger UI and insert your copied token. Now all requests within the gateway UI will be verified correctly using the Admin role.

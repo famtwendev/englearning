@@ -1,5 +1,29 @@
 # English Learning MVP Implementation Checklist
 
+## Phase 0: Project Initialization
+- [x] Create Backend Project (Spring Boot)
+- Essential
+- Lombok
+- Spring Actuator
+- Spring Dev Tools
+- Spring Validator
+- Spring Data JPA
+- Spring REST with Springdoc
+- Spring Security
+- Spring Testing
+- Spring Scheduling
+- Exception handling with Spring Controller Advice
+
+Nice to have
+- Spring Application Events
+- Messaging with AMQP or JMS
+- Spring Webflux
+- Spring Batch
+- Spring Cache
+- [x] Create Frontend Project (React + Vite + Tailwind)
+- [x] Setup Database (PostgreSQL)
+
+
 ## Phase 1: Planning & Setup
 - [x] Brainstorming Ideas
 - [x] Determine Architecture and Tech Stack
@@ -15,22 +39,25 @@
 - [x] Refine Auth Validation & DB (firstName, lastName, ExceptionHandler)
 - [x] Refine Auth UI (Confirm password, Eye icon toggle, inline errors)
 
-## Phase 3: Vocabulary & Core Learning Features
-- [/] Backend: Vocabulary Service (Topics, Words, Progress)
-- [ ] Frontend: Vocabulary UI (Topic list, Vocabulary Viewer)
-- [ ] Frontend & Backend: Fill blanks Quiz and Audio Playback
+## Phase 3: Vocabulary & Core Learning Features (Backend)
+- [x] Backend: Setup DB Entities (Topic, Vocabulary, UserProgress, QuizAttempt, Achievement)
+- [x] Backend: Gamification System (XP, Level formula, Streak, Badges)
+- [x] Backend: Vocabulary API (GET Topics, GET Practice words)
+- [x] Backend: Progress tracking API (POST progress/update)
 
-## Phase 4: Advanced AI Features (Writing/Speaking)
+## Phase 4: Vocabulary & Core Learning Features (Frontend)
+- [x] Frontend: Setup routes & Services for Vocabulary and Gamification
+- [x] Frontend: Dashboard UI (Progress bar, Weekly chart, Streak, Level)
+- [x] Frontend: Theory UI (Word detail, Web Speech API, Favorites)
+- [x] Frontend: Practice UI (Fill missing letters, Hard mode, Confetti effect)
+
+## Phase 5: Advanced AI Features (Writing/Speaking)
 - [ ] Backend: AI Assessment Service
 - [ ] Backend: External AI API integration (OpenAI/Gemini)
 - [ ] Frontend: Audio Recording Component
 - [ ] Frontend: Speaking & Writing interfaces
 
-## Phase 5: Other Skills (Reading, Listening, Idioms)
-- [ ] Backend: Reading & Listening Quiz module
-- [ ] Frontend: Reading UI & pop-up dictionary
-- [ ] Frontend: Listening Audio Player and fill-in-blanks
-
 ## Phase 6: Verification & Polish
+- [ ] Lazy loading, Pagination, LocalStorage backup
+- [ ] Error handling & Performance optimizations
 - [ ] End-to-end testing
-- [ ] Performance and Error handling Polish

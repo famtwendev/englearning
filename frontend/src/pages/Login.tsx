@@ -13,7 +13,7 @@ const Login = () => {
     const [generalError, setGeneralError] = useState('');
     const [errors, setErrors] = useState<Record<string, string>>({});
 
-    const setToken = useAuthStore((state) => state.setToken);
+    const setAuth = useAuthStore((state) => state.setAuth);
     const navigate = useNavigate();
 
     const validateClientSide = () => {
@@ -40,16 +40,17 @@ const Login = () => {
 
         try {
             const response = await api.post('/auth/authenticate', { email, password });
-            setToken(response.data.token);
+            const { token, ...user } = response.data.data;
+            setAuth(token, user);
             navigate('/');
         } catch (err) {
-            if (axios.isAxiosError(err) && err.response && (err.response.status === 400 || err.response.status === 403)) {
-                if (err.response?.status === 403) {
-                    setGeneralError('Invalid email or password');
-                } else if (typeof err.response?.data === 'object' && err.response?.data !== null) {
-                    setErrors(err.response.data);
+            if (axios.isAxiosError(err)) {
+                if (err.response?.status === 403 || err.response?.status === 401) {
+                    setGeneralError(err.response?.data?.message || 'Invalid email or password');
+                } else if (err.response?.status === 400 && err.response?.data?.data) {
+                    setErrors(err.response.data.data as Record<string, string>);
                 } else {
-                    setGeneralError('Login failed. Please check your input.');
+                    setGeneralError(err.response?.data?.message || 'Login failed. Please check your credentials or try again later.');
                 }
             } else {
                 setGeneralError('An unexpected error occurred. Please try again later.');

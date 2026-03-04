@@ -1,0 +1,279 @@
+{
+    "topic": "growingup",
+    "nouns": [
+        {
+            "word": "adolescence",
+            "type": "n",
+            "ipa": "/ˌædəˈlesəns/",
+            "meaning": "tuổi vị thành niên, tuổi dậy thì"
+        },
+        {
+            "word": "adulthood",
+            "type": "n",
+            "ipa": "/ˈædʌlthʊd/",
+            "meaning": "tuổi trưởng thành"
+        },
+        {
+            "word": "bond",
+            "type": "n",
+            "ipa": "/bɒnd/",
+            "meaning": "sự gắn kết (tình cảm)"
+        },
+        {
+            "word": "brotherhood",
+            "type": "n",
+            "ipa": "/ˈbrʌðəhʊd/",
+            "meaning": "tình huynh đệ"
+        },
+        {
+            "word": "character",
+            "type": "n",
+            "ipa": "/ˈkærəktə(r)/",
+            "meaning": "tính cách, nhân cách"
+        },
+        {
+            "word": "childhood",
+            "type": "n",
+            "ipa": "/ˈtʃaɪldhʊd/",
+            "meaning": "tuổi thơ"
+        },
+        {
+            "word": "conflict",
+            "type": "n",
+            "ipa": "/ˈkɒnflɪkt/",
+            "meaning": "xung đột, mâu thuẫn"
+        },
+        {
+            "word": "connection",
+            "type": "n",
+            "ipa": "/kəˈnekʃn/",
+            "meaning": "sự kết nối, mối liên hệ"
+        },
+        {
+            "word": "fatherhood",
+            "type": "n",
+            "ipa": "/ˈfɑːðəhʊd/",
+            "meaning": "thiên chức làm cha"
+        },
+        {
+            "word": "friendship",
+            "type": "n",
+            "ipa": "/ˈfrendʃɪp/",
+            "meaning": "tình bạn"
+        },
+        {
+            "word": "instinct",
+            "type": "n",
+            "ipa": "/ˈɪnstɪŋkt/",
+            "meaning": "bản năng"
+        },
+        {
+            "word": "interaction",
+            "type": "n",
+            "ipa": "/ˌɪntərˈrækʃn/",
+            "meaning": "sự tương tác"
+        },
+        {
+            "word": "motherhood",
+            "type": "n",
+            "ipa": "/ˈmʌðəhʊd/",
+            "meaning": "thiên chức làm mẹ"
+        },
+        {
+            "word": "nature",
+            "type": "n",
+            "ipa": "/ˈneɪtʃə(r)/",
+            "meaning": "bản chất, thiên hướng"
+        },
+        {
+            "word": "parent",
+            "type": "n",
+            "ipa": "/ˈpeərənt/",
+            "meaning": "cha hoặc mẹ"
+        },
+        {
+            "word": "relation",
+            "type": "n",
+            "ipa": "/rɪˈleɪʃn/",
+            "meaning": "mối quan hệ"
+        },
+        {
+            "word": "relationship",
+            "type": "n",
+            "ipa": "/rɪˈleɪʃnʃɪp/",
+            "meaning": "mối quan hệ (giữa/ với)"
+        },
+        {
+            "word": "relative",
+            "type": "n",
+            "ipa": "/ˈrelətɪv/",
+            "meaning": "người thân, họ hàng"
+        },
+        {
+            "word": "resemblance",
+            "type": "n",
+            "ipa": "/rɪˈzembləns/",
+            "meaning": "sự giống nhau"
+        },
+        {
+            "word": "rivalry",
+            "type": "n",
+            "ipa": "/ˈraɪvəlri/",
+            "meaning": "sự ganh đua"
+        },
+        {
+            "word": "sibling",
+            "type": "n",
+            "ipa": "/ˈsɪblɪŋ/",
+            "meaning": "anh/chị/em ruột"
+        },
+        {
+            "word": "teenager",
+            "type": "n",
+            "ipa": "/ˈtiːneɪdʒə(r)/",
+            "meaning": "thanh thiếu niên"
+        },
+        {
+            "word": "temperament",
+            "type": "n",
+            "ipa": "/ˈtemprəmənt/",
+            "meaning": "khí chất, tính khí"
+        },
+        {
+            "word": "ties",
+            "type": "n",
+            "ipa": "/taɪz/",
+            "meaning": "mối ràng buộc, liên kết"
+        },
+        {
+            "word": "upbringing",
+            "type": "n",
+            "ipa": "/ˈʌpbrɪŋɪŋ/",
+            "meaning": "sự nuôi dạy"
+        }
+    ],
+    "compound_nouns": [
+        {
+            "word": "active role",
+            "type": "N",
+            "ipa": "/ˈæktɪv rəʊl/",
+            "meaning": "vai trò tích cực"
+        },
+        {
+            "word": "extended family",
+            "type": "N",
+            "ipa": "/ɪkˈstendɪd ˈfæməli/",
+            "meaning": "đại gia đình"
+        },
+        {
+            "word": "family gathering",
+            "type": "N",
+            "ipa": "/ˈfæməli ˈɡæðərɪŋ/",
+            "meaning": "buổi họp mặt gia đình"
+        },
+        {
+            "word": "immediate family",
+            "type": "N",
+            "ipa": "/ɪˈmiːdiət ˈfæməli/",
+            "meaning": "gia đình ruột thịt"
+        },
+        {
+            "word": "maternal instinct",
+            "type": "N",
+            "ipa": "/məˈtɜːnl ˈɪnstɪŋkt/",
+            "meaning": "bản năng làm mẹ"
+        },
+        {
+            "word": "sibling rivalry",
+            "type": "N",
+            "ipa": "/ˈsɪblɪŋ ˈraɪvəlri/",
+            "meaning": "sự ganh đua giữa anh chị em"
+        },
+        {
+            "word": "stable upbringing",
+            "type": "N",
+            "ipa": "/ˈsteɪbl ˈʌpbrɪŋɪŋ/",
+            "meaning": "sự nuôi dạy ổn định"
+        },
+        {
+            "word": "striking resemblance",
+            "type": "N",
+            "ipa": "/ˈstraɪkɪŋ rɪˈzembləns/",
+            "meaning": "sự giống nhau nổi bật"
+        }
+    ],
+    "verbs": [
+        {
+            "word": "accommodate",
+            "type": "V",
+            "ipa": "/əˈkɒmədeɪt/",
+            "meaning": "đáp ứng, thích nghi"
+        },
+        {
+            "word": "adopt",
+            "type": "V",
+            "ipa": "/əˈdɒpt/",
+            "meaning": "nhận nuôi / tiếp nhận"
+        },
+        {
+            "word": "break down",
+            "type": "PhrV",
+            "ipa": "/breɪk daʊn/",
+            "meaning": "đổ vỡ, tan vỡ"
+        },
+        {
+            "word": "develop",
+            "type": "V",
+            "ipa": "/dɪˈveləp/",
+            "meaning": "phát triển"
+        },
+        {
+            "word": "endure",
+            "type": "V",
+            "ipa": "/ɪnˈdjʊə(r)/",
+            "meaning": "chịu đựng"
+        },
+        {
+            "word": "establish",
+            "type": "V",
+            "ipa": "/ɪˈstæblɪʃ/",
+            "meaning": "xây dựng, thiết lập"
+        },
+        {
+            "word": "have sth in common",
+            "type": "V phr",
+            "ipa": null,
+            "meaning": "có điểm chung"
+        },
+        {
+            "word": "inherit",
+            "type": "V",
+            "ipa": "/ɪnˈherɪt/",
+            "meaning": "thừa hưởng"
+        },
+        {
+            "word": "interact",
+            "type": "V",
+            "ipa": "/ˌɪntərˈrækt/",
+            "meaning": "tương tác"
+        },
+        {
+            "word": "nurture",
+            "type": "V",
+            "ipa": "/ˈnɜːtʃə(r)/",
+            "meaning": "nuôi dưỡng"
+        },
+        {
+            "word": "play a role",
+            "type": "V phr",
+            "ipa": null,
+            "meaning": "đóng vai trò"
+        },
+        {
+            "word": "relate (to)",
+            "type": "V",
+            "ipa": "/rɪˈleɪt/",
+            "meaning": "liên hệ, đồng cảm"
+        }
+    ]
+}

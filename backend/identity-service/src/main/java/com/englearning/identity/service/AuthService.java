@@ -29,11 +29,22 @@ public class AuthService {
                                 .email(request.getEmail())
                                 .password(passwordEncoder.encode(request.getPassword()))
                                 .role(Role.USER)
+                                .totalXp(0)
+                                .level(1)
+                                .streak(0)
                                 .build();
                 repository.save(user);
                 var jwtToken = jwtService.generateToken(user);
                 return AuthResponse.builder()
                                 .token(jwtToken)
+                                .id(user.getId())
+                                .email(user.getEmail())
+                                .firstName(user.getFirstName())
+                                .lastName(user.getLastName())
+                                .role(user.getRole().name())
+                                .totalXp(user.getTotalXp())
+                                .level(user.getLevel())
+                                .streak(user.getStreak())
                                 .build();
         }
 
@@ -47,6 +58,14 @@ public class AuthService {
                 var jwtToken = jwtService.generateToken(user);
                 return AuthResponse.builder()
                                 .token(jwtToken)
+                                .id(user.getId())
+                                .email(user.getEmail())
+                                .firstName(user.getFirstName())
+                                .lastName(user.getLastName())
+                                .role(user.getRole().name())
+                                .totalXp(user.getTotalXp())
+                                .level(user.getLevel())
+                                .streak(user.getStreak())
                                 .build();
         }
 }

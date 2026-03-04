@@ -20,14 +20,16 @@ public class AuthController {
     private final AuthService service;
 
     @PostMapping("/register")
-    public ResponseEntity<AuthResponse> register(
+    public ResponseEntity<com.englearning.identity.dto.ApiResponse<AuthResponse>> register(
             @Valid @RequestBody RegisterRequest request) {
-        return ResponseEntity.ok(service.register(request));
+        return ResponseEntity.ok(
+                com.englearning.identity.dto.ApiResponse.success(service.register(request), "Registration successful"));
     }
 
     @PostMapping("/authenticate")
-    public ResponseEntity<AuthResponse> authenticate(
+    public ResponseEntity<com.englearning.identity.dto.ApiResponse<AuthResponse>> authenticate(
             @Valid @RequestBody AuthRequest request) {
-        return ResponseEntity.ok(service.authenticate(request));
+        return ResponseEntity.ok(com.englearning.identity.dto.ApiResponse.success(service.authenticate(request),
+                "Authentication successful"));
     }
 }

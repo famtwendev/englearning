@@ -14,7 +14,7 @@ import java.util.Map;
 public class GlobalExceptionHandler {
 
     @ExceptionHandler(MethodArgumentNotValidException.class)
-    public ResponseEntity<Map<String, String>> handleValidationExceptions(
+    public ResponseEntity<com.englearning.identity.dto.ApiResponse<Map<String, String>>> handleValidationExceptions(
             MethodArgumentNotValidException ex) {
         Map<String, String> errors = new HashMap<>();
         ex.getBindingResult().getAllErrors().forEach((error) -> {
@@ -22,11 +22,12 @@ public class GlobalExceptionHandler {
             String errorMessage = error.getDefaultMessage();
             errors.put(fieldName, errorMessage);
         });
-        return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(errors);
+        return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+                .body(com.englearning.identity.dto.ApiResponse.error("Validation failed", errors));
     }
 
     @ExceptionHandler(org.springframework.dao.DataIntegrityViolationException.class)
-    public ResponseEntity<Map<String, String>> handleDataIntegrityViolationExceptions(
+    public ResponseEntity<com.englearning.identity.dto.ApiResponse<Map<String, String>>> handleDataIntegrityViolationExceptions(
             org.springframework.dao.DataIntegrityViolationException ex) {
         Map<String, String> errors = new HashMap<>();
 
@@ -36,6 +37,7 @@ public class GlobalExceptionHandler {
         } else {
             errors.put("email", "Database conflict error");
         }
-        return ResponseEntity.status(HttpStatus.CONFLICT).body(errors);
+        return ResponseEntity.status(HttpStatus.CONFLICT)
+                .body(com.englearning.identity.dto.ApiResponse.error("Database constraint violation", errors));
     }
 }

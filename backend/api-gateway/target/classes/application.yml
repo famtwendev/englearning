@@ -7,9 +7,9 @@ spring:
   cloud:
     gateway:
       globalcors:
-        corsConfigurations:
+        cors-configurations:
           '[/**]':
-            allowedOrigins: "*"
+            allowedOrigins: "http://localhost:5173"
             allowedMethods:
               - GET
               - POST
@@ -17,8 +17,36 @@ spring:
               - DELETE
               - OPTIONS
             allowedHeaders: "*"
+            allowCredentials: true
       routes:
         - id: identity-service
           uri: http://localhost:8081
           predicates:
             - Path=/api/v1/auth/**
+        - id: identity-service-openapi
+          uri: http://localhost:8081
+          predicates:
+            - Path=/v3/api-docs/identity-service
+          filters:
+            - RewritePath=/v3/api-docs/identity-service, /v3/api-docs
+        - id: core-learning-service
+          uri: http://localhost:8082
+          predicates:
+            - Path=/api/v1/topics/**,/api/v1/progress/**
+        - id: core-learning-service-openapi
+          uri: http://localhost:8082
+          predicates:
+            - Path=/v3/api-docs/core-learning-service
+          filters:
+            - RewritePath=/v3/api-docs/core-learning-service, /v3/api-docs
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    urls:
+      - name: Identity Service
+        url: /v3/api-docs/identity-service
+      - name: Core Learning Service
+        url: /v3/api-docs/core-learning-service
+    path: /swagger-ui.html

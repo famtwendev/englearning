@@ -33,6 +33,18 @@ public class User implements UserDetails {
     private String firstName;
     private String lastName;
 
+    private Integer totalXp = 0;
+    private Integer level = 1;
+    private Integer streak = 0;
+
+    @Column(name = "created_at", updatable = false)
+    private java.time.LocalDateTime createdAt;
+
+    @PrePersist
+    protected void onCreate() {
+        createdAt = java.time.LocalDateTime.now();
+    }
+
     @Enumerated(EnumType.STRING)
     private Role role;
 
