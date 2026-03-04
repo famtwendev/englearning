@@ -1,0 +1,214 @@
+{
+    "topic": "lifestyles",
+    "nouns": [
+        {
+            "word": "activity",
+            "type": "n",
+            "ipa": "/ækˈtɪvəti/",
+            "meaning": "hoạt động",
+            "example": "Regular physical activity improves your overall health."
+        },
+        {
+            "word": "attitude",
+            "type": "n",
+            "ipa": "/ˈætɪtjuːd/",
+            "meaning": "quan điểm sống, thái độ",
+            "example": "A positive attitude can help you overcome difficulties."
+        },
+        {
+            "word": "balance",
+            "type": "n",
+            "ipa": "/ˈbæləns/",
+            "meaning": "sự cân bằng",
+            "example": "It is important to maintain a balance between work and leisure."
+        },
+        {
+            "word": "competition",
+            "type": "n",
+            "ipa": "/ˌkɒmpəˈtɪʃn/",
+            "meaning": "sự cạnh tranh",
+            "example": "Competition can motivate people to work harder."
+        },
+        {
+            "word": "creativity",
+            "type": "n",
+            "ipa": "/ˌkriːeɪˈtɪvəti/",
+            "meaning": "sự sáng tạo",
+            "example": "Creativity plays a key role in self-expression."
+        },
+        {
+            "word": "daily routine",
+            "type": "n",
+            "ipa": "/ˌdeɪli ruːˈtiːn/",
+            "meaning": "nếp sinh hoạt hằng ngày",
+            "example": "She follows a strict daily routine."
+        },
+        {
+            "word": "goal",
+            "type": "n",
+            "ipa": "/ɡəʊl/",
+            "meaning": "mục tiêu",
+            "example": "He set a goal to improve his lifestyle."
+        },
+        {
+            "word": "hobby",
+            "type": "n",
+            "ipa": "/ˈhɒbi/",
+            "meaning": "sở thích",
+            "example": "Reading is one of her favorite hobbies."
+        },
+        {
+            "word": "lifestyle",
+            "type": "n",
+            "ipa": "/ˈlaɪfstaɪl/",
+            "meaning": "lối sống",
+            "example": "A healthy lifestyle reduces the risk of disease."
+        },
+        {
+            "word": "opportunity",
+            "type": "n",
+            "ipa": "/ˌɒpəˈtjuːnəti/",
+            "meaning": "cơ hội",
+            "example": "This job offers a great opportunity for growth."
+        },
+        {
+            "word": "personality",
+            "type": "n",
+            "ipa": "/ˌpɜːsəˈnæləti/",
+            "meaning": "tính cách",
+            "example": "Your lifestyle can reflect your personality."
+        },
+        {
+            "word": "priority",
+            "type": "n",
+            "ipa": "/praɪˈɒrəti/",
+            "meaning": "sự ưu tiên",
+            "example": "Health should be your top priority."
+        },
+        {
+            "word": "pressure",
+            "type": "n",
+            "ipa": "/ˈpreʃə(r)/",
+            "meaning": "áp lực",
+            "example": "Many students feel pressure to succeed."
+        },
+        {
+            "word": "risk-taker",
+            "type": "n",
+            "ipa": "/ˈrɪsk teɪkə(r)/",
+            "meaning": "người ưa mạo hiểm",
+            "example": "He is a risk-taker who enjoys extreme sports."
+        },
+        {
+            "word": "standard of living",
+            "type": "n",
+            "ipa": "/ˈstændəd əv ˈlɪvɪŋ/",
+            "meaning": "mức sống",
+            "example": "Economic growth can improve the standard of living."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "active",
+            "type": "adj",
+            "ipa": "/ˈæktɪv/",
+            "meaning": "năng động",
+            "example": "She leads an active lifestyle."
+        },
+        {
+            "word": "materialistic",
+            "type": "adj",
+            "ipa": "/məˌtɪəriəˈlɪstɪk/",
+            "meaning": "thực dụng",
+            "example": "He is too materialistic and only cares about money."
+        },
+        {
+            "word": "positive",
+            "type": "adj",
+            "ipa": "/ˈpɒzətɪv/",
+            "meaning": "tích cực",
+            "example": "Try to stay positive in difficult situations."
+        },
+        {
+            "word": "successful",
+            "type": "adj",
+            "ipa": "/səkˈsesfl/",
+            "meaning": "thành công",
+            "example": "She is a successful businesswoman."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "achieve",
+            "type": "v",
+            "ipa": "/əˈtʃiːv/",
+            "meaning": "đạt được",
+            "example": "She worked hard to achieve her goals."
+        },
+        {
+            "word": "choose",
+            "type": "v",
+            "ipa": "/tʃuːz/",
+            "meaning": "lựa chọn",
+            "example": "You should choose a lifestyle that suits you."
+        },
+        {
+            "word": "enjoy",
+            "type": "v",
+            "ipa": "/ɪnˈdʒɔɪ/",
+            "meaning": "tận hưởng",
+            "example": "He enjoys spending time with his family."
+        },
+        {
+            "word": "improve",
+            "type": "v",
+            "ipa": "/ɪmˈpruːv/",
+            "meaning": "cải thiện",
+            "example": "Exercise can improve your quality of life."
+        },
+        {
+            "word": "participate",
+            "type": "v",
+            "ipa": "/pɑːˈtɪsɪpeɪt/",
+            "meaning": "tham gia",
+            "example": "She decided to participate in the competition."
+        }
+    ],
+    "phrases": [
+        {
+            "word": "lead a happy life",
+            "type": "v phrase",
+            "ipa": "/liːd ə ˈhæpi laɪf/",
+            "meaning": "sống một cuộc đời hạnh phúc",
+            "example": "Everyone wants to lead a happy life."
+        },
+        {
+            "word": "live life to the full",
+            "type": "v phrase",
+            "ipa": "/lɪv laɪf tə ðə fʊl/",
+            "meaning": "sống hết mình",
+            "example": "She believes in living life to the full."
+        },
+        {
+            "word": "make a decision",
+            "type": "v phrase",
+            "ipa": "/meɪk ə dɪˈsɪʒn/",
+            "meaning": "ra quyết định",
+            "example": "It is not easy to make a decision under pressure."
+        },
+        {
+            "word": "set a goal",
+            "type": "v phrase",
+            "ipa": "/set ə ɡəʊl/",
+            "meaning": "đặt ra mục tiêu",
+            "example": "You should set a goal for your future."
+        },
+        {
+            "word": "way of life",
+            "type": "n phrase",
+            "ipa": "/weɪ əv laɪf/",
+            "meaning": "lối sống",
+            "example": "For many people, music is a way of life."
+        }
+    ]
+}

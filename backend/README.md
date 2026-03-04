@@ -95,3 +95,14 @@ To securely test endpoints directly from Swagger:
 2. Open `POST /api/v1/auth/login`.
 3. Provide the above admin credentials and copy the `token` from the response string.
 4. Click the **Authorize** icon (padlock) at the top of the Swagger UI and insert your copied token. Now all requests within the gateway UI will be verified correctly using the Admin role.
+
+
+To import data into the database via PowerShell:
+```bash
+cd 'e:\eng-app\backend\core-learning-service'
+.\import_script.ps1
+# Cách 1: Chạy trực tiếp (Nó sẽ ngầm định dùng file mental_and_physical_development.json)
+#.\import_script.ps1
+# Cách 2: Chèn tên file linh hoạt ở đằng sau đuôi lệnh
+#.\import_script.ps1 -File "keeping_fit.json"
+```

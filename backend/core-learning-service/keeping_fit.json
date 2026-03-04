@@ -1,0 +1,249 @@
+{
+    "topic": "Keeping Fit",
+    "description": "Diet, health and exercise.",
+    "difficulty": "Low",
+    "nouns": [
+        {
+            "word": "allergy",
+            "type": "n",
+            "ipa": "/ˈælərdʒi/",
+            "meaning": "dị ứng",
+            "example": "She has a severe allergy to peanuts."
+        },
+        {
+            "word": "anxiety",
+            "type": "n",
+            "ipa": "/æŋˈzaɪəti/",
+            "meaning": "lo âu, sự lo lắng",
+            "example": "Regular exercise can help reduce anxiety."
+        },
+        {
+            "word": "appetite",
+            "type": "n",
+            "ipa": "/ˈæpɪtaɪt/",
+            "meaning": "sự thèm ăn",
+            "example": "Stress can affect your appetite."
+        },
+        {
+            "word": "artery",
+            "type": "n",
+            "ipa": "/ˈɑːtəri/",
+            "meaning": "động mạch",
+            "example": "Blocked arteries can lead to heart disease."
+        },
+        {
+            "word": "asset",
+            "type": "n",
+            "ipa": "/ˈæset/",
+            "meaning": "tài sản",
+            "example": "Good health is a valuable asset."
+        },
+        {
+            "word": "benefit",
+            "type": "n",
+            "ipa": "/ˈbenɪfɪt/",
+            "meaning": "lợi ích",
+            "example": "There are many benefits to regular exercise."
+        },
+        {
+            "word": "cravings",
+            "type": "n",
+            "ipa": "/ˈkreɪvɪŋz/",
+            "meaning": "cảm giác thèm ăn mạnh mẽ",
+            "example": "She had strong cravings for sugary snacks."
+        },
+        {
+            "word": "depression",
+            "type": "n",
+            "ipa": "/dɪˈpreʃən/",
+            "meaning": "trầm cảm",
+            "example": "Depression can affect both mental and physical health."
+        },
+        {
+            "word": "diagnosis",
+            "type": "n",
+            "ipa": "/ˌdaɪəɡˈnəʊsɪs/",
+            "meaning": "chẩn đoán",
+            "example": "Early diagnosis improves the chances of recovery."
+        },
+        {
+            "word": "diet",
+            "type": "n",
+            "ipa": "/ˈdaɪət/",
+            "meaning": "chế độ ăn uống",
+            "example": "A balanced diet is essential for good health."
+        },
+        {
+            "word": "dietician",
+            "type": "n",
+            "ipa": "/ˌdaɪəˈtɪʃən/",
+            "meaning": "chuyên gia dinh dưỡng",
+            "example": "The dietician created a meal plan for her."
+        },
+        {
+            "word": "disease",
+            "type": "n",
+            "ipa": "/dɪˈziːz/",
+            "meaning": "bệnh lý",
+            "example": "Smoking increases the risk of heart disease."
+        },
+        {
+            "word": "disorder",
+            "type": "n",
+            "ipa": "/dɪsˈɔːdə(r)/",
+            "meaning": "rối loạn",
+            "example": "He was diagnosed with a sleep disorder."
+        },
+        {
+            "word": "exercise",
+            "type": "n",
+            "ipa": "/ˈeksəsaɪz/",
+            "meaning": "bài tập thể dục",
+            "example": "Daily exercise keeps your body fit."
+        },
+        {
+            "word": "fast food",
+            "type": "n",
+            "ipa": "/ˈfæst fuːd/",
+            "meaning": "thực phẩm nhanh",
+            "example": "Eating too much fast food can lead to obesity."
+        },
+        {
+            "word": "heart attack",
+            "type": "n",
+            "ipa": "/hɑːt əˈtæk/",
+            "meaning": "cơn đau tim",
+            "example": "A poor lifestyle may increase the risk of a heart attack."
+        },
+        {
+            "word": "junk food",
+            "type": "n",
+            "ipa": "/dʒʌŋk fuːd/",
+            "meaning": "thức ăn nhanh không tốt cho sức khỏe",
+            "example": "Children should avoid eating too much junk food."
+        },
+        {
+            "word": "obesity",
+            "type": "n",
+            "ipa": "/əʊˈbiːsɪti/",
+            "meaning": "béo phì",
+            "example": "Obesity is a growing health problem worldwide."
+        },
+        {
+            "word": "stress",
+            "type": "n",
+            "ipa": "/stres/",
+            "meaning": "căng thẳng",
+            "example": "Too much stress can harm your health."
+        },
+        {
+            "word": "stroke",
+            "type": "n",
+            "ipa": "/strəʊk/",
+            "meaning": "đột quỵ",
+            "example": "High blood pressure increases the risk of stroke."
+        },
+        {
+            "word": "treatment",
+            "type": "n",
+            "ipa": "/ˈtriːtmənt/",
+            "meaning": "sự điều trị",
+            "example": "She is receiving treatment for her illness."
+        },
+        {
+            "word": "weight",
+            "type": "n",
+            "ipa": "/weɪt/",
+            "meaning": "cân nặng",
+            "example": "Regular exercise helps control your weight."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "acute",
+            "type": "adj",
+            "ipa": "/əˈkjuːt/",
+            "meaning": "cấp tính",
+            "example": "He suffered from acute pain."
+        },
+        {
+            "word": "chronic",
+            "type": "adj",
+            "ipa": "/ˈkrɒnɪk/",
+            "meaning": "mãn tính",
+            "example": "She has a chronic back problem."
+        },
+        {
+            "word": "healthy",
+            "type": "adj",
+            "ipa": "/ˈhelθi/",
+            "meaning": "khỏe mạnh",
+            "example": "She follows a healthy lifestyle."
+        },
+        {
+            "word": "obese",
+            "type": "adj",
+            "ipa": "/əʊˈbiːs/",
+            "meaning": "béo phì",
+            "example": "The doctor warned him that he was obese."
+        },
+        {
+            "word": "regular",
+            "type": "adj",
+            "ipa": "/ˈreɡjələ(r)/",
+            "meaning": "đều đặn",
+            "example": "Regular exercise improves overall health."
+        },
+        {
+            "word": "vital",
+            "type": "adj",
+            "ipa": "/ˈvaɪtl/",
+            "meaning": "quan trọng, thiết yếu",
+            "example": "Water is vital for survival."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "avoid",
+            "type": "v",
+            "ipa": "/əˈvɔɪd/",
+            "meaning": "tránh",
+            "example": "Try to avoid eating too much sugar."
+        },
+        {
+            "word": "cure",
+            "type": "v",
+            "ipa": "/kjʊə(r)/",
+            "meaning": "chữa trị",
+            "example": "The new medicine can cure the infection."
+        },
+        {
+            "word": "maintain",
+            "type": "v",
+            "ipa": "/meɪnˈteɪn/",
+            "meaning": "duy trì",
+            "example": "It is important to maintain a balanced diet."
+        },
+        {
+            "word": "prevent",
+            "type": "v",
+            "ipa": "/prɪˈvent/",
+            "meaning": "ngăn ngừa",
+            "example": "Exercise helps prevent heart disease."
+        },
+        {
+            "word": "recover",
+            "type": "v",
+            "ipa": "/rɪˈkʌvə(r)/",
+            "meaning": "phục hồi",
+            "example": "He recovered quickly after surgery."
+        },
+        {
+            "word": "reduce",
+            "type": "v",
+            "ipa": "/rɪˈdjuːs/",
+            "meaning": "giảm bớt",
+            "example": "You should reduce your salt intake."
+        }
+    ]
+}

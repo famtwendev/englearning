@@ -22,12 +22,17 @@ const PrivateRoute = ({ children }: { children: React.ReactNode }) => {
   ) : <Navigate to="/login" />;
 };
 
+const GuestRoute = ({ children }: { children: React.ReactNode }) => {
+  const isAuthenticated = useAuthStore((state) => state.isAuthenticated);
+  return isAuthenticated ? <Navigate to="/" replace /> : <>{children}</>;
+};
+
 function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/login" element={<Login />} />
-        <Route path="/register" element={<Register />} />
+        <Route path="/login" element={<GuestRoute><Login /></GuestRoute>} />
+        <Route path="/register" element={<GuestRoute><Register /></GuestRoute>} />
         <Route
           path="/"
           element={
@@ -39,6 +44,7 @@ function App() {
         <Route path="/topics" element={<PrivateRoute><TopicList /></PrivateRoute>} />
         <Route path="/topics/:id/theory" element={<PrivateRoute><Theory /></PrivateRoute>} />
         <Route path="/topics/:id/practice" element={<PrivateRoute><Practice /></PrivateRoute>} />
+        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </Router>
   );

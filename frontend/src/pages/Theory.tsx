@@ -30,11 +30,24 @@ const Theory: React.FC = () => {
         <div className="min-h-screen bg-gray-50 p-6">
             <div className="max-w-4xl mx-auto">
                 <div className="mb-6 flex justify-between items-center">
-                    <div>
-                        <Link to="/topics" className="text-blue-500 font-semibold hover:underline mr-4">← Back</Link>
-                        <h1 className="text-3xl font-bold inline">{topic.name} - Theory</h1>
+                    <div className="flex items-center gap-4">
+                        <Link
+                            to="/topics"
+                            className="py-2 px-6 text-sm font-semibold rounded-lg text-orange-400 border border-orange-400  shadow-lg hover:bg-orange-400 hover:text-white transition"
+                        >
+                            ← Back
+                        </Link>
+
+                        <h1 className="text-3xl font-bold  text-red-500">
+                            {topic.name} - Theory
+                        </h1>
                     </div>
-                    <Link to={`/topics/${topic.id}/practice`} className="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-6 rounded-full shadow-lg transition">
+
+
+                    <Link
+                        to={`/topics/${topic.id}/practice`}
+                        className="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-6 rounded-full shadow-lg transition"
+                    >
                         Start Practice 🚀
                     </Link>
                 </div>

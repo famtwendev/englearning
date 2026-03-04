@@ -44,8 +44,8 @@ public class TopicService {
         Topic topic = topicRepository.findByName(request.getTopic()).orElseGet(() -> {
             Topic newTopic = Topic.builder()
                     .name(request.getTopic())
-                    .description("Imported topic")
-                    .difficulty("medium")
+                    .description(request.getDescription())
+                    .difficulty(request.getDifficulty())
                     .build();
             return topicRepository.save(newTopic);
         });
@@ -53,10 +53,14 @@ public class TopicService {
         java.util.List<com.englearning.corelearning.dto.VocabItemDTO> allVocabs = new java.util.ArrayList<>();
         if (request.getNouns() != null)
             allVocabs.addAll(request.getNouns());
-        if (request.getCompound_nouns() != null)
-            allVocabs.addAll(request.getCompound_nouns());
+        if (request.getAdjectives() != null)
+            allVocabs.addAll(request.getAdjectives());
         if (request.getVerbs() != null)
             allVocabs.addAll(request.getVerbs());
+        if (request.getCompound_nouns() != null)
+            allVocabs.addAll(request.getCompound_nouns());
+        if (request.getPhrases_with_mind() != null)
+            allVocabs.addAll(request.getPhrases_with_mind());
 
         for (com.englearning.corelearning.dto.VocabItemDTO dto : allVocabs) {
             if (!vocabularyRepository.existsByTopicIdAndWord(topic.getId(), dto.getWord())) {
@@ -65,8 +69,9 @@ public class TopicService {
                         .word(dto.getWord())
                         .meaning(dto.getMeaning())
                         .ipa(dto.getIpa())
+                        .example(dto.getExample())
                         .partOfSpeech(dto.getType())
-                        .difficultyLevel("medium")
+                        .difficultyLevel(topic.getDifficulty())
                         .build();
                 vocabularyRepository.save(vocab);
             }

@@ -13,7 +13,11 @@ import java.util.List;
 @NoArgsConstructor
 public class TopicImportRequest {
     private String topic;
+    private String description;
+    private String difficulty;
     private List<VocabItemDTO> nouns;
-    private List<VocabItemDTO> compound_nouns;
+    private List<VocabItemDTO> adjectives;
     private List<VocabItemDTO> verbs;
+    private List<VocabItemDTO> compound_nouns;
+    private List<VocabItemDTO> phrases_with_mind;
 }

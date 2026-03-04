@@ -13,5 +13,6 @@ public class VocabItemDTO {
     private String word;
     private String type;
     private String ipa;
+    private String example;
     private String meaning;
 }

@@ -65,6 +65,30 @@ const Dashboard: React.FC = () => {
                             🎙️ Speaking Practice
                             <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
                         </div>
+                        <div className="block text-center bg-gray-50 hover:bg-gray-100 border border-gray-200 text-gray-500 cursor-not-allowed rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
+                            ✍ Writing Practice
+                            <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
+                        </div>
+                        <div className="block text-center bg-gray-50 hover:bg-gray-100 border border-gray-200 text-gray-500 cursor-not-allowed rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
+                            🎧 Listening Practice
+                            <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
+                        </div>
+                        <div className="block text-center bg-gray-50 hover:bg-gray-100 border border-gray-200 text-gray-500 cursor-not-allowed rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
+                            📖 Reading Practice
+                            <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
+                        </div>
+                        <div className="block text-center bg-gray-50 hover:bg-gray-100 border border-gray-200 text-gray-500 cursor-not-allowed rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
+                            📝 The tests
+                            <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
+                        </div>
+                        <div className="block text-center bg-gray-50 hover:bg-gray-100 border border-gray-200 text-gray-500 cursor-not-allowed rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
+                            📝 Grammar summary
+                            <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
+                        </div>
+                        <div className="block text-center bg-gray-50 hover:bg-gray-100 border border-gray-200 text-gray-500 cursor-not-allowed rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
+                            📝 IPA
+                            <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
+                        </div>
                     </div>
                 </div>
             </div>
