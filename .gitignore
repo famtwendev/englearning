@@ -143,4 +143,7 @@ vite.config.ts.timestamp-*
 
 
 # Java
-.jar
+*.jar
+
+# Ngoại lệ cho maven-wrapper.jar
+!maven-wrapper.jar
