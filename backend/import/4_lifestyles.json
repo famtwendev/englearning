@@ -1,0 +1,510 @@
+{
+    "topic": "Lifestyles",
+    "description": "Life, leisure",
+    "difficulty": "LOW",
+    "nouns": [
+        {
+            "word": "activity",
+            "type": "n",
+            "ipa": "/ækˈtɪvəti/",
+            "meaning": "hoạt động",
+            "example": "Physical activity is an essential part of a healthy lifestyle."
+        },
+        {
+            "word": "aspect",
+            "type": "n",
+            "ipa": "/ˈæspekt/",
+            "meaning": "khía cạnh, mặt (của vấn đề)",
+            "example": "The medical team is looking at every aspect of her health."
+        },
+        {
+            "word": "attitude",
+            "type": "n",
+            "ipa": "/ˈætɪtjuːd/",
+            "meaning": "quan điểm sống, thái độ",
+            "example": "He has a very positive attitude towards his work."
+        },
+        {
+            "word": "balance",
+            "type": "n",
+            "ipa": "/ˈbæləns/",
+            "meaning": "sự cân bằng",
+            "example": "It can be difficult to maintain a healthy work-life balance."
+        },
+        {
+            "word": "competition",
+            "type": "n",
+            "ipa": "/ˌkɒmpəˈtɪʃn/",
+            "meaning": "sự cạnh tranh, cuộc thi",
+            "example": "There is a lot of competition for jobs in the creative industries."
+        },
+        {
+            "word": "creativity",
+            "type": "n",
+            "ipa": "/ˌkriːeɪˈtɪvəti/",
+            "meaning": "sự sáng tạo, óc sáng tạo",
+            "example": "The job allows me to use my creativity to solve problems."
+        },
+        {
+            "word": "daily routine",
+            "type": "n phr",
+            "ipa": "/ˌdeɪli ruːˈtiːn/",
+            "meaning": "nếp sinh hoạt, thói quen hằng ngày",
+            "example": "I try to include some exercise in my daily routine."
+        },
+        {
+            "word": "desire",
+            "type": "n",
+            "ipa": "/dɪˈzaɪə(r)/",
+            "meaning": "sự khao khát, mong muốn",
+            "example": "She has a strong desire to travel the world."
+        },
+        {
+            "word": "disappointment",
+            "type": "n",
+            "ipa": "/ˌdɪsəˈpɔɪntmənt/",
+            "meaning": "sự thất vọng",
+            "example": "To avoid disappointment, it's best to book your tickets early."
+        },
+        {
+            "word": "experience",
+            "type": "n",
+            "ipa": "/ɪkˈspɪəriəns/",
+            "meaning": "kinh nghiệm, trải nghiệm",
+            "example": "I had a wonderful experience while trekking in the Himalayas."
+        },
+        {
+            "word": "fulfillment",
+            "type": "n",
+            "ipa": "/fʊlˈfɪlmənt/",
+            "meaning": "sự mãn nguyện, cảm giác trọn vẹn",
+            "example": "Helping others brings her a great sense of fulfillment."
+        },
+        {
+            "word": "goal",
+            "type": "n",
+            "ipa": "/ɡəʊl/",
+            "meaning": "mục tiêu",
+            "example": "Her ultimate goal is to become a successful entrepreneur."
+        },
+        {
+            "word": "hobby",
+            "type": "n",
+            "ipa": "/ˈhɒbi/",
+            "meaning": "sở thích",
+            "example": "My main hobby is photography, but I also enjoy hiking."
+        },
+        {
+            "word": "insight",
+            "type": "n",
+            "ipa": "/ˈɪnsaɪt/",
+            "meaning": "cái nhìn sâu sắc, sự thấu hiểu",
+            "example": "The book gives us a fascinating insight into life in the 19th century."
+        },
+        {
+            "word": "leisure",
+            "type": "n",
+            "ipa": "/ˈleʒə(r)/",
+            "meaning": "thời gian nhàn rỗi, sự thư giãn",
+            "example": "In my leisure time, I like to read and listen to music."
+        },
+        {
+            "word": "lifestyle",
+            "type": "n",
+            "ipa": "/ˈlaɪfstaɪl/",
+            "meaning": "lối sống, phong cách sống",
+            "example": "Many people are changing their lifestyle to be more eco-friendly."
+        },
+        {
+            "word": "optimist",
+            "type": "n",
+            "ipa": "/ˈɒptɪmɪst/",
+            "meaning": "người lạc quan",
+            "example": "As an optimist, he always looks for the silver lining in every situation."
+        },
+        {
+            "word": "outlook",
+            "type": "n",
+            "ipa": "/ˈaʊtlʊk/",
+            "meaning": "quan điểm, cách nhìn",
+            "example": "Travelling can give you a much broader outlook on life."
+        },
+        {
+            "word": "opportunity",
+            "type": "n",
+            "ipa": "/ˌɒpəˈtjuːnəti/",
+            "meaning": "cơ hội",
+            "example": "Don't miss this opportunity to study abroad."
+        },
+        {
+            "word": "personality",
+            "type": "n",
+            "ipa": "/ˌpɜːsəˈnæləti/",
+            "meaning": "tính cách, cá tính",
+            "example": "She has a very outgoing and friendly personality."
+        },
+        {
+            "word": "pessimist",
+            "type": "n",
+            "ipa": "/ˈpesɪmɪst/",
+            "meaning": "người bi quan",
+            "example": "You don't have to be a pessimist to see that the plan has flaws."
+        },
+        {
+            "word": "priority",
+            "type": "n",
+            "ipa": "/praɪˈɒrəti/",
+            "meaning": "sự ưu tiên",
+            "example": "My first priority is to find a place to live."
+        },
+        {
+            "word": "pressure",
+            "type": "n",
+            "ipa": "/ˈpreʃə(r)/",
+            "meaning": "áp lực",
+            "example": "He's under a lot of pressure at work lately."
+        },
+        {
+            "word": "realist",
+            "type": "n",
+            "ipa": "/ˈrɪəlɪst/",
+            "meaning": "người thực tế",
+            "example": "I'm a realist, so I know this project will take a lot of hard work."
+        },
+        {
+            "word": "risk-taker",
+            "type": "n",
+            "ipa": "/ˈrɪsk teɪkə(r)/",
+            "meaning": "người ưa mạo hiểm",
+            "example": "Successful entrepreneurs are often natural risk-takers."
+        },
+        {
+            "word": "self-expression",
+            "type": "n",
+            "ipa": "/ˌself ɪkˈspreʃn/",
+            "meaning": "sự tự thể hiện bản thân",
+            "example": "Art is a powerful form of self-expression."
+        },
+        {
+            "word": "sense",
+            "type": "n",
+            "ipa": "/sens/",
+            "meaning": "ý thức, cảm giác",
+            "example": "Having a good sense of humor helps you deal with stress."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "active",
+            "type": "adj",
+            "ipa": "/ˈæktɪv/",
+            "meaning": "năng động, tích cực",
+            "example": "She remains active in the local community even after retirement."
+        },
+        {
+            "word": "bored",
+            "type": "adj",
+            "ipa": "/bɔːd/",
+            "meaning": "chán nản",
+            "example": "I'm bored with doing the same thing every day."
+        },
+        {
+            "word": "confused",
+            "type": "adj",
+            "ipa": "/kənˈfjuːzd/",
+            "meaning": "bối rối, hoang mang",
+            "example": "I'm a bit confused about the new office rules."
+        },
+        {
+            "word": "dissatisfied",
+            "type": "adj",
+            "ipa": "/dɪˈsætɪsfaɪd/",
+            "meaning": "không hài lòng, bất mãn",
+            "example": "If you are dissatisfied with the service, you should complain."
+        },
+        {
+            "word": "intense",
+            "type": "adj",
+            "ipa": "/ɪnˈtens/",
+            "meaning": "cường độ cao, mãnh liệt",
+            "example": "The competition between the two athletes was very intense."
+        },
+        {
+            "word": "materialistic",
+            "type": "adj",
+            "ipa": "/məˌtɪəriəˈlɪstɪk/",
+            "meaning": "thực dụng, chủ nghĩa vật chất",
+            "example": "Our society is often criticized for being too materialistic."
+        },
+        {
+            "word": "negative",
+            "type": "adj",
+            "ipa": "/ˈneɡətɪv/",
+            "meaning": "tiêu cực",
+            "example": "Try to stay away from people who have a negative influence on you."
+        },
+        {
+            "word": "outdoor",
+            "type": "adj",
+            "ipa": "/ˈaʊtdɔː(r)/",
+            "meaning": "(thuộc) ngoài trời",
+            "example": "If you love nature, you'll enjoy these outdoor activities."
+        },
+        {
+            "word": "positive",
+            "type": "adj",
+            "ipa": "/ˈpɒzətɪv/",
+            "meaning": "tích cực",
+            "example": "Having a positive mindset is key to achieving success."
+        },
+        {
+            "word": "recreational",
+            "type": "adj",
+            "ipa": "/ˌrekriˈeɪʃənl/",
+            "meaning": "giải trí, tiêu khiển",
+            "example": "The park provides various recreational facilities for families."
+        },
+        {
+            "word": "successful",
+            "type": "adj",
+            "ipa": "/səkˈsesfl/",
+            "meaning": "thành công",
+            "example": "He is a very successful businessman with a global reputation."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "achieve",
+            "type": "v",
+            "ipa": "/əˈtʃiːv/",
+            "meaning": "đạt được, gặt hái",
+            "example": "With hard work, you can achieve anything you set your mind to."
+        },
+        {
+            "word": "appeal",
+            "type": "v",
+            "ipa": "/əˈpiːl/",
+            "meaning": "hấp dẫn",
+            "example": "The idea of working from home really appeals to me."
+        },
+        {
+            "word": "attract",
+            "type": "v",
+            "ipa": "/əˈtrækt/",
+            "meaning": "thu hút",
+            "example": "The beautiful scenery attracts thousands of tourists every year."
+        },
+        {
+            "word": "choose",
+            "type": "v",
+            "ipa": "/tʃuːz/",
+            "meaning": "lựa chọn",
+            "example": "It's important to choose a career that you are passionate about."
+        },
+        {
+            "word": "express",
+            "type": "v",
+            "ipa": "/ɪkˈspres/",
+            "meaning": "bày tỏ, thể hiện",
+            "example": "Music is a great way to express your emotions."
+        },
+        {
+            "word": "enjoy",
+            "type": "v",
+            "ipa": "/ɪnˈdʒɔɪ/",
+            "meaning": "tận hưởng, thích thú",
+            "example": "I really enjoy spending time with my family at the weekend."
+        },
+        {
+            "word": "fulfil",
+            "type": "v",
+            "ipa": "/fʊlˈfɪl/",
+            "meaning": "hoàn thành, đáp ứng",
+            "example": "He finally managed to fulfil his dream of becoming a pilot."
+        },
+        {
+            "word": "improve",
+            "type": "v",
+            "ipa": "/ɪmˈpruːv/",
+            "meaning": "cải thiện, nâng cao",
+            "example": "I'm taking an English course to improve my speaking skills."
+        },
+        {
+            "word": "motivate",
+            "type": "v",
+            "ipa": "/ˈməʊtɪveɪt/",
+            "meaning": "thúc đẩy, tạo động lực",
+            "example": "A good teacher knows how to motivate their students."
+        },
+        {
+            "word": "participate",
+            "type": "v",
+            "ipa": "/pɑːˈtɪsɪpeɪt/",
+            "meaning": "tham gia",
+            "example": "Everyone is encouraged to participate in the discussion."
+        },
+        {
+            "word": "regret",
+            "type": "v",
+            "ipa": "/rɪˈɡret/",
+            "meaning": "hối tiếc",
+            "example": "I regret not studying harder when I was at school."
+        },
+        {
+            "word": "relax",
+            "type": "v",
+            "ipa": "/rɪˈlæks/",
+            "meaning": "thư giãn",
+            "example": "Listening to soft music helps me relax after a long day."
+        },
+        {
+            "word": "satisfy",
+            "type": "v",
+            "ipa": "/ˈsætɪsfaɪ/",
+            "meaning": "làm hài lòng, thỏa mãn",
+            "example": "We aim to satisfy all our customers' needs."
+        }
+    ],
+    "phrases_and_idioms": [
+        {
+            "word": "lead a happy life",
+            "type": "v phr",
+            "ipa": "/liːd ə ˈhæpi laɪf/",
+            "meaning": "sống một cuộc đời hạnh phúc",
+            "example": "He leads a happy life in a small village by the sea."
+        },
+        {
+            "word": "live life on the edge",
+            "type": "v phr",
+            "ipa": "/lɪv laɪf ɒn ðə edʒ/",
+            "meaning": "sống mạo hiểm, thích cảm giác mạnh",
+            "example": "Extreme sports athletes often enjoy living life on the edge."
+        },
+        {
+            "word": "live life to the full",
+            "type": "v phr",
+            "ipa": "/lɪv laɪf tuː ðə fʊl/",
+            "meaning": "sống hết mình, sống trọn vẹn",
+            "example": "She believes in living life to the full and tries new things every month."
+        },
+        {
+            "word": "make a choice",
+            "type": "v phr",
+            "ipa": "/meɪk ə tʃɔɪs/",
+            "meaning": "đưa ra lựa chọn",
+            "example": "You have to make a choice between your career and your hobby."
+        },
+        {
+            "word": "make a decision",
+            "type": "v phr",
+            "ipa": "/meɪk ə dɪˈsɪʒn/",
+            "meaning": "ra quyết định",
+            "example": "It's time to make a decision about our holiday destination."
+        },
+        {
+            "word": "make a living",
+            "type": "v phr",
+            "ipa": "/meɪk ə ˈlɪvɪŋ/",
+            "meaning": "kiếm sống (mưu sinh)",
+            "example": "It's hard to make a living as a freelance artist."
+        },
+        {
+            "word": "meet a need",
+            "type": "v phr",
+            "ipa": "/miːt ə niːd/",
+            "meaning": "đáp ứng một nhu cầu",
+            "example": "This new service aims to meet the needs of local elderly people."
+        },
+        {
+            "word": "miss an opportunity",
+            "type": "v phr",
+            "ipa": "/mɪs ən ˌɒpəˈtjuːnəti/",
+            "meaning": "bỏ lỡ cơ hội",
+            "example": "He missed a great opportunity by not taking the promotion."
+        },
+        {
+            "word": "play a role",
+            "type": "v phr",
+            "ipa": "/pleɪ ə rəʊl/",
+            "meaning": "đóng vai trò",
+            "example": "Diet plays a vital role in maintaining good health."
+        },
+        {
+            "word": "put pressure on",
+            "type": "v phr",
+            "ipa": "/pʊt ˈpreʃə(r) ɒn/",
+            "meaning": "gây áp lực lên (ai/cái gì)",
+            "example": "The government is putting pressure on companies to reduce carbon emissions."
+        },
+        {
+            "word": "set a goal",
+            "type": "v phr",
+            "ipa": "/set ə ɡəʊl/",
+            "meaning": "đặt ra mục tiêu",
+            "example": "It's important to set realistic goals for yourself."
+        },
+        {
+            "word": "take part (in)",
+            "type": "v phr",
+            "ipa": "/teɪk pɑːt ɪn/",
+            "meaning": "tham gia (vào)",
+            "example": "Over 500 athletes took part in the marathon."
+        },
+        {
+            "word": "work hard for a living",
+            "type": "v phr",
+            "ipa": "/wɜːk hɑːd fɔː(r) ə ˈlɪvɪŋ/",
+            "meaning": "làm việc vất vả để kiếm sống",
+            "example": "Most people in the city have to work hard for a living."
+        },
+        {
+            "word": "all walks of life",
+            "type": "n phr",
+            "ipa": "/ɔːl wɔːks əv laɪf/",
+            "meaning": "mọi tầng lớp xã hội",
+            "example": "The festival attracts people from all walks of life."
+        },
+        {
+            "word": "cost of living",
+            "type": "n phr",
+            "ipa": "/kɒst əv ˈlɪvɪŋ/",
+            "meaning": "chi phí sinh hoạt",
+            "example": "The cost of living is much higher in London than in Manchester."
+        },
+        {
+            "word": "lifelong ambition",
+            "type": "n phr",
+            "ipa": "/ˈlaɪflɒŋ æmˈbɪʃn/",
+            "meaning": "tham vọng/ước mơ cả đời",
+            "example": "It was his lifelong ambition to climb Mount Everest."
+        },
+        {
+            "word": "living expenses",
+            "type": "n phr",
+            "ipa": "/ˈlɪvɪŋ ɪkˈspensɪz/",
+            "meaning": "các khoản chi tiêu sinh hoạt",
+            "example": "Rent and food are my biggest living expenses."
+        },
+        {
+            "word": "once in a lifetime opportunity",
+            "type": "phr",
+            "ipa": "/wʌns ɪn ə ˈlaɪftaɪm ˌɒpəˈtjuːnəti/",
+            "meaning": "cơ hội ngàn năm có một",
+            "example": "A chance to work for NASA is a once in a lifetime opportunity."
+        },
+        {
+            "word": "standard of living",
+            "type": "n phr",
+            "ipa": "/ˈstændəd əv ˈlɪvɪŋ/",
+            "meaning": "mức sống",
+            "example": "The country has a high standard of living thanks to its robust economy."
+        },
+        {
+            "word": "way of life",
+            "type": "n phr",
+            "ipa": "/weɪ əv laɪf/",
+            "meaning": "lối sống, nếp sống đặc trưng",
+            "example": "Hunting is still a vital part of their traditional way of life."
+        }
+    ]
+}

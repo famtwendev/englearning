@@ -1,8 +1,14 @@
 @echo off
 echo ===================================================
-echo Checking required ports (8080, 8081, 8082)...
+echo Checking required ports (8080, 8081, 8082, 8083)...
 echo ===================================================
 
+:: Check Port 8080 (API Gateway)
+netstat -ano | findstr ":8080 " >nul
+if %errorlevel% equ 0 (
+    echo [ERROR] Port 8080 is already in use! Cannot start API Gateway.
+    goto :portInUse
+)
 :: Check Port 8081 (Identity Service)
 netstat -ano | findstr ":8081 " >nul
 if %errorlevel% equ 0 (
@@ -17,12 +23,14 @@ if %errorlevel% equ 0 (
     goto :portInUse
 )
 
-:: Check Port 8080 (API Gateway)
-netstat -ano | findstr ":8080 " >nul
+:: Check Port 8083 (Assessment Service)
+netstat -ano | findstr ":8083 " >nul
 if %errorlevel% equ 0 (
-    echo [ERROR] Port 8080 is already in use! Cannot start API Gateway.
+    echo [ERROR] Port 8083 is already in use! Cannot start Assessment Service.
     goto :portInUse
 )
+
+
 
 echo All ports are available. Starting the system...
 echo.
@@ -33,7 +41,11 @@ start "Identity Service" cmd /k "java -jar identity-service\target\identity-serv
 echo 2. Starting Core Learning Service (Port 8082)...
 start "Core Learning Service" cmd /k "java -jar core-learning-service\target\core-learning-service-1.0.0-SNAPSHOT.jar"
 
-echo 3. Starting API Gateway (Port 8080)...
+echo 3. Starting Assessment Service (Port 8083)...
+start "Assessment Service" cmd /k "java -jar assessment-service\target\assessment-service-1.0.0-SNAPSHOT.jar"
+
+
+echo 4. Starting API Gateway (Port 8080)...
 start "API Gateway" cmd /k "java -jar api-gateway\target\api-gateway-1.0.0-SNAPSHOT.jar"
 
 echo.

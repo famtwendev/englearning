@@ -77,18 +77,16 @@ const Dashboard: React.FC = () => {
                             📖 Reading Practice
                             <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
                         </div>
-                        <div className="block text-center bg-gray-50 hover:bg-gray-100 border border-gray-200 text-gray-500 cursor-not-allowed rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
+                        <Link to="/exam/landing" className="block text-center bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-700 rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
                             📝 The tests
-                            <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
-                        </div>
+                        </Link>
                         <div className="block text-center bg-gray-50 hover:bg-gray-100 border border-gray-200 text-gray-500 cursor-not-allowed rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
                             📝 Grammar summary
                             <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
                         </div>
-                        <div className="block text-center bg-gray-50 hover:bg-gray-100 border border-gray-200 text-gray-500 cursor-not-allowed rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
-                            📝 IPA
-                            <span className="absolute top-2 right-2 text-[10px] bg-gray-200 text-gray-600 px-2 py-1 rounded">Locked</span>
-                        </div>
+                        <Link to="/ipa" className="block text-center bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-700 rounded-xl p-6 font-semibold transition-colors duration-200 relative group">
+                            🔊 IPA Learning
+                        </Link>
                     </div>
                 </div>
             </div>

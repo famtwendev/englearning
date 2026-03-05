@@ -1,0 +1,501 @@
+{
+    "topic": "Keeping Fit",
+    "description": "Diet, health and exercise.",
+    "difficulty": "LOW",
+    "nouns": [
+        {
+            "word": "allergy",
+            "type": "n",
+            "ipa": "/ˈælərdʒi/",
+            "meaning": "dị ứng",
+            "example": "He developed a severe nut allergy as a child."
+        },
+        {
+            "word": "anxiety",
+            "type": "n",
+            "ipa": "/æŋˈzaɪəti/",
+            "meaning": "lo âu, sự lo lắng",
+            "example": "Yoga and meditation are effective ways to manage anxiety."
+        },
+        {
+            "word": "appetite",
+            "type": "n",
+            "ipa": "/ˈæpɪtaɪt/",
+            "meaning": "sự thèm ăn",
+            "example": "A walk in the fresh air always gives me a good appetite."
+        },
+        {
+            "word": "artery",
+            "type": "n",
+            "ipa": "/ˈɑːtəri/",
+            "meaning": "động mạch",
+            "example": "Hardening of the arteries is a major cause of heart disease."
+        },
+        {
+            "word": "asset",
+            "type": "n",
+            "ipa": "/ˈæset/",
+            "meaning": "tài sản",
+            "example": "Good health is arguably the most valuable asset a person can have."
+        },
+        {
+            "word": "benefit",
+            "type": "n",
+            "ipa": "/ˈbɛnɪfɪt/",
+            "meaning": "lợi ích",
+            "example": "The health benefits of a balanced diet are well-documented."
+        },
+        {
+            "word": "cravings",
+            "type": "n",
+            "ipa": "/ˈkreɪvɪŋz/",
+            "meaning": "cảm giác thèm ăn mạnh mẽ",
+            "example": "Many people struggle with cravings for sugary snacks in the afternoon."
+        },
+        {
+            "word": "depression",
+            "type": "n",
+            "ipa": "/dɪˈprɛʃən/",
+            "meaning": "trầm cảm",
+            "example": "Regular physical activity can help alleviate symptoms of depression."
+        },
+        {
+            "word": "diagnosis",
+            "type": "n",
+            "ipa": "/ˌdaɪəɡˈnəʊsɪs/",
+            "meaning": "chẩn đoán",
+            "example": "The doctor is still waiting for the results before making a final diagnosis."
+        },
+        {
+            "word": "diet",
+            "type": "n",
+            "ipa": "/ˈdaɪət/",
+            "meaning": "chế độ ăn uống",
+            "example": "It is important to maintain a healthy, balanced diet."
+        },
+        {
+            "word": "dietician",
+            "type": "n",
+            "ipa": "/ˌdaɪəˈtɪʃən/",
+            "meaning": "chuyên gia dinh dưỡng",
+            "example": "The dietician recommended increasing the intake of leafy greens."
+        },
+        {
+            "word": "disease",
+            "type": "n",
+            "ipa": "/dɪˈziːz/",
+            "meaning": "bệnh lý",
+            "example": "Chronic diseases like diabetes require long-term management."
+        },
+        {
+            "word": "disorder",
+            "type": "n",
+            "ipa": "/dɪsˈɔːdə(r)/",
+            "meaning": "rối loạn",
+            "example": "He was treated for a minor digestive disorder."
+        },
+        {
+            "word": "exercise",
+            "type": "n",
+            "ipa": "/ˈɛksəsaɪz/",
+            "meaning": "bài tập thể dục",
+            "example": "Lack of exercise is a leading cause of obesity."
+        },
+        {
+            "word": "factor",
+            "type": "n",
+            "ipa": "/ˈfæktə(r)/",
+            "meaning": "yếu tố",
+            "example": "Stress is often a contributing factor to high blood pressure."
+        },
+        {
+            "word": "fast food",
+            "type": "n",
+            "ipa": "/ˈfæst fuːd/",
+            "meaning": "thực phẩm nhanh",
+            "example": "The high salt content in fast food can be detrimental to your health."
+        },
+        {
+            "word": "fat",
+            "type": "n",
+            "ipa": "/fæt/",
+            "meaning": "mỡ, chất béo",
+            "example": "Try to cut down on foods that are high in saturated fat."
+        },
+        {
+            "word": "harm",
+            "type": "n",
+            "ipa": "/hɑːm/",
+            "meaning": "sự tổn hại, thiệt hại",
+            "example": "Smoking causes serious harm to the lungs."
+        },
+        {
+            "word": "health",
+            "type": "n",
+            "ipa": "/hɛlθ/",
+            "meaning": "sức khỏe",
+            "example": "Public health campaigns aim to reduce the rate of smoking."
+        },
+        {
+            "word": "heart attack",
+            "type": "n",
+            "ipa": "/hɑːt əˈtæk/",
+            "meaning": "cơn đau tim",
+            "example": "He is recovering well after suffering a mild heart attack."
+        },
+        {
+            "word": "infection",
+            "type": "n",
+            "ipa": "/ɪnˈfɛkʃən/",
+            "meaning": "nhiễm trùng",
+            "example": "Always clean a wound properly to prevent infection."
+        },
+        {
+            "word": "ingredients",
+            "type": "n",
+            "ipa": "/ɪnˈɡriːdiənts/",
+            "meaning": "thành phần (nguyên liệu)",
+            "example": "Check the label to see the list of ingredients in the product."
+        },
+        {
+            "word": "insomnia",
+            "type": "n",
+            "ipa": "/ɪnˈsəʊmniə/",
+            "meaning": "mất ngủ",
+            "example": "Stress at work can often lead to insomnia."
+        },
+        {
+            "word": "intake",
+            "type": "n",
+            "ipa": "/ˈɪnteɪk/",
+            "meaning": "lượng tiêu thụ, sự hấp thụ",
+            "example": "You should lower your daily intake of sugar and salt."
+        },
+        {
+            "word": "junk food",
+            "type": "n",
+            "ipa": "/dʒʌŋk fuːd/",
+            "meaning": "thức ăn nhanh không tốt cho sức khỏe",
+            "example": "Kids should be encouraged to eat fruit instead of junk food."
+        },
+        {
+            "word": "muscle",
+            "type": "n",
+            "ipa": "/ˈmʌsl/",
+            "meaning": "cơ bắp",
+            "example": "He goes to the gym to build muscle and stay fit."
+        },
+        {
+            "word": "nutrient",
+            "type": "n",
+            "ipa": "/ˈnjuːtrɪənt/",
+            "meaning": "dinh dưỡng",
+            "example": "Vegetables are rich in essential nutrients."
+        },
+        {
+            "word": "nutrition",
+            "type": "n",
+            "ipa": "/njuːˈtrɪʃən/",
+            "meaning": "dinh dưỡng",
+            "example": "Good nutrition is vital for a child's development."
+        },
+        {
+            "word": "obesity",
+            "type": "n",
+            "ipa": "/əʊˈbiːsɪti/",
+            "meaning": "béo phì",
+            "example": "Obesity is becoming a major public health crisis worldwide."
+        },
+        {
+            "word": "onset",
+            "type": "n",
+            "ipa": "/ˈɒnsɛt/",
+            "meaning": "sự bắt đầu (bệnh tật)",
+            "example": "Early treatment can delay the onset of the disease."
+        },
+        {
+            "word": "portion",
+            "type": "n",
+            "ipa": "/ˈpɔːʃən/",
+            "meaning": "phần (lượng ăn)",
+            "example": "The restaurant serves very generous portions of pasta."
+        },
+        {
+            "word": "risk",
+            "type": "n",
+            "ipa": "/rɪsk/",
+            "meaning": "rủi ro",
+            "example": "A sedentary lifestyle increases the risk of heart disease."
+        },
+        {
+            "word": "serving",
+            "type": "n",
+            "ipa": "/ˈsɜːvɪŋ/",
+            "meaning": "khẩu phần ăn",
+            "example": "The recipe makes enough for four servings."
+        },
+        {
+            "word": "stress",
+            "type": "n",
+            "ipa": "/strɛs/",
+            "meaning": "căng thẳng, stress",
+            "example": "He's under a lot of stress because of his exams."
+        },
+        {
+            "word": "stroke",
+            "type": "n",
+            "ipa": "/strəʊk/",
+            "meaning": "đột quỵ",
+            "example": "The doctor warned that high blood pressure can lead to a stroke."
+        },
+        {
+            "word": "treatment",
+            "type": "n",
+            "ipa": "/ˈtriːtmənt/",
+            "meaning": "sự điều trị",
+            "example": "She is responding well to the medical treatment."
+        },
+        {
+            "word": "therapy",
+            "type": "n",
+            "ipa": "/ˈθɛrəpi/",
+            "meaning": "liệu pháp điều trị",
+            "example": "Physical therapy can help people regain their mobility after an injury."
+        },
+        {
+            "word": "variety",
+            "type": "n",
+            "ipa": "/vəˈraɪəti/",
+            "meaning": "sự đa dạng",
+            "example": "A variety of different exercises will keep your workout interesting."
+        },
+        {
+            "word": "weight",
+            "type": "n",
+            "ipa": "/weɪt/",
+            "meaning": "cân nặng",
+            "example": "He has been trying to lose weight for several months."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "acute",
+            "type": "adj",
+            "ipa": "/əˈkjuːt/",
+            "meaning": "cấp tính, dữ dội",
+            "example": "She was admitted to the hospital with acute abdominal pain."
+        },
+        {
+            "word": "allergic",
+            "type": "adj",
+            "ipa": "/əˈlɜːdʒɪk/",
+            "meaning": "dị ứng",
+            "example": "I am allergic to cat fur."
+        },
+        {
+            "word": "alternate",
+            "type": "adj",
+            "ipa": "/ɔːlˈtɜːnət/",
+            "meaning": "thay thế",
+            "example": "You can use honey as an alternate sweetener to sugar."
+        },
+        {
+            "word": "brisk",
+            "type": "adj",
+            "ipa": "/brɪsk/",
+            "meaning": "mạnh mẽ, nhanh chóng",
+            "example": "Taking a brisk walk daily can improve cardiovascular health."
+        },
+        {
+            "word": "chronic",
+            "type": "adj",
+            "ipa": "/ˈkrɒnɪk/",
+            "meaning": "mãn tính",
+            "example": "Chronic stress can lead to various health problems."
+        },
+        {
+            "word": "harmful",
+            "type": "adj",
+            "ipa": "/ˈhɑːmfəl/",
+            "meaning": "có hại",
+            "example": "Excessive sun exposure is harmful to the skin."
+        },
+        {
+            "word": "healthy",
+            "type": "adj",
+            "ipa": "/ˈhɛlθi/",
+            "meaning": "khỏe mạnh",
+            "example": "Staying hydrated is a healthy habit to maintain."
+        },
+        {
+            "word": "infectious",
+            "type": "adj",
+            "ipa": "/ɪnˈfɛkʃəs/",
+            "meaning": "mang tính truyền nhiễm",
+            "example": "Flu is a highly infectious disease."
+        },
+        {
+            "word": "moderate",
+            "type": "adj",
+            "ipa": "/ˈmɒdəreɪt/",
+            "meaning": "vừa phải, điều độ",
+            "example": "Moderate exercise is recommended for people of all ages."
+        },
+        {
+            "word": "obese",
+            "type": "adj",
+            "ipa": "/əʊˈbiːs/",
+            "meaning": "béo phì",
+            "example": "A person is considered obese if their BMI is over 30."
+        },
+        {
+            "word": "overweight",
+            "type": "adj",
+            "ipa": "/ˌəʊvəˈweɪt/",
+            "meaning": "thừa cân",
+            "example": "Being slightly overweight can increase the strain on your joints."
+        },
+        {
+            "word": "persistent",
+            "type": "adj",
+            "ipa": "/pəˈsɪstənt/",
+            "meaning": "dai dẳng",
+            "example": "If you have a persistent cough, you should see a doctor."
+        },
+        {
+            "word": "regular",
+            "type": "adj",
+            "ipa": "/ˈrɛɡjʊlə(r)/",
+            "meaning": "đều đặn",
+            "example": "Regular check-ups are essential for early disease detection."
+        },
+        {
+            "word": "vital",
+            "type": "adj",
+            "ipa": "/ˈvaɪtl/",
+            "meaning": "quan trọng, thiết yếu",
+            "example": "Sleep plays a vital role in physical and mental health."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "avoid",
+            "type": "v",
+            "ipa": "/əˈvɔɪd/",
+            "meaning": "tránh, né tránh",
+            "example": "Avoid processed foods to maintain a better diet."
+        },
+        {
+            "word": "counteract",
+            "type": "v",
+            "ipa": "/ˌkaʊntərˈækt/",
+            "meaning": "chống lại, khắc phục",
+            "example": "The medicine is designed to counteract the effects of the poison."
+        },
+        {
+            "word": "curb",
+            "type": "v",
+            "ipa": "/kɜːb/",
+            "meaning": "kiềm chế, hạn chế",
+            "example": "We need to curb our consumption of fatty foods."
+        },
+        {
+            "word": "cure",
+            "type": "v",
+            "ipa": "/kjʊə(r)/",
+            "meaning": "chữa trị",
+            "example": "Antibiotics are used to cure bacterial infections."
+        },
+        {
+            "word": "diminish",
+            "type": "v",
+            "ipa": "/dɪˈmɪnɪʃ/",
+            "meaning": "giảm bớt",
+            "example": "The pain slowly began to diminish after he took the pill."
+        },
+        {
+            "word": "disrupt",
+            "type": "v",
+            "ipa": "/dɪsˈrʌpt/",
+            "meaning": "làm gián đoạn",
+            "example": "Drinking coffee late at night can disrupt your sleep pattern."
+        },
+        {
+            "word": "eliminate",
+            "type": "v",
+            "ipa": "/ɪˈlɪmɪneɪt/",
+            "meaning": "loại bỏ",
+            "example": "You should try to eliminate stress from your life as much as possible."
+        },
+        {
+            "word": "maintain",
+            "type": "v",
+            "ipa": "/meɪnˈteɪn/",
+            "meaning": "duy trì",
+            "example": "It can be difficult to maintain a healthy weight without exercise."
+        },
+        {
+            "word": "overdo",
+            "type": "v",
+            "ipa": "/ˌəʊvərˈduː/",
+            "meaning": "làm quá mức",
+            "example": "Don't overdo the exercise if you haven't been active for a while."
+        },
+        {
+            "word": "overeat",
+            "type": "v",
+            "ipa": "/ˌəʊvərˈiːt/",
+            "meaning": "ăn quá mức",
+            "example": "If you overeat regularly, you will inevitably gain weight."
+        },
+        {
+            "word": "prevent",
+            "type": "v",
+            "ipa": "/prɪˈvɛnt/",
+            "meaning": "ngăn ngừa",
+            "example": "Vaccination is the best way to prevent certain diseases."
+        },
+        {
+            "word": "recommend",
+            "type": "v",
+            "ipa": "/ˌrɛkəˈmɛnd/",
+            "meaning": "khuyến nghị",
+            "example": "Doctors recommend eating at least five portions of fruit and veg a day."
+        },
+        {
+            "word": "recover",
+            "type": "v",
+            "ipa": "/rɪˈkʌvə(r)/",
+            "meaning": "phục hồi",
+            "example": "It took him nearly a month to fully recover from the flu."
+        },
+        {
+            "word": "reduce",
+            "type": "v",
+            "ipa": "/rɪˈdjuːs/",
+            "meaning": "giảm bớt",
+            "example": "Walking instead of driving helps reduce carbon emissions and keeps you fit."
+        },
+        {
+            "word": "skip",
+            "type": "v",
+            "ipa": "/skɪp/",
+            "meaning": "bỏ qua",
+            "example": "You should never skip breakfast as it's the most important meal of the day."
+        },
+        {
+            "word": "stimulate",
+            "type": "v",
+            "ipa": "/ˈstɪmjʊleɪt/",
+            "meaning": "kích thích",
+            "example": "Exercise stimulates the release of endorphins, which make you feel happy."
+        },
+        {
+            "word": "trigger",
+            "type": "v",
+            "ipa": "/ˈtrɪɡə(r)/",
+            "meaning": "gây ra, kích hoạt",
+            "example": "Cold weather can sometimes trigger an asthma attack."
+        }
+    ]
+}

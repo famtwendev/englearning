@@ -1,0 +1,368 @@
+{
+    "topic": "The Natural World",
+    "description": "Flora and fauna, agriculture",
+    "difficulty": "LOW",
+    "nouns": [
+        {
+            "word": "agriculture",
+            "type": "n",
+            "ipa": "/ˈæɡrɪkʌltʃə(r)/",
+            "meaning": "nông nghiệp",
+            "example": "Modern agriculture relies heavily on technology and irrigation."
+        },
+        {
+            "word": "animal kingdom",
+            "type": "n",
+            "ipa": "/ˈænɪml ˈkɪŋdəm/",
+            "meaning": "vương quốc động vật",
+            "example": "Lions are often called the kings of the animal kingdom."
+        },
+        {
+            "word": "burrow",
+            "type": "n",
+            "ipa": "/ˈbʌrəʊ/",
+            "meaning": "hang (thỏ, chuột đào để ở)",
+            "example": "Rabbits spend a lot of their time underground in a burrow."
+        },
+        {
+            "word": "climate",
+            "type": "n",
+            "ipa": "/ˈklaɪmət/",
+            "meaning": "khí hậu",
+            "example": "The global climate is changing at an alarming rate."
+        },
+        {
+            "word": "crop(s)",
+            "type": "n",
+            "ipa": "/krɒp/",
+            "meaning": "mùa màng, cây trồng",
+            "example": "Rice is the main crop grown in this region."
+        },
+        {
+            "word": "decline",
+            "type": "n",
+            "ipa": "/dɪˈklaɪn/",
+            "meaning": "sự suy giảm",
+            "example": "There has been a sharp decline in the bee population."
+        },
+        {
+            "word": "den",
+            "type": "n",
+            "ipa": "/den/",
+            "meaning": "hang, sào huyệt (thú dữ như hổ, gấu)",
+            "example": "The mother bear stayed in her den with the cubs all winter."
+        },
+        {
+            "word": "disaster",
+            "type": "n",
+            "ipa": "/dɪˈzɑːstə(r)/",
+            "meaning": "thảm họa",
+            "example": "The earthquake was a major natural disaster for the country."
+        },
+        {
+            "word": "ecological balance",
+            "type": "n",
+            "ipa": "/ˌiːkəˈlɒdʒɪkl ˈbæləns/",
+            "meaning": "cân bằng sinh thái",
+            "example": "Killing off top predators can upset the entire ecological balance."
+        },
+        {
+            "word": "ecology",
+            "type": "n",
+            "ipa": "/iˈkɒlədʒi/",
+            "meaning": "sinh thái học",
+            "example": "She is studying the ecology of tropical rainforests."
+        },
+        {
+            "word": "evolution",
+            "type": "n",
+            "ipa": "/ˌiːvəˈluːʃn/",
+            "meaning": "sự tiến hóa",
+            "example": "Darwin's theory of evolution changed how we see the natural world."
+        },
+        {
+            "word": "extinction",
+            "type": "n",
+            "ipa": "/ɪkˈstɪŋkʃn/",
+            "meaning": "sự tuyệt chủng",
+            "example": "Many species are currently facing the threat of extinction."
+        },
+        {
+            "word": "fauna",
+            "type": "n",
+            "ipa": "/ˈfɔːnə/",
+            "meaning": "hệ động vật",
+            "example": "The local fauna includes several species of rare birds."
+        },
+        {
+            "word": "flora",
+            "type": "n",
+            "ipa": "/ˈflɔːrə/",
+            "meaning": "hệ thực vật",
+            "example": "Desert flora must be able to survive with very little water."
+        },
+        {
+            "word": "genetics",
+            "type": "n",
+            "ipa": "/dʒəˈnetɪks/",
+            "meaning": "di truyền học",
+            "example": "Genetics plays a huge role in determining an animal's traits."
+        },
+        {
+            "word": "habitat",
+            "type": "n",
+            "ipa": "/ˈhæbɪtæt/",
+            "meaning": "môi trường sống",
+            "example": "Polar bears are losing their natural habitat due to melting ice."
+        },
+        {
+            "word": "human nature",
+            "type": "n",
+            "ipa": "/ˈhjuːmən ˈneɪtʃə/",
+            "meaning": "bản tính con người",
+            "example": "It is human nature to be curious about the world around us."
+        },
+        {
+            "word": "insect",
+            "type": "n",
+            "ipa": "/ˈɪnsekt/",
+            "meaning": "côn trùng",
+            "example": "Ants and bees are examples of social insects."
+        },
+        {
+            "word": "Mother Nature",
+            "type": "n",
+            "ipa": "/ˈmʌðə ˈneɪtʃə/",
+            "meaning": "Mẹ Thiên Nhiên",
+            "example": "You cannot argue with Mother Nature when a storm hits."
+        },
+        {
+            "word": "pesticides",
+            "type": "n",
+            "ipa": "/ˈpestɪsaɪdz/",
+            "meaning": "thuốc trừ sâu",
+            "example": "The excessive use of pesticides can harm beneficial insects."
+        },
+        {
+            "word": "predator",
+            "type": "n",
+            "ipa": "/ˈpredətə(r)/",
+            "meaning": "động vật ăn thịt, kẻ săn mồi",
+            "example": "Whales have very few natural predators in the ocean."
+        },
+        {
+            "word": "prey",
+            "type": "n",
+            "ipa": "/preɪ/",
+            "meaning": "con mồi",
+            "example": "Small rodents are common prey for owls."
+        },
+        {
+            "word": "repercussions",
+            "type": "n",
+            "ipa": "/ˌriːpəˈkʌʃnz/",
+            "meaning": "hậu quả, tác động ngược lại",
+            "example": "The loss of forests has serious repercussions for the climate."
+        },
+        {
+            "word": "scent",
+            "type": "n",
+            "ipa": "/sent/",
+            "meaning": "mùi hương",
+            "example": "Dogs use their sense of smell to track the scent of animals."
+        },
+        {
+            "word": "species",
+            "type": "n",
+            "ipa": "/ˈspiːʃiːz/",
+            "meaning": "loài",
+            "example": "There are thousands of species of butterflies in the world."
+        },
+        {
+            "word": "soil",
+            "type": "n",
+            "ipa": "/sɔɪl/",
+            "meaning": "đất",
+            "example": "The soil here is very rich and perfect for farming."
+        },
+        {
+            "word": "vegetation",
+            "type": "n",
+            "ipa": "/ˌvedʒəˈteɪʃn/",
+            "meaning": "thảm thực vật",
+            "example": "The hills are covered in thick tropical vegetation."
+        },
+        {
+            "word": "vermin",
+            "type": "n",
+            "ipa": "/ˈvɜːmɪn/",
+            "meaning": "động vật gây hại (chuột, gián...)",
+            "example": "The farmhouse was infested with vermin like rats and mice."
+        },
+        {
+            "word": "weed",
+            "type": "n",
+            "ipa": "/wiːd/",
+            "meaning": "cỏ dại",
+            "example": "My garden is full of weeds that need to be pulled out."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "arid",
+            "type": "adj",
+            "ipa": "/ˈærɪd/",
+            "meaning": "khô cằn",
+            "example": "The Sahara Desert is one of the most arid regions on Earth."
+        },
+        {
+            "word": "catastrophic",
+            "type": "adj",
+            "ipa": "/ˌkætəˈstrɒfɪk/",
+            "meaning": "thảm khốc",
+            "example": "A massive oil spill would be catastrophic for the marine life."
+        },
+        {
+            "word": "disastrous",
+            "type": "adj",
+            "ipa": "/dɪˈzɑːstrəs/",
+            "meaning": "tai hại, thảm khốc",
+            "example": "The flood had a disastrous effect on the local economy."
+        },
+        {
+            "word": "domesticated",
+            "type": "adj",
+            "ipa": "/dəˈmestɪkeɪtɪd/",
+            "meaning": "đã được thuần hóa",
+            "example": "Dogs were among the first animals to be domesticated by humans."
+        },
+        {
+            "word": "endangered",
+            "type": "adj",
+            "ipa": "/ɪnˈdeɪndʒəd/",
+            "meaning": "có nguy cơ tuyệt chủng",
+            "example": "Pandas are an endangered species that need protection."
+        },
+        {
+            "word": "extinct",
+            "type": "adj",
+            "ipa": "/ɪkˈstɪŋkt/",
+            "meaning": "tuyệt chủng",
+            "example": "Dinosaurs became extinct millions of years ago."
+        },
+        {
+            "word": "genetically-modified",
+            "type": "adj",
+            "ipa": "/dʒəˈnetɪkli ˈmɒdɪfaɪd/",
+            "meaning": "biến đổi gen",
+            "example": "Some people are concerned about the safety of genetically-modified crops."
+        },
+        {
+            "word": "introduced",
+            "type": "adj",
+            "ipa": "/ˌɪntrəˈdjuːst/",
+            "meaning": "được đưa vào (loài ngoại lai)",
+            "example": "Introduced species can often outcompete native wildlife."
+        },
+        {
+            "word": "native",
+            "type": "adj",
+            "ipa": "/ˈneɪtɪv/",
+            "meaning": "bản địa",
+            "example": "The kangaroo is native to Australia."
+        },
+        {
+            "word": "natural",
+            "type": "adj",
+            "ipa": "/ˈnætʃrəl/",
+            "meaning": "tự nhiên",
+            "example": "It is natural for animals to protect their young."
+        },
+        {
+            "word": "resistant",
+            "type": "adj",
+            "ipa": "/rɪˈzɪstənt/",
+            "meaning": "có sức chịu đựng, kháng lại",
+            "example": "Scientists are developing crops that are resistant to drought."
+        },
+        {
+            "word": "semi-arid",
+            "type": "adj",
+            "ipa": "/ˌsemi ˈærɪd/",
+            "meaning": "bán khô hạn",
+            "example": "The region has a semi-arid climate with long dry summers."
+        },
+        {
+            "word": "tropical",
+            "type": "adj",
+            "ipa": "/ˈtrɒpɪkl/",
+            "meaning": "nhiệt đới",
+            "example": "Many exotic fruits grow in tropical countries."
+        },
+        {
+            "word": "vulnerable",
+            "type": "adj",
+            "ipa": "/ˈvʌlnərəbl/",
+            "meaning": "dễ bị tổn thương",
+            "example": "Young birds are very vulnerable to predators before they can fly."
+        },
+        {
+            "word": "wild",
+            "type": "adj",
+            "ipa": "/waɪld/",
+            "meaning": "hoang dã",
+            "example": "It is dangerous to approach wild animals in the forest."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "adapt",
+            "type": "v",
+            "ipa": "/əˈdæpt/",
+            "meaning": "thích nghi",
+            "example": "Animals must adapt to their environment to survive."
+        },
+        {
+            "word": "combat",
+            "type": "v",
+            "ipa": "/ˈkɒmbæt/",
+            "meaning": "chống lại, ngăn chặn",
+            "example": "New measures are needed to combat climate change."
+        },
+        {
+            "word": "cultivate",
+            "type": "v",
+            "ipa": "/ˈkʌltɪveɪt/",
+            "meaning": "trồng trọt, canh tác",
+            "example": "Farmers cultivate the land to grow vegetables."
+        },
+        {
+            "word": "eradicate",
+            "type": "v",
+            "ipa": "/ɪˈrædɪkeɪt/",
+            "meaning": "diệt trừ, xóa sổ",
+            "example": "The government is trying to eradicate the invasive weed."
+        },
+        {
+            "word": "evolve",
+            "type": "v",
+            "ipa": "/ɪˈvɒlv/",
+            "meaning": "tiến hóa",
+            "example": "Human beings evolved from ape-like ancestors."
+        },
+        {
+            "word": "hibernate",
+            "type": "v",
+            "ipa": "/ˈhaɪbəneɪt/",
+            "meaning": "ngủ đông",
+            "example": "Bears hibernate during the coldest months of the year."
+        },
+        {
+            "word": "tolerate",
+            "type": "v",
+            "ipa": "/ˈtɒləreɪt/",
+            "meaning": "chịu đựng được",
+            "example": "Some plants can tolerate saltier soils than others."
+        }
+    ]
+}

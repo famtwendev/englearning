@@ -1,0 +1,281 @@
+{
+    "topic": "Through the Ages",
+    "description": "Time ,historical",
+    "difficulty": "LOW",
+    "nouns": [
+        {
+            "word": "age",
+            "type": "n",
+            "ipa": "/eɪdʒ/",
+            "meaning": "thời đại, kỷ nguyên; tuổi",
+            "example": "We are currently living in the digital age."
+        },
+        {
+            "word": "archaeologist",
+            "type": "n",
+            "ipa": "/ˌɑːkiˈɒlədʒɪst/",
+            "meaning": "nhà khảo cổ học",
+            "example": "Archaeologists have discovered ancient ruins deep in the jungle."
+        },
+        {
+            "word": "century",
+            "type": "n",
+            "ipa": "/ˈsentʃəri/",
+            "meaning": "thế kỷ (100 năm)",
+            "example": "The castle was built in the 14th century."
+        },
+        {
+            "word": "decade",
+            "type": "n",
+            "ipa": "/ˈdekeɪd/",
+            "meaning": "thập kỷ (10 năm)",
+            "example": "The fashion of the last decade has changed significantly."
+        },
+        {
+            "word": "era",
+            "type": "n",
+            "ipa": "/ˈɪərə/",
+            "meaning": "kỷ nguyên, thời đại",
+            "example": "The end of the war marked the beginning of a new era of peace."
+        },
+        {
+            "word": "evidence",
+            "type": "n",
+            "ipa": "/ˈevɪdəns/",
+            "meaning": "bằng chứng",
+            "example": "There is no scientific evidence to support that theory."
+        },
+        {
+            "word": "excavation",
+            "type": "n",
+            "ipa": "/ˌekskəˈveɪʃn/",
+            "meaning": "cuộc khai quật",
+            "example": "The excavation of the site revealed several Roman coins."
+        },
+        {
+            "word": "generation",
+            "type": "n",
+            "ipa": "/ˌdʒenəˈreɪʃn/",
+            "meaning": "thế hệ",
+            "example": "This traditions has been passed down through many generations."
+        },
+        {
+            "word": "the Middle Ages",
+            "type": "n",
+            "ipa": "/ðə ˌmɪdl ˈeɪdʒɪz/",
+            "meaning": "thời Trung Cổ",
+            "example": "Life in the Middle Ages was very difficult for most people."
+        },
+        {
+            "word": "millennia",
+            "type": "n (plural)",
+            "ipa": "/mɪˈleniə/",
+            "meaning": "thiên niên kỷ (số nhiều của millennium - 1000 năm)",
+            "example": "Pyramids have stood in the desert for several millennia."
+        },
+        {
+            "word": "period",
+            "type": "n",
+            "ipa": "/ˈpɪəriəd/",
+            "meaning": "giai đoạn, thời kỳ",
+            "example": "The Victorian period was a time of great industrial growth."
+        },
+        {
+            "word": "phase",
+            "type": "n",
+            "ipa": "/feɪz/",
+            "meaning": "giai đoạn (trong một quá trình)",
+            "example": "The project is now entering its final phase."
+        },
+        {
+            "word": "pioneer",
+            "type": "n",
+            "ipa": "/ˌpaɪəˈnɪə(r)/",
+            "meaning": "người tiên phong",
+            "example": "Marie Curie was a pioneer in the study of radioactivity."
+        },
+        {
+            "word": "timeline",
+            "type": "n",
+            "ipa": "/ˈtaɪmlaɪn/",
+            "meaning": "dòng thời gian",
+            "example": "The museum has a timeline showing the history of the city."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "ancient",
+            "type": "adj",
+            "ipa": "/ˈeɪnʃənt/",
+            "meaning": "cổ đại",
+            "example": "Ancient civilizations like Egypt and Mesopotamia were very advanced."
+        },
+        {
+            "word": "chronological",
+            "type": "adj",
+            "ipa": "/ˌkrɒnəˈlɒdʒɪkl/",
+            "meaning": "theo trình tự thời gian",
+            "example": "The books are arranged in chronological order."
+        },
+        {
+            "word": "consecutive",
+            "type": "adj",
+            "ipa": "/kənˈsekjətɪv/",
+            "meaning": "liên tiếp",
+            "example": "It rained for three consecutive days."
+        },
+        {
+            "word": "historical",
+            "type": "adj",
+            "ipa": "/hɪˈstɒrɪkl/",
+            "meaning": "thuộc về lịch sử",
+            "example": "She loves reading historical novels set in the 18th century."
+        },
+        {
+            "word": "imminent",
+            "type": "adj",
+            "ipa": "/ˈɪmɪnənt/",
+            "meaning": "sắp xảy ra (thường là điều không hay)",
+            "example": "The dark clouds suggest that a storm is imminent."
+        },
+        {
+            "word": "middle-aged",
+            "type": "adj",
+            "ipa": "/ˌmɪdl ˈeɪdʒd/",
+            "meaning": "trung niên",
+            "example": "He is a middle-aged man in his late 40s."
+        },
+        {
+            "word": "nostalgic",
+            "type": "adj",
+            "ipa": "/nɒˈstældʒɪk/",
+            "meaning": "hoài niệm",
+            "example": "Seeing those old photos made me feel very nostalgic."
+        },
+        {
+            "word": "prehistoric",
+            "type": "adj",
+            "ipa": "/ˌpriːhɪˈstɒrɪk/",
+            "meaning": "tiền sử",
+            "example": "Prehistoric people lived in caves and used stone tools."
+        },
+        {
+            "word": "prior (to)",
+            "type": "adj",
+            "ipa": "/ˈpraɪə(r)/",
+            "meaning": "trước (khi)",
+            "example": "Please arrive at the airport two hours prior to departure."
+        },
+        {
+            "word": "punctual",
+            "type": "adj",
+            "ipa": "/ˈpʌŋktʃuəl/",
+            "meaning": "đúng giờ",
+            "example": "It's important to be punctual for a job interview."
+        },
+        {
+            "word": "time-consuming",
+            "type": "adj",
+            "ipa": "/ˈtaɪm kənˌsjuːmɪŋ/",
+            "meaning": "tốn thời gian",
+            "example": "Collecting data for the research was a very time-consuming process."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "erode",
+            "type": "v",
+            "ipa": "/ɪˈrəʊd/",
+            "meaning": "xói mòn, ăn mòn",
+            "example": "The wind and rain have eroded the statues over centuries."
+        },
+        {
+            "word": "infer",
+            "type": "v",
+            "ipa": "/ɪnˈfɜː(r)/",
+            "meaning": "suy ra",
+            "example": "From the evidence, we can infer that the site was a marketplace."
+        },
+        {
+            "word": "predate",
+            "type": "v",
+            "ipa": "/ˌpriːˈdeɪt/",
+            "meaning": "có trước, xuất hiện trước",
+            "example": "These artifacts predate the arrival of Europeans by centuries."
+        },
+        {
+            "word": "span",
+            "type": "v",
+            "ipa": "/spæn/",
+            "meaning": "kéo dài, bao trùm",
+            "example": "His career as an actor spanned over five decades."
+        }
+    ],
+    "phrases_with_time": [
+        {
+            "phrase": "in time",
+            "meaning": "kịp lúc (để làm gì đó)",
+            "example": "We arrived at the station just in time to catch the last train."
+        },
+        {
+            "phrase": "lose track of time",
+            "meaning": "quên mất thời gian",
+            "example": "I'm sorry I'm late; I was reading and I lost track of time."
+        },
+        {
+            "phrase": "on time",
+            "meaning": "đúng giờ (theo lịch trình)",
+            "example": "The meeting started on time at 9:00 AM."
+        },
+        {
+            "phrase": "save time",
+            "meaning": "tiết kiệm thời gian",
+            "example": "Using a microwave can save a lot of time when cooking."
+        },
+        {
+            "phrase": "spend time",
+            "meaning": "dành thời gian",
+            "example": "I like to spend my free time playing guitar."
+        },
+        {
+            "phrase": "take so long",
+            "meaning": "mất nhiều thời gian",
+            "example": "Why does it take so long for the computer to start up?"
+        },
+        {
+            "phrase": "the right time",
+            "meaning": "đúng thời điểm",
+            "example": "Now is the right time to invest in the stock market."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "chronologically",
+            "type": "adv",
+            "ipa": "/ˌkrɒnəˈlɒdʒɪkli/",
+            "meaning": "theo trình tự thời gian",
+            "example": "The events in the film are not told chronologically."
+        },
+        {
+            "word": "formerly",
+            "type": "adv",
+            "ipa": "/ˈfɔːməli/",
+            "meaning": "trước đây",
+            "example": "This building was formerly a factory before it was turned into apartments."
+        },
+        {
+            "word": "previously",
+            "type": "adv",
+            "ipa": "/ˈpriːviəsli/",
+            "meaning": "trước đó",
+            "example": "She had previously worked as a teacher before joining the company."
+        },
+        {
+            "word": "subsequently",
+            "type": "adv",
+            "ipa": "/ˈsʌbsɪkwəntli/",
+            "meaning": "sau đó",
+            "example": "He was injured and subsequently had to withdraw from the race."
+        }
+    ]
+}

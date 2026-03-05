@@ -1,0 +1,347 @@
+{
+    "topic": "On the Move",
+    "description": "Tourism, travel.",
+    "difficulty": "LOW",
+    "nouns": [
+        {
+            "word": "accommodation",
+            "type": "n",
+            "ipa": "/əˌkʌməˈdeɪʃn/",
+            "meaning": "chỗ ở",
+            "example": "The cost of the tour includes flights and hotel accommodation."
+        },
+        {
+            "word": "attraction",
+            "type": "n",
+            "ipa": "/əˈtrækʃn/",
+            "meaning": "điểm tham quan",
+            "example": "The Grand Canyon is one of the biggest tourist attractions in the US."
+        },
+        {
+            "word": "community",
+            "type": "n",
+            "ipa": "/kəˈmjuːnəti/",
+            "meaning": "cộng đồng",
+            "example": "Eco-tourism should benefit the local community."
+        },
+        {
+            "word": "countryside",
+            "type": "n",
+            "ipa": "/ˈkʌntrisaɪd/",
+            "meaning": "vùng nông thôn",
+            "example": "We decided to spend the weekend walking in the countryside."
+        },
+        {
+            "word": "destination",
+            "type": "n",
+            "ipa": "/ˌdestɪˈneɪʃn/",
+            "meaning": "điểm đến",
+            "example": "After a long flight, we finally reached our destination."
+        },
+        {
+            "word": "eco-tourism",
+            "type": "n",
+            "ipa": "/ˈiːkəʊ ˌtʊərɪzəm/",
+            "meaning": "du lịch sinh thái",
+            "example": "Eco-tourism helps protect the environment while supporting local people."
+        },
+        {
+            "word": "effect",
+            "type": "n",
+            "ipa": "/ɪˈfekt/",
+            "meaning": "ảnh hưởng, tác động",
+            "example": "The long-term effects of tourism on the island are being studied."
+        },
+        {
+            "word": "facilities",
+            "type": "n",
+            "ipa": "/fəˈsɪlətiz/",
+            "meaning": "cơ sở vật chất",
+            "example": "The hotel offers excellent sports facilities, including a gym and a pool."
+        },
+        {
+            "word": "identification",
+            "type": "n",
+            "ipa": "/aɪˌdentɪfɪˈkeɪʃn/",
+            "meaning": "giấy tờ tùy thân",
+            "example": "Please show your identification when checking in at the airport."
+        },
+        {
+            "word": "inhabitant",
+            "type": "n",
+            "ipa": "/ɪnˈhæbɪtənt/",
+            "meaning": "cư dân",
+            "example": "The city has over five million inhabitants."
+        },
+        {
+            "word": "itinerary",
+            "type": "n",
+            "ipa": "/aɪˈtɪnərəri/",
+            "meaning": "lịch trình",
+            "example": "Our travel agent provided us with a detailed itinerary for the trip."
+        },
+        {
+            "word": "journey",
+            "type": "n",
+            "ipa": "/ˈdʒɜːni/",
+            "meaning": "hành trình (thường là dài)",
+            "example": "The train journey across the country takes about three days."
+        },
+        {
+            "word": "landscape",
+            "type": "n",
+            "ipa": "/ˈlændskeɪp/",
+            "meaning": "phong cảnh",
+            "example": "The desert landscape was beautiful but harsh."
+        },
+        {
+            "word": "luggage",
+            "type": "n",
+            "ipa": "/ˈlʌɡɪdʒ/",
+            "meaning": "hành lý",
+            "example": "You are allowed one piece of carry-on luggage."
+        },
+        {
+            "word": "peak",
+            "type": "n",
+            "ipa": "/piːk/",
+            "meaning": "đỉnh núi",
+            "example": "They reached the mountain peak just before sunset."
+        },
+        {
+            "word": "tourism",
+            "type": "n",
+            "ipa": "/ˈtʊərɪzəm/",
+            "meaning": "ngành du lịch",
+            "example": "The local economy depends heavily on tourism."
+        },
+        {
+            "word": "tourist",
+            "type": "n",
+            "ipa": "/ˈtʊərɪst/",
+            "meaning": "khách du lịch",
+            "example": "The city center is always crowded with tourists."
+        },
+        {
+            "word": "transport",
+            "type": "n",
+            "ipa": "/ˈtrænspɔːt/",
+            "meaning": "phương tiện giao thông",
+            "example": "Public transport is the most efficient way to get around the city."
+        },
+        {
+            "word": "travel",
+            "type": "n",
+            "ipa": "/ˈtrævl/",
+            "meaning": "sự đi lại (nói chung)",
+            "example": "Air travel has become much cheaper in recent years."
+        },
+        {
+            "word": "trend",
+            "type": "n",
+            "ipa": "/trend/",
+            "meaning": "xu hướng",
+            "example": "There is a growing trend towards solo travel among young people."
+        },
+        {
+            "word": "trip",
+            "type": "n",
+            "ipa": "/trɪp/",
+            "meaning": "chuyến đi (ngắn)",
+            "example": "We took a day trip to the coast last Sunday."
+        },
+        {
+            "word": "village",
+            "type": "n",
+            "ipa": "/ˈvɪlɪdʒ/",
+            "meaning": "ngôi làng",
+            "example": "It's a quiet village far away from the hustle and bustle of the city."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "adventurous",
+            "type": "adj",
+            "ipa": "/ədˈventʃərəs/",
+            "meaning": "thích phiêu lưu",
+            "example": "She is an adventurous traveler who loves exploring remote areas."
+        },
+        {
+            "word": "budget",
+            "type": "adj",
+            "ipa": "/ˈbʌdʒɪt/",
+            "meaning": "giá rẻ",
+            "example": "We stayed in a budget hotel to save money for activities."
+        },
+        {
+            "word": "breathtaking",
+            "type": "adj",
+            "ipa": "/ˈbreθteɪkɪŋ/",
+            "meaning": "ngoạn mục (đẹp đến nín thở)",
+            "example": "The view from the top of the mountain was absolutely breathtaking."
+        },
+        {
+            "word": "coastal",
+            "type": "adj",
+            "ipa": "/ˈkəʊstl/",
+            "meaning": "thuộc vùng biển",
+            "example": "The coastal road offers stunning views of the ocean."
+        },
+        {
+            "word": "cosmopolitan",
+            "type": "adj",
+            "ipa": "/ˌkɒzməˈpɒlɪtən/",
+            "meaning": "mang tính quốc tế, đa văn hóa",
+            "example": "London is a very cosmopolitan city with people from all over the world."
+        },
+        {
+            "word": "diverse",
+            "type": "adj",
+            "ipa": "/daɪˈvɜːs/",
+            "meaning": "đa dạng",
+            "example": "The country has a diverse range of wildlife and habitats."
+        },
+        {
+            "word": "flexible",
+            "type": "adj",
+            "ipa": "/ˈfleksəbl/",
+            "meaning": "linh hoạt",
+            "example": "My travel dates are flexible, so I can fly whenever it's cheapest."
+        },
+        {
+            "word": "foreign",
+            "type": "adj",
+            "ipa": "/ˈfɒrən/",
+            "meaning": "nước ngoài",
+            "example": "Learning a foreign language is helpful when traveling abroad."
+        },
+        {
+            "word": "local",
+            "type": "adj",
+            "ipa": "/ˈləʊkl/",
+            "meaning": "địa phương",
+            "example": "We enjoyed tasting the local cuisine at the night market."
+        },
+        {
+            "word": "luxurious",
+            "type": "adj",
+            "ipa": "/lʌɡˈʒʊəriəs/",
+            "meaning": "sang trọng",
+            "example": "They spent their honeymoon in a luxurious resort in Maldives."
+        },
+        {
+            "word": "mountainous",
+            "type": "adj",
+            "ipa": "/ˈmaʊntənəs/",
+            "meaning": "nhiều núi",
+            "example": "The northern part of the country is very mountainous."
+        },
+        {
+            "word": "peaceful",
+            "type": "adj",
+            "ipa": "/ˈpiːsfl/",
+            "meaning": "yên bình",
+            "example": "I love the peaceful atmosphere of the countryside."
+        },
+        {
+            "word": "picturesque",
+            "type": "adj",
+            "ipa": "/ˌpɪktʃəˈresk/",
+            "meaning": "đẹp như tranh vẽ",
+            "example": "The town is famous for its picturesque harbor and narrow streets."
+        },
+        {
+            "word": "polluted",
+            "type": "adj",
+            "ipa": "/pəˈluːtɪd/",
+            "meaning": "ô nhiễm",
+            "example": "The river is too polluted for swimming."
+        },
+        {
+            "word": "quaint",
+            "type": "adj",
+            "ipa": "/kweɪnt/",
+            "meaning": "cổ kính, độc đáo",
+            "example": "We stayed in a quaint little cottage in an old village."
+        },
+        {
+            "word": "remote",
+            "type": "adj",
+            "ipa": "/rɪˈməʊt/",
+            "meaning": "hẻo lánh",
+            "example": "They live in a remote area, far from the nearest town."
+        },
+        {
+            "word": "rough",
+            "type": "adj",
+            "ipa": "/rʌf/",
+            "meaning": "gồ ghề (đường), động (biển)",
+            "example": "The road was very rough, making the journey uncomfortable."
+        },
+        {
+            "word": "rural",
+            "type": "adj",
+            "ipa": "/ˈrʊərəl/",
+            "meaning": "thuộc nông thôn",
+            "example": "Rural life is often much slower and quieter than city life."
+        },
+        {
+            "word": "scenic",
+            "type": "adj",
+            "ipa": "/ˈsiːnɪk/",
+            "meaning": "có phong cảnh đẹp",
+            "example": "We took the scenic route through the mountains."
+        },
+        {
+            "word": "stunning",
+            "type": "adj",
+            "ipa": "/ˈstʌnɪŋ/",
+            "meaning": "tuyệt đẹp (gây ấn tượng mạnh)",
+            "example": "She looked absolutely stunning in her traditional dress."
+        },
+        {
+            "word": "tough",
+            "type": "adj",
+            "ipa": "/tʌf/",
+            "meaning": "khó khăn, khắc nghiệt",
+            "example": "The trek was tough, but the views made it worthwhile."
+        },
+        {
+            "word": "traditional",
+            "type": "adj",
+            "ipa": "/trəˈdɪʃənl/",
+            "meaning": "truyền thống",
+            "example": "The village is known for its traditional crafts and festivals."
+        },
+        {
+            "word": "unspoilt",
+            "type": "adj",
+            "ipa": "/ˌʌnˈspɔɪlt/",
+            "meaning": "chưa bị tàn phá (còn nguyên sơ)",
+            "example": "This island is one of the few places with truly unspoilt beaches."
+        },
+        {
+            "word": "urban",
+            "type": "adj",
+            "ipa": "/ˈɜːbən/",
+            "meaning": "thuộc đô thị",
+            "example": "Urban planning is crucial for the sustainable growth of cities."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "affect",
+            "type": "v",
+            "ipa": "/əˈfekt/",
+            "meaning": "ảnh hưởng",
+            "example": "The bad weather might affect our travel plans."
+        },
+        {
+            "word": "fluctuate",
+            "type": "v",
+            "ipa": "/ˈflʌktʃueɪt/",
+            "meaning": "dao động, biến động",
+            "example": "Airfares tend to fluctuate depending on the season."
+        }
+    ]
+}

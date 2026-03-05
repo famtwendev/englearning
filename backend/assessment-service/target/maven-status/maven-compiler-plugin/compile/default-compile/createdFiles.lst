@@ -1,0 +1,16 @@
+com\englearning\assessment\controller\ExamController.class
+com\englearning\assessment\entity\Question.class
+com\englearning\assessment\repository\ExamTemplateRepository.class
+com\englearning\assessment\entity\AttemptAnswer$AttemptAnswerBuilder.class
+com\englearning\assessment\service\ExamService.class
+com\englearning\assessment\controller\AnalyticsController.class
+com\englearning\assessment\service\scoring\QuestionScoringStrategy.class
+com\englearning\assessment\entity\ExamAttempt$ExamAttemptBuilder.class
+com\englearning\assessment\entity\Question$QuestionBuilder.class
+com\englearning\assessment\entity\AttemptAnswerId.class
+com\englearning\assessment\entity\ExamTemplate.class
+com\englearning\assessment\AssessmentApplication.class
+com\englearning\assessment\service\scoring\McqSingleScoringStrategy.class
+com\englearning\assessment\entity\AttemptAnswer.class
+com\englearning\assessment\entity\ExamAttempt.class
+com\englearning\assessment\entity\ExamTemplate$ExamTemplateBuilder.class

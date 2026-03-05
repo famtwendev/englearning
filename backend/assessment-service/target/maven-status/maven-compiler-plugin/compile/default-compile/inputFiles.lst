@@ -1,0 +1,11 @@
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\entity\Question.java
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\repository\ExamTemplateRepository.java
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\service\scoring\McqSingleScoringStrategy.java
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\service\scoring\QuestionScoringStrategy.java
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\entity\AttemptAnswer.java
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\entity\ExamTemplate.java
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\controller\ExamController.java
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\entity\ExamAttempt.java
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\service\ExamService.java
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\AssessmentApplication.java
+E:\eng-app\backend\assessment-service\src\main\java\com\englearning\assessment\controller\AnalyticsController.java

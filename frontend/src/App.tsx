@@ -9,6 +9,9 @@ import Practice from './pages/Practice';
 import React from 'react';
 
 import Navbar from './components/Navbar';
+import TestLandingPage from './features/exam/pages/TestLandingPage';
+import ExamEngine from './features/exam/pages/ExamEngine';
+import IpaDashboard from './features/ipa/pages/IpaDashboard';
 
 const PrivateRoute = ({ children }: { children: React.ReactNode }) => {
   const isAuthenticated = useAuthStore((state) => state.isAuthenticated);
@@ -44,6 +47,9 @@ function App() {
         <Route path="/topics" element={<PrivateRoute><TopicList /></PrivateRoute>} />
         <Route path="/topics/:id/theory" element={<PrivateRoute><Theory /></PrivateRoute>} />
         <Route path="/topics/:id/practice" element={<PrivateRoute><Practice /></PrivateRoute>} />
+        <Route path="/ipa" element={<PrivateRoute><IpaDashboard /></PrivateRoute>} />
+        <Route path="/exam/landing" element={<PrivateRoute><TestLandingPage /></PrivateRoute>} />
+        <Route path="/exam/engine" element={<PrivateRoute><ExamEngine /></PrivateRoute>} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </Router>

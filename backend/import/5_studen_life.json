@@ -1,0 +1,468 @@
+{
+    "topic": "Student Life",
+    "description": "Study, education, research.",
+    "difficulty": "LOW",
+    "nouns": [
+        {
+            "word": "assignment",
+            "type": "n",
+            "ipa": "/əˈsaɪnmənt/",
+            "meaning": "nhiệm vụ, bài tập được giao",
+            "example": "The students were given a week to complete their writing assignment."
+        },
+        {
+            "word": "college",
+            "type": "n",
+            "ipa": "/ˈkɒlɪdʒ/",
+            "meaning": "trường đại học, cao đẳng",
+            "example": "After finishing high school, she plans to go to a local college."
+        },
+        {
+            "word": "controversy",
+            "type": "n",
+            "ipa": "/kənˈtrɒvəsi/",
+            "meaning": "cuộc tranh cãi, sự phản đối",
+            "example": "There is a lot of controversy surrounding the new tuition fee policy."
+        },
+        {
+            "word": "curriculum",
+            "type": "n",
+            "ipa": "/kəˈrɪkjʊləm/",
+            "meaning": "chương trình học (tổng thể)",
+            "example": "The school is adding more coding classes to its curriculum."
+        },
+        {
+            "word": "dissertation",
+            "type": "n",
+            "ipa": "/ˌdɪsəˈteɪʃn/",
+            "meaning": "luận văn, luận án (thường là bậc Master/PhD)",
+            "example": "He is currently writing his dissertation on renewable energy sources."
+        },
+        {
+            "word": "education",
+            "type": "n",
+            "ipa": "/ˌedʒʊˈkeɪʃn/",
+            "meaning": "giáo dục",
+            "example": "Every child should have access to a quality primary education."
+        },
+        {
+            "word": "exam",
+            "type": "n",
+            "ipa": "/ɪɡˈzæm/",
+            "meaning": "kỳ thi",
+            "example": "Students are feeling stressed about their final exams next week."
+        },
+        {
+            "word": "field (of study)",
+            "type": "n",
+            "ipa": "/fiːld/",
+            "meaning": "lĩnh vực (học tập)",
+            "example": "She is an expert in the field of molecular biology."
+        },
+        {
+            "word": "findings",
+            "type": "n",
+            "ipa": "/ˈfaɪndɪŋz/",
+            "meaning": "kết quả nghiên cứu",
+            "example": "The findings of the study suggest that sleep affects academic performance."
+        },
+        {
+            "word": "funding",
+            "type": "n",
+            "ipa": "/ˈfʌndɪŋ/",
+            "meaning": "tài trợ, sự cấp vốn",
+            "example": "The research project was cancelled due to a lack of funding."
+        },
+        {
+            "word": "grade",
+            "type": "n",
+            "ipa": "/ɡreɪd/",
+            "meaning": "điểm số, loại",
+            "example": "He was very happy to receive an 'A' grade on his math test."
+        },
+        {
+            "word": "graduation",
+            "type": "n",
+            "ipa": "/ˌɡrædʒuˈeɪʃn/",
+            "meaning": "lễ tốt nghiệp, sự tốt nghiệp",
+            "example": "My whole family attended my university graduation ceremony."
+        },
+        {
+            "word": "grant",
+            "type": "n",
+            "ipa": "/ɡrænt/",
+            "meaning": "khoản trợ cấp, sự tài trợ",
+            "example": "They received a government grant to continue their scientific research."
+        },
+        {
+            "word": "high school",
+            "type": "n",
+            "ipa": "/ˈhaɪ skuːl/",
+            "meaning": "trường cấp 3",
+            "example": "In many countries, high school covers students aged 15 to 18."
+        },
+        {
+            "word": "homework",
+            "type": "n",
+            "ipa": "/ˈhəʊm.wɜːk/",
+            "meaning": "bài tập về nhà",
+            "example": "The teacher told us to do our homework before coming to class."
+        },
+        {
+            "word": "junior school",
+            "type": "n",
+            "ipa": "/ˈdʒuːnɪə skuːl/",
+            "meaning": "trường tiểu học (7-11 tuổi tại Anh)",
+            "example": "My younger brother is still at junior school."
+        },
+        {
+            "word": "kindergarten",
+            "type": "n",
+            "ipa": "/ˈkɪndəɡɑːtn/",
+            "meaning": "mẫu giáo",
+            "example": "Children often learn basic social skills in kindergarten."
+        },
+        {
+            "word": "learning disorder",
+            "type": "n",
+            "ipa": "/ˈlɜːnɪŋ dɪsˈɔːdə(r)/",
+            "meaning": "rối loạn học tập",
+            "example": "Dyslexia is one of the most common learning disorders."
+        },
+        {
+            "word": "lecturer",
+            "type": "n",
+            "ipa": "/ˈlektʃərər/",
+            "meaning": "giảng viên",
+            "example": "The lecturer explained the complex theory very clearly."
+        },
+        {
+            "word": "library",
+            "type": "n",
+            "ipa": "/ˈlaɪbrəri/",
+            "meaning": "thư viện",
+            "example": "I often spend my afternoons studying at the university library."
+        },
+        {
+            "word": "limits",
+            "type": "n",
+            "ipa": "/ˈlɪmɪts/",
+            "meaning": "giới hạn",
+            "example": "There are strict limits on how many words your essay can have."
+        },
+        {
+            "word": "Masters",
+            "type": "n",
+            "ipa": "/ˈmɑːstərz/",
+            "meaning": "bằng thạc sĩ",
+            "example": "He is planning to get a Masters in Business Administration (MBA)."
+        },
+        {
+            "word": "nursery",
+            "type": "n",
+            "ipa": "/ˈnɜːsəri/",
+            "meaning": "nhà trẻ, mẫu giáo (2-4 tuổi)",
+            "example": "They send their daughter to a nursery while they are at work."
+        },
+        {
+            "word": "PhD",
+            "type": "n",
+            "ipa": "/ˌpiː eɪtʃ ˈdiː/",
+            "meaning": "tiến sĩ",
+            "example": "She spent four years researching for her PhD in history."
+        },
+        {
+            "word": "primary school",
+            "type": "n",
+            "ipa": "/ˈpraɪməri skuːl/",
+            "meaning": "trường tiểu học",
+            "example": "Primary school is the first stage of formal education."
+        },
+        {
+            "word": "program",
+            "type": "n",
+            "ipa": "/ˈprəʊɡræm/",
+            "meaning": "chương trình",
+            "example": "Our university offers an excellent exchange program with Japan."
+        },
+        {
+            "word": "project",
+            "type": "n",
+            "ipa": "/ˈprɒdʒekt/",
+            "meaning": "dự án, kế hoạch",
+            "example": "The group project required us to interview local business owners."
+        },
+        {
+            "word": "research",
+            "type": "n",
+            "ipa": "/rɪˈsɜːtʃ/",
+            "meaning": "nghiên cứu",
+            "example": "Scientific research often takes years to yield significant results."
+        },
+        {
+            "word": "resources",
+            "type": "n",
+            "ipa": "/rɪˈsɔːsɪz/",
+            "meaning": "tài nguyên, nguồn lực",
+            "example": "The internet is a vast resource for students and teachers."
+        },
+        {
+            "word": "results",
+            "type": "n",
+            "ipa": "/rɪˈzʌlts/",
+            "meaning": "kết quả",
+            "example": "Students are nervously waiting for their test results."
+        },
+        {
+            "word": "scholarship",
+            "type": "n",
+            "ipa": "/ˈskɒləʃɪp/",
+            "meaning": "học bổng (dựa trên thành tích)",
+            "example": "She won a full scholarship to study at Oxford University."
+        },
+        {
+            "word": "scope",
+            "type": "n",
+            "ipa": "/skəʊp/",
+            "meaning": "phạm vi",
+            "example": "That topic is outside the scope of this particular course."
+        },
+        {
+            "word": "secondary school",
+            "type": "n",
+            "ipa": "/ˈsekəndri skuːl/",
+            "meaning": "trường cấp 2",
+            "example": "Students move to secondary school after finishing primary school."
+        },
+        {
+            "word": "sources",
+            "type": "n",
+            "ipa": "/ˈsɔːsɪz/",
+            "meaning": "nguồn tài liệu",
+            "example": "You must cite all your sources in the bibliography."
+        },
+        {
+            "word": "syllabus",
+            "type": "n",
+            "ipa": "/ˈsɪləbəs/",
+            "meaning": "đề cương môn học",
+            "example": "The lecturer handed out the syllabus on the first day of class."
+        },
+        {
+            "word": "task",
+            "type": "n",
+            "ipa": "/tɑːsk/",
+            "meaning": "nhiệm vụ, công việc",
+            "example": "The first task was to identify the main problem in the case study."
+        },
+        {
+            "word": "theory",
+            "type": "n",
+            "ipa": "/ˈθɪəri/",
+            "meaning": "lý thuyết",
+            "example": "We studied Einstein's theory of relativity in physics today."
+        },
+        {
+            "word": "thesis",
+            "type": "n",
+            "ipa": "/ˈθiːsɪs/",
+            "meaning": "luận văn (thường bậc Bachelor/Master)",
+            "example": "She submitted her final thesis on urban planning last week."
+        },
+        {
+            "word": "tutor",
+            "type": "n",
+            "ipa": "/ˈtjuːtə(r)/",
+            "meaning": "gia sư, người hướng dẫn",
+            "example": "A private tutor can help students who are struggling with math."
+        },
+        {
+            "word": "topic",
+            "type": "n",
+            "ipa": "/ˈtɒpɪk/",
+            "meaning": "chủ đề",
+            "example": "Choosing a narrow topic makes it easier to write a good essay."
+        },
+        {
+            "word": "university",
+            "type": "n",
+            "ipa": "/ˌjuːnɪˈvɜːsɪti/",
+            "meaning": "trường đại học",
+            "example": "Going to university is a great way to meet people from different backgrounds."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "academic",
+            "type": "adj",
+            "ipa": "/ˌækəˈdɛmɪk/",
+            "meaning": "thuộc về học thuật",
+            "example": "The school year is divided into two academic semesters."
+        },
+        {
+            "word": "eligible",
+            "type": "adj",
+            "ipa": "/ˈelɪdʒəbl/",
+            "meaning": "đủ điều kiện",
+            "example": "Only students with a GPA of 3.5 are eligible for the scholarship."
+        },
+        {
+            "word": "mixed",
+            "type": "adj",
+            "ipa": "/mɪkst/",
+            "meaning": "hỗn hợp, kết hợp",
+            "example": "She attended a mixed school with both boys and girls."
+        },
+        {
+            "word": "postgraduate",
+            "type": "adj",
+            "ipa": "/ˌpəʊstˈɡrædʒuət/",
+            "meaning": "sau đại học",
+            "example": "The university offers a variety of postgraduate degrees."
+        },
+        {
+            "word": "relevant",
+            "type": "adj",
+            "ipa": "/ˈreləvənt/",
+            "meaning": "liên quan, thích hợp",
+            "example": "Please make sure your essay only includes relevant information."
+        },
+        {
+            "word": "senior",
+            "type": "adj",
+            "ipa": "/ˈsiːnɪə(r)/",
+            "meaning": "cao cấp, lão luyện",
+            "example": "As a senior student, she was expected to mentor the freshmen."
+        },
+        {
+            "word": "single-sex",
+            "type": "adj",
+            "ipa": "/ˈsɪŋɡl seks/",
+            "meaning": "trường dành cho một giới tính",
+            "example": "Some parents prefer to send their children to single-sex schools."
+        },
+        {
+            "word": "studious",
+            "type": "adj",
+            "ipa": "/ˈstjuːdiəs/",
+            "meaning": "chăm chỉ, cần cù",
+            "example": "He was a very studious child who always had his nose in a book."
+        },
+        {
+            "word": "work-related",
+            "type": "adj",
+            "ipa": "/wɜːk rɪˈleɪtɪd/",
+            "meaning": "liên quan đến công việc",
+            "example": "Many students take part-time jobs for work-related experience."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "adopt (an approach)",
+            "type": "v",
+            "ipa": "/əˈdɒpt/",
+            "meaning": "áp dụng (phương pháp)",
+            "example": "We decided to adopt a more hands-on approach to learning."
+        },
+        {
+            "word": "analyse",
+            "type": "v",
+            "ipa": "/ˈænəlaɪz/",
+            "meaning": "phân tích",
+            "example": "Researchers need to analyse the data carefully before publishing."
+        },
+        {
+            "word": "conduct",
+            "type": "v",
+            "ipa": "/kənˈdʌkt/",
+            "meaning": "tiến hành, tổ chức",
+            "example": "The scientist conducted a series of experiments in the lab."
+        },
+        {
+            "word": "concentrate",
+            "type": "v",
+            "ipa": "/ˈkɒnsəntreɪt/",
+            "meaning": "tập trung",
+            "example": "It's hard to concentrate on your studies if the room is noisy."
+        },
+        {
+            "word": "consider",
+            "type": "v",
+            "ipa": "/kənˈsɪdə(r)/",
+            "meaning": "cân nhắc, xem xét",
+            "example": "You should consider studying abroad to broaden your horizons."
+        },
+        {
+            "word": "find out",
+            "type": "v",
+            "ipa": "/faɪnd aʊt/",
+            "meaning": "tìm ra, khám phá",
+            "example": "I need to find out when the deadline for the application is."
+        },
+        {
+            "word": "graduate",
+            "type": "v",
+            "ipa": "/ˈɡrædʒueɪt/",
+            "meaning": "tốt nghiệp",
+            "example": "He graduated from university with honors last year."
+        },
+        {
+            "word": "learn (about)",
+            "type": "v",
+            "ipa": "/lɜːn/",
+            "meaning": "học hỏi",
+            "example": "Students learn about ancient civilizations in history class."
+        },
+        {
+            "word": "organise",
+            "type": "v",
+            "ipa": "/ˈɔːɡənaɪz/",
+            "meaning": "tổ chức",
+            "example": "The school organised a trip to the local science museum."
+        },
+        {
+            "word": "overcome",
+            "type": "v",
+            "ipa": "/ˌəʊvərˈkʌm/",
+            "meaning": "vượt qua",
+            "example": "She had to overcome many obstacles to complete her degree."
+        },
+        {
+            "word": "review",
+            "type": "v",
+            "ipa": "/rɪˈvjuː/",
+            "meaning": "xem lại, ôn tập",
+            "example": "It's a good idea to review your notes every evening."
+        },
+        {
+            "word": "revise",
+            "type": "v",
+            "ipa": "/rɪˈvaɪz/",
+            "meaning": "sửa đổi, ôn tập (chuẩn bị thi)",
+            "example": "I spent the entire weekend revising for my biology exam."
+        },
+        {
+            "word": "struggle",
+            "type": "v",
+            "ipa": "/ˈstrʌɡl/",
+            "meaning": "vật lộn, gặp khó khăn",
+            "example": "Many international students struggle with the language barrier at first."
+        },
+        {
+            "word": "take (a course)",
+            "type": "v",
+            "ipa": "/teɪk/",
+            "meaning": "tham gia (một khóa học)",
+            "example": "I'm going to take an online course on digital marketing."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "relatively",
+            "type": "adv",
+            "ipa": "/ˈrelətɪvli/",
+            "meaning": "tương đối",
+            "example": "The exam was relatively easy compared to last year's."
+        }
+    ]
+}

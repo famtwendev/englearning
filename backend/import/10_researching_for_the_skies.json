@@ -1,0 +1,403 @@
+{
+    "topic": "Reaching for the Skies",
+    "description": "Space, the planets.",
+    "difficulty": "LOW",
+    "nouns": [
+        {
+            "word": "asteroid",
+            "type": "n",
+            "ipa": "/ˈæstərɔɪd/",
+            "meaning": "tiểu hành tinh",
+            "example": "Scientists are tracking an asteroid that will pass close to Earth."
+        },
+        {
+            "word": "astronaut",
+            "type": "n",
+            "ipa": "/ˈæstrənɔːt/",
+            "meaning": "phi hành gia",
+            "example": "Neil Armstrong was the first astronaut to walk on the moon."
+        },
+        {
+            "word": "atmosphere",
+            "type": "n",
+            "ipa": "/ˈætməsfɪə(r)/",
+            "meaning": "khí quyển",
+            "example": "The Earth's atmosphere protects us from harmful solar radiation."
+        },
+        {
+            "word": "cosmos",
+            "type": "n",
+            "ipa": "/ˈkɒzmɒs/",
+            "meaning": "vũ trụ (nhấn mạnh tính trật tự)",
+            "example": "Humanity has always been fascinated by the mysteries of the cosmos."
+        },
+        {
+            "word": "crater",
+            "type": "n",
+            "ipa": "/ˈkreɪtə(r)/",
+            "meaning": "hố, miệng núi lửa (hoặc hố do thiên thạch tạo ra)",
+            "example": "The surface of the moon is covered in deep craters."
+        },
+        {
+            "word": "debris",
+            "type": "n",
+            "ipa": "/ˈdebriː/",
+            "meaning": "mảnh vỡ, rác vũ trụ",
+            "example": "Space debris poses a significant threat to functioning satellites."
+        },
+        {
+            "word": "Earth",
+            "type": "n",
+            "ipa": "/ɜːθ/",
+            "meaning": "Trái Đất",
+            "example": "Earth is the only planet known to support life."
+        },
+        {
+            "word": "exploration",
+            "type": "n",
+            "ipa": "/ˌekspləˈreɪʃn/",
+            "meaning": "sự thám hiểm",
+            "example": "Deep-space exploration requires advanced propulsion systems."
+        },
+        {
+            "word": "explorer",
+            "type": "n",
+            "ipa": "/ɪkˈsplɔːrə(r)/",
+            "meaning": "nhà thám hiểm",
+            "example": "Early explorers used the stars to navigate across the oceans."
+        },
+        {
+            "word": "galaxy",
+            "type": "n",
+            "ipa": "/ˈɡæləksi/",
+            "meaning": "thiên hà",
+            "example": "Our solar system is located in the Milky Way galaxy."
+        },
+        {
+            "word": "gas",
+            "type": "n",
+            "ipa": "/ɡæs/",
+            "meaning": "khí, thể khí",
+            "example": "Jupiter is a giant planet made mostly of gas."
+        },
+        {
+            "word": "gravity",
+            "type": "n",
+            "ipa": "/ˈɡrævəti/",
+            "meaning": "trọng lực",
+            "example": "The moon has much weaker gravity than the Earth."
+        },
+        {
+            "word": "horizon",
+            "type": "n",
+            "ipa": "/həˈraɪzn/",
+            "meaning": "chân trời",
+            "example": "The sun gradually disappeared below the western horizon."
+        },
+        {
+            "word": "launch",
+            "type": "n/v",
+            "ipa": "/lɔːntʃ/",
+            "meaning": "sự phóng (tên lửa), hạ thủy (tàu)",
+            "example": "The rocket launch was delayed due to bad weather."
+        },
+        {
+            "word": "meteor",
+            "type": "n",
+            "ipa": "/ˈmiːtiə(r)/",
+            "meaning": "sao băng, thiên thạch (khi đi vào khí quyển)",
+            "example": "We saw a bright meteor streak across the sky last night."
+        },
+        {
+            "word": "moon",
+            "type": "n",
+            "ipa": "/muːn/",
+            "meaning": "mặt trăng/vệ tinh tự nhiên",
+            "example": "Many planets in our solar system have more than one moon."
+        },
+        {
+            "word": "ocean",
+            "type": "n",
+            "ipa": "/ˈəʊʃn/",
+            "meaning": "đại dương",
+            "example": "Scientists believe there may be liquid oceans beneath the ice of Europa."
+        },
+        {
+            "word": "orbit",
+            "type": "n/v",
+            "ipa": "/ˈɔːbɪt/",
+            "meaning": "quỹ đạo / đi theo quỹ đạo",
+            "example": "The satellite is currently in orbit around the Earth."
+        },
+        {
+            "word": "outer space",
+            "type": "n",
+            "ipa": "/ˌaʊtə ˈspeɪs/",
+            "meaning": "không gian ngoài vũ trụ",
+            "example": "In outer space, there is no air to breathe and no sound."
+        },
+        {
+            "word": "planet",
+            "type": "n",
+            "ipa": "/ˈplænɪt/",
+            "meaning": "hành tinh",
+            "example": "Mars is often called the 'Red Planet'."
+        },
+        {
+            "word": "radiation",
+            "type": "n",
+            "ipa": "/ˌreɪdiˈeɪʃn/",
+            "meaning": "bức xạ, phóng xạ",
+            "example": "Space suits are designed to protect astronauts from radiation."
+        },
+        {
+            "word": "rocket",
+            "type": "n",
+            "ipa": "/ˈrɒkɪt/",
+            "meaning": "tên lửa",
+            "example": "The rocket carried the satellite into upper atmosphere."
+        },
+        {
+            "word": "satellite",
+            "type": "n",
+            "ipa": "/ˈsætəlaɪt/",
+            "meaning": "vệ tinh (nhân tạo hoặc tự nhiên)",
+            "example": "GPS works by using a network of satellites orbiting the Earth."
+        },
+        {
+            "word": "simulator",
+            "type": "n",
+            "ipa": "/ˈsɪmjuleɪtə(r)/",
+            "meaning": "thiết bị mô phỏng",
+            "example": "Astronauts train in a flight simulator before going into space."
+        },
+        {
+            "word": "solar system",
+            "type": "n",
+            "ipa": "/ˈsəʊlə sɪstəm/",
+            "meaning": "hệ mặt trời",
+            "example": "There are eight recognized planets in our solar system."
+        },
+        {
+            "word": "spacecraft",
+            "type": "n",
+            "ipa": "/ˈspeɪskrɑːft/",
+            "meaning": "tàu vũ trụ",
+            "example": "The spacecraft successfully landed on the surface of Mars."
+        },
+        {
+            "word": "space shuttle",
+            "type": "n",
+            "ipa": "/ˈspeɪs ʃʌtl/",
+            "meaning": "tàu thoi",
+            "example": "The space shuttle was designed to be reused for multiple missions."
+        },
+        {
+            "word": "space station",
+            "type": "n",
+            "ipa": "/ˈspeɪs steɪʃn/",
+            "meaning": "trạm vũ trụ",
+            "example": "The International Space Station (ISS) is a hub for scientific research."
+        },
+        {
+            "word": "surface",
+            "type": "n",
+            "ipa": "/ˈsɜːfɪs/",
+            "meaning": "bề mặt",
+            "example": "The surface of Venus is hot enough to melt lead."
+        },
+        {
+            "word": "universe",
+            "type": "n",
+            "ipa": "/ˈjuːnɪvɜːs/",
+            "meaning": "vũ trụ (toàn bộ vạn vật)",
+            "example": "The universe is constantly expanding."
+        },
+        {
+            "word": "weightlessness",
+            "type": "n",
+            "ipa": "/ˈweɪtləsnəs/",
+            "meaning": "tình trạng không trọng lượng",
+            "example": "Astronauts enjoy the feeling of weightlessness in space."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "commercial",
+            "type": "adj",
+            "ipa": "/kəˈmɜːʃl/",
+            "meaning": "thuộc về thương mại",
+            "example": "Commercial space travel may become common in the next century."
+        },
+        {
+            "word": "cosmic",
+            "type": "adj",
+            "ipa": "/ˈkɒzmɪk/",
+            "meaning": "thuộc về vũ trụ",
+            "example": "Cosmic rays are high-energy particles from outer space."
+        },
+        {
+            "word": "extreme",
+            "type": "adj",
+            "ipa": "/ɪkˈstriːm/",
+            "meaning": "khắc nghiệt, cực hạn",
+            "example": "Space is an environment of extreme temperatures."
+        },
+        {
+            "word": "gravitational",
+            "type": "adj",
+            "ipa": "/ˌɡrævɪˈteɪʃənl/",
+            "meaning": "thuộc về trọng lực",
+            "example": "The moon is held in orbit by Earth's gravitational pull."
+        },
+        {
+            "word": "horizontal",
+            "type": "adj",
+            "ipa": "/ˌhɒrɪˈzɒntl/",
+            "meaning": "nằm ngang",
+            "example": "The line where the sky meets the Earth is horizontal."
+        },
+        {
+            "word": "inevitable",
+            "type": "adj",
+            "ipa": "/ɪnˈevɪtəbl/",
+            "meaning": "không thể tránh khỏi",
+            "example": "With increasing population, the colonization of other planets seems inevitable."
+        },
+        {
+            "word": "lunar",
+            "type": "adj",
+            "ipa": "/ˈluːnə(r)/",
+            "meaning": "thuộc về mặt trăng",
+            "example": "A lunar eclipse occurs when the Earth passes between the sun and the moon."
+        },
+        {
+            "word": "meteoric",
+            "type": "adj",
+            "ipa": "/ˌmiːtiˈɒrɪk/",
+            "meaning": "nhanh chóng (như sao băng) / thuộc thiên thạch",
+            "example": "The company enjoyed a meteoric rise in profits last year."
+        },
+        {
+            "word": "outer",
+            "type": "adj",
+            "ipa": "/ˈaʊtə(r)/",
+            "meaning": "bên ngoài",
+            "example": "The outer planets of our solar system are mostly gas giants."
+        },
+        {
+            "word": "solar",
+            "type": "adj",
+            "ipa": "/ˈsəʊlə(r)/",
+            "meaning": "thuộc về mặt trời",
+            "example": "Solar panels convert sunlight into electricity."
+        },
+        {
+            "word": "terrestrial",
+            "type": "adj",
+            "ipa": "/təˈrestriəl/",
+            "meaning": "thuộc về trái đất/trên cạn",
+            "example": "Scientists are searching for terrestrial planets that might support life."
+        },
+        {
+            "word": "toxic",
+            "type": "adj",
+            "ipa": "/ˈtɒksɪk/",
+            "meaning": "độc hại",
+            "example": "The atmosphere of many planets is toxic to humans."
+        },
+        {
+            "word": "uninhabitable",
+            "type": "adj",
+            "ipa": "/ˌʌnɪnˈhæbɪtəbl/",
+            "meaning": "không thể cư trú được",
+            "example": "Without air and water, the planet remains uninhabitable."
+        },
+        {
+            "word": "universal",
+            "type": "adj",
+            "ipa": "/ˌjuːnɪˈvɜːsl/",
+            "meaning": "phổ quát, toàn vũ trụ",
+            "example": "The law of gravity is a universal principle."
+        },
+        {
+            "word": "unmanned",
+            "type": "adj",
+            "ipa": "/ˌʌnˈmænd/",
+            "meaning": "không người lái",
+            "example": "Unmanned space probes have sent back photos from the edge of the solar system."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "acclimatise",
+            "type": "v",
+            "ipa": "/əˈklaɪmətaɪz/",
+            "meaning": "thích nghi với môi trường/khí hậu",
+            "example": "Astronauts need time to acclimatise to the lack of gravity."
+        },
+        {
+            "word": "colonise",
+            "type": "v",
+            "ipa": "/ˈkɒlənaɪz/",
+            "meaning": "chiếm làm thuộc địa/định cư",
+            "example": "Some experts believe humans will colonise Mars by 2050."
+        },
+        {
+            "word": "explore",
+            "type": "v",
+            "ipa": "/ɪkˈsplɔː(r)/",
+            "meaning": "thám hiểm",
+            "example": "We sent a robot to explore the cave system."
+        },
+        {
+            "word": "float",
+            "type": "v",
+            "ipa": "/fləʊt/",
+            "meaning": "trôi nổi",
+            "example": "Objects float in the cabin due to zero gravity."
+        },
+        {
+            "word": "orbit",
+            "type": "v",
+            "ipa": "/ˈɔːbɪt/",
+            "meaning": "đi theo quỹ đạo",
+            "example": "The Earth orbits the sun once every 365 days."
+        },
+        {
+            "word": "propel",
+            "type": "v",
+            "ipa": "/prəˈpel/",
+            "meaning": "đẩy đi",
+            "example": "The rocket is propelled by burning liquid fuel."
+        },
+        {
+            "word": "rotate",
+            "type": "v",
+            "ipa": "/rəʊˈteɪt/",
+            "meaning": "quay quanh trục",
+            "example": "The Earth rotates on its axis, creating day and night."
+        },
+        {
+            "word": "sustain",
+            "type": "v",
+            "ipa": "/səˈsteɪn/",
+            "meaning": "duy trì sự sống/chống đỡ",
+            "example": "Mars does not have enough oxygen to sustain human life without help."
+        },
+        {
+            "word": "simulate",
+            "type": "v",
+            "ipa": "/ˈsɪmjuleɪt/",
+            "meaning": "mô phỏng",
+            "example": "Computers can simulate what happens during a supernova."
+        },
+        {
+            "word": "undergo",
+            "type": "v",
+            "ipa": "/ˌʌndəˈɡəʊ/",
+            "meaning": "trải qua",
+            "example": "The spacecraft will undergo rigorous testing before the mission."
+        }
+    ]
+}

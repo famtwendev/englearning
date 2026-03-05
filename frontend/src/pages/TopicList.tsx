@@ -28,9 +28,9 @@ const TopicList: React.FC = () => {
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {topics.map(topic => (
-                        <div key={topic.id} className="bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-6 border border-gray-100 flex flex-col">
+                        <div key={topic.id} className="flex flex-col bg-white p-6 border-2 border-[#e8e8e8]  rounded-2xl shadow-sm hover:shadow-md transition-shadow ">
                             <div className="flex justify-between items-start mb-4">
-                                <h2 className="text-xl font-bold text-red-500">{topic.name}</h2>
+                                <h2 className="text-xl font-bold text-red-500 capitalize">{topic.name}</h2>
                                 <span className={`text-xs px-2 py-1 rounded-full font-bold uppercase tracking-wide
                     ${topic.difficulty === 'hard' ? 'bg-red-100 text-red-700' :
                                         topic.difficulty === 'medium' ? 'bg-yellow-100 text-yellow-700' : 'bg-green-100 text-green-700'}`}>

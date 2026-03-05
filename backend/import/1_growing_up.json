@@ -1,0 +1,325 @@
+{
+    "topic": "Growin Up",
+    "description": "Relationships, families,and early learning",
+    "difficulty": "LOW",
+    "nouns": [
+        {
+            "word": "adolescence",
+            "type": "n",
+            "ipa": "/ˌædəˈlesəns/",
+            "meaning": "tuổi vị thành niên, tuổi dậy thì",
+            "example": "Adolescence is often a period of significant emotional and physical change."
+        },
+        {
+            "word": "adulthood",
+            "type": "n",
+            "ipa": "/ˈædʌlthʊd/",
+            "meaning": "tuổi trưởng thành",
+            "example": "Taking on financial responsibility is a key part of entering adulthood."
+        },
+        {
+            "word": "bond",
+            "type": "n",
+            "ipa": "/bɒnd/",
+            "meaning": "sự gắn kết (tình cảm)",
+            "example": "The bond between the two brothers strengthened after their long journey together."
+        },
+        {
+            "word": "brotherhood",
+            "type": "n",
+            "ipa": "/ˈbrʌðəhʊd/",
+            "meaning": "tình huynh đệ",
+            "example": "The soldiers shared a strong sense of brotherhood born out of shared hardships."
+        },
+        {
+            "word": "character",
+            "type": "n",
+            "ipa": "/ˈkærəktə(r)/",
+            "meaning": "tính cách, nhân cách",
+            "example": "Difficult experiences can often help build a person's character."
+        },
+        {
+            "word": "childhood",
+            "type": "n",
+            "ipa": "/ˈtʃaɪldhʊd/",
+            "meaning": "tuổi thơ",
+            "example": "She had a very happy childhood growing up in the countryside."
+        },
+        {
+            "word": "conflict",
+            "type": "n",
+            "ipa": "/ˈkɒnflɪkt/",
+            "meaning": "xung đột, mâu thuẫn",
+            "example": "It is natural for there to be some conflict between parents and teenagers."
+        },
+        {
+            "word": "connection",
+            "type": "n",
+            "ipa": "/kəˈnekʃn/",
+            "meaning": "sự kết nối, mối liên hệ",
+            "example": "There is a strong connection between a healthy diet and mental well-being."
+        },
+        {
+            "word": "fatherhood",
+            "type": "n",
+            "ipa": "/ˈfɑːðəhʊd/",
+            "meaning": "thiên chức làm cha",
+            "example": "Fatherhood has given him a new perspective on what is truly important in life."
+        },
+        {
+            "word": "friendship",
+            "type": "n",
+            "ipa": "/ˈfrendʃɪp/",
+            "meaning": "tình bạn",
+            "example": "Their friendship has lasted for over twenty years."
+        },
+        {
+            "word": "instinct",
+            "type": "n",
+            "ipa": "/ˈɪnstɪŋkt/",
+            "meaning": "bản năng",
+            "example": "Birds have an instinct to migrate south for the winter."
+        },
+        {
+            "word": "interaction",
+            "type": "n",
+            "ipa": "/ˌɪntərˈrækʃn/",
+            "meaning": "sự tương tác",
+            "example": "Social interaction is crucial for the development of young children."
+        },
+        {
+            "word": "motherhood",
+            "type": "n",
+            "ipa": "/ˈmʌðəhʊd/",
+            "meaning": "thiên chức làm mẹ",
+            "example": "She managed to balance the demands of motherhood with a full-time career."
+        },
+        {
+            "word": "nature",
+            "type": "n",
+            "ipa": "/ˈneɪtʃə(r)/",
+            "meaning": "bản chất, thiên hướng",
+            "example": "It is simply his nature to be helpful and kind to everyone."
+        },
+        {
+            "word": "parent",
+            "type": "n",
+            "ipa": "/ˈpeərənt/",
+            "meaning": "cha hoặc mẹ",
+            "example": "Being a good parent requires a lot of patience and understanding."
+        },
+        {
+            "word": "relation",
+            "type": "n",
+            "ipa": "/rɪˈleɪʃn/",
+            "meaning": "mối quan hệ",
+            "example": "The company maintains a good relation with its primary suppliers."
+        },
+        {
+            "word": "relationship",
+            "type": "n",
+            "ipa": "/rɪˈleɪʃnʃɪp/",
+            "meaning": "mối quan hệ (giữa/ với)",
+            "example": "He has a very close relationship with his sister."
+        },
+        {
+            "word": "relative",
+            "type": "n",
+            "ipa": "/ˈrelətɪv/",
+            "meaning": "người thân, họ hàng",
+            "example": "Most of my relatives live in the northern part of the country."
+        },
+        {
+            "word": "resemblance",
+            "type": "n",
+            "ipa": "/rɪˈzembləns/",
+            "meaning": "sự giống nhau",
+            "example": "There is a clear resemblance between the boy and his father."
+        },
+        {
+            "word": "rivalry",
+            "type": "n",
+            "ipa": "/ˈraɪvəlri/",
+            "meaning": "sự ganh đua",
+            "example": "The rivalry between the two sports teams has existed for decades."
+        },
+        {
+            "word": "sibling",
+            "type": "n",
+            "ipa": "/ˈsɪblɪŋ/",
+            "meaning": "anh/chị/em ruột",
+            "example": "Do you have any siblings, or are you an only child?"
+        },
+        {
+            "word": "teenager",
+            "type": "n",
+            "ipa": "/ˈtiːneɪdʒə(r)/",
+            "meaning": "thanh thiếu niên",
+            "example": "Many teenagers face pressure from their peers to fit in."
+        },
+        {
+            "word": "temperament",
+            "type": "n",
+            "ipa": "/ˈtemprəmənt/",
+            "meaning": "khí chất, tính khí",
+            "example": "The two brothers have very different temperaments; one is calm while the other is impulsive."
+        },
+        {
+            "word": "ties",
+            "type": "n",
+            "ipa": "/taɪz/",
+            "meaning": "mối ràng buộc, liên kết",
+            "example": "The country is trying to strengthen its economic ties with its neighbors."
+        },
+        {
+            "word": "upbringing",
+            "type": "n",
+            "ipa": "/ˈʌpbrɪŋɪŋ/",
+            "meaning": "sự nuôi dạy",
+            "example": "His strict upbringing made him a very disciplined adult."
+        },
+        {
+            "word": "active role",
+            "type": "n",
+            "ipa": "/ˈæktɪv rəʊl/",
+            "meaning": "vai trò tích cực",
+            "example": "The father decided to take an active role in his children's education."
+        },
+        {
+            "word": "extended family",
+            "type": "n",
+            "ipa": "/ɪkˈstendɪd ˈfæməli/",
+            "meaning": "đại gia đình",
+            "example": "During the holidays, we usually gather with our entire extended family."
+        },
+        {
+            "word": "family gathering",
+            "type": "n",
+            "ipa": "/ˈfæməli ˈɡæðərɪŋ/",
+            "meaning": "buổi họp mặt gia đình",
+            "example": "Lunar New Year is a perfect time for a family gathering."
+        },
+        {
+            "word": "immediate family",
+            "type": "n",
+            "ipa": "/ɪˈmiːdiət ˈfæməli/",
+            "meaning": "gia đình ruột thịt",
+            "example": "She only invited her immediate family to the small wedding ceremony."
+        },
+        {
+            "word": "maternal instinct",
+            "type": "n",
+            "ipa": "/məˈtɜːnl ˈɪnstɪŋkt/",
+            "meaning": "bản năng làm mẹ",
+            "example": "The mother’s maternal instinct told her that something was wrong with the baby."
+        },
+        {
+            "word": "sibling rivalry",
+            "type": "n",
+            "ipa": "/ˈsɪblɪŋ ˈraɪvəlri/",
+            "meaning": "sự ganh đua giữa anh chị em",
+            "example": "Sibling rivalry can sometimes lead to arguments, but it is a normal part of growing up."
+        },
+        {
+            "word": "stable upbringing",
+            "type": "n",
+            "ipa": "/ˈsteɪbl ˈʌpbrɪŋɪŋ/",
+            "meaning": "sự nuôi dạy ổn định",
+            "example": "A stable upbringing provides children with a strong foundation for the future."
+        },
+        {
+            "word": "striking resemblance",
+            "type": "n",
+            "ipa": "/ˈstraɪkɪŋ rɪˈzembləns/",
+            "meaning": "sự giống nhau nổi bật",
+            "example": "There is a striking resemblance between the two cousins; they look like twins."
+        }
+    ],
+    "adjectives": [],
+    "verbs": [
+        {
+            "word": "accommodate",
+            "type": "v",
+            "ipa": "/əˈkɒmədeɪt/",
+            "meaning": "đáp ứng, thích nghi",
+            "example": "The school tries to accommodate the needs of students with different learning styles."
+        },
+        {
+            "word": "adopt",
+            "type": "v",
+            "ipa": "/əˈdɒpt/",
+            "meaning": "nhận nuôi / tiếp nhận",
+            "example": "They decided to adopt a child who had lost his parents in the war."
+        },
+        {
+            "word": "break down",
+            "type": "v",
+            "ipa": "/breɪk daʊn/",
+            "meaning": "đổ vỡ, tan vỡ",
+            "example": "Communication issues often cause relationships to break down."
+        },
+        {
+            "word": "develop",
+            "type": "v",
+            "ipa": "/dɪˈveləp/",
+            "meaning": "phát triển",
+            "example": "Children develop social skills through playing with their peers."
+        },
+        {
+            "word": "endure",
+            "type": "v",
+            "ipa": "/ɪnˈdjʊə(r)/",
+            "meaning": "chịu đựng",
+            "example": "Some friendships are strong enough to endure even the most difficult times."
+        },
+        {
+            "word": "establish",
+            "type": "v",
+            "ipa": "/ɪˈstæblɪʃ/",
+            "meaning": "xây dựng, thiết lập",
+            "example": "It is important to establish clear boundaries in any relationship."
+        },
+        {
+            "word": "have sth in common",
+            "type": "v",
+            "ipa": "/hæv ˈsʌmθɪŋ ɪn ˈkɒmən/",
+            "meaning": "có điểm chung",
+            "example": "Although they are brothers, they don't have many interests in common."
+        },
+        {
+            "word": "inherit",
+            "type": "v",
+            "ipa": "/ɪnˈherɪt/",
+            "meaning": "thừa hưởng",
+            "example": "She inherited her curly hair and blue eyes from her grandmother."
+        },
+        {
+            "word": "interact",
+            "type": "v",
+            "ipa": "/ˌɪntərˈrækt/",
+            "meaning": "tương tác",
+            "example": "Teachers should encourage students to interact more with each other in class."
+        },
+        {
+            "word": "nurture",
+            "type": "v",
+            "ipa": "/ˈnɜːtʃə(r)/",
+            "meaning": "nuôi dưỡng",
+            "example": "Parents should nurture their children's talents from an early age."
+        },
+        {
+            "word": "play a role",
+            "type": "v",
+            "ipa": "/pleɪ ə rəʊl/",
+            "meaning": "đóng vai trò",
+            "example": "Diet and exercise play a crucial role in maintaining good health."
+        },
+        {
+            "word": "relate (to)",
+            "type": "v",
+            "ipa": "/rɪˈleɪt/",
+            "meaning": "liên hệ, đồng cảm",
+            "example": "Many parents find it hard to relate to their children's modern lifestyles."
+        }
+    ]
+}

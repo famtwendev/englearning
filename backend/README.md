@@ -99,10 +99,17 @@ To securely test endpoints directly from Swagger:
 
 To import data into the database via PowerShell:
 ```bash
-cd 'e:\eng-app\backend\core-learning-service'
+cd 'e:\eng-app\backend\import\'
 .\import_script.ps1
 # Cách 1: Chạy trực tiếp (Nó sẽ ngầm định dùng file mental_and_physical_development.json)
 #.\import_script.ps1
 # Cách 2: Chèn tên file linh hoạt ở đằng sau đuôi lệnh
 #.\import_script.ps1 -File "keeping_fit.json"
+```
+
+
+To import data IPA 
+```bash
+cd 'e:\eng-app\backend\import\'
+Get-Content e:\eng-app\backend\import\ipa_seed.sql | docker exec -i eng_learning_db psql -U postgres -d eng_learning_db
 ```

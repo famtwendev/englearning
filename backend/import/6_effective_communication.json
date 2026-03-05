@@ -1,0 +1,398 @@
+{
+    "topic": "Effective Communication",
+    "description": "Language, linguistics",
+    "difficulty": "LOW",
+    "nouns": [
+        {
+            "word": "accuracy",
+            "type": "n",
+            "ipa": "/ˈækjʊrəsi/",
+            "meaning": "độ chính xác",
+            "example": "Language learners should focus on both fluency and accuracy."
+        },
+        {
+            "word": "communication",
+            "type": "n",
+            "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+            "meaning": "sự giao tiếp",
+            "example": "Effective communication is essential for a successful marriage."
+        },
+        {
+            "word": "concept",
+            "type": "n",
+            "ipa": "/ˈkɒnsept/",
+            "meaning": "khái niệm",
+            "example": "He found it difficult to grasp the abstract concept of linguistics."
+        },
+        {
+            "word": "conjecture",
+            "type": "n",
+            "ipa": "/kənˈdʒektʃə(r)/",
+            "meaning": "sự phỏng đoán",
+            "example": "What you are saying is mere conjecture; there is no evidence."
+        },
+        {
+            "word": "dialect",
+            "type": "n",
+            "ipa": "/ˈdaɪəlekt/",
+            "meaning": "phương ngữ",
+            "example": "They speak a local dialect that is quite hard for outsiders to understand."
+        },
+        {
+            "word": "fluency",
+            "type": "n",
+            "ipa": "/ˈfluːənsi/",
+            "meaning": "sự trôi chảy",
+            "example": "Daily practice is the only way to achieve native-like fluency."
+        },
+        {
+            "word": "gesture",
+            "type": "n",
+            "ipa": "/ˈdʒestʃə(r)/",
+            "meaning": "cử chỉ",
+            "example": "She made a rude gesture with her hand."
+        },
+        {
+            "word": "hesitation",
+            "type": "n",
+            "ipa": "/ˌhezɪˈteɪʃn/",
+            "meaning": "sự do dự",
+            "example": "After a slight hesitation, she agreed to help me."
+        },
+        {
+            "word": "language",
+            "type": "n",
+            "ipa": "/ˈlæŋɡwɪdʒ/",
+            "meaning": "ngôn ngữ",
+            "example": "English is a global language used in science and aviation."
+        },
+        {
+            "word": "language barrier",
+            "type": "n",
+            "ipa": "/ˈlæŋɡwɪdʒ ˈbæriə(r)/",
+            "meaning": "rào cản ngôn ngữ",
+            "example": "The language barrier made it difficult for the tourists to order food."
+        },
+        {
+            "word": "linguist",
+            "type": "n",
+            "ipa": "/ˈlɪŋɡwɪst/",
+            "meaning": "nhà ngôn ngữ học",
+            "example": "As a linguist, she studies the structure and evolution of human speech."
+        },
+        {
+            "word": "linguistics",
+            "type": "n",
+            "ipa": "/lɪŋˈɡwɪstɪks/",
+            "meaning": "ngôn ngữ học",
+            "example": "Linguistics is the scientific study of language and its structure."
+        },
+        {
+            "word": "means of communication",
+            "type": "n",
+            "ipa": "/miːnz əv kəˌmjuːnɪˈkeɪʃn/",
+            "meaning": "phương tiện giao tiếp",
+            "example": "Social media has become a primary means of communication for young people."
+        },
+        {
+            "word": "mother tongue",
+            "type": "n",
+            "ipa": "/ˈmʌðə tʌŋ/",
+            "meaning": "tiếng mẹ đẻ",
+            "example": "Even though she lives abroad, she still speaks her mother tongue at home."
+        },
+        {
+            "word": "native speaker",
+            "type": "n",
+            "ipa": "/ˈneɪtɪv ˈspiːkə(r)/",
+            "meaning": "người bản ngữ",
+            "example": "It is helpful to practice speaking with a native speaker."
+        },
+        {
+            "word": "pronunciation",
+            "type": "n",
+            "ipa": "/prəˌnʌnsiˈeɪʃn/",
+            "meaning": "cách phát âm",
+            "example": "I'm working on my English pronunciation to be more easily understood."
+        },
+        {
+            "word": "sign language",
+            "type": "n",
+            "ipa": "/ˈsaɪn ˈlæŋɡwɪdʒ/",
+            "meaning": "ngôn ngữ ký hiệu",
+            "example": "Sign language is used by people who are deaf or hard of hearing."
+        },
+        {
+            "word": "vocabulary",
+            "type": "n",
+            "ipa": "/vəˈkæbjʊləri/",
+            "meaning": "từ vựng",
+            "example": "Reading books is a great way to expand your vocabulary."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "incoherent",
+            "type": "adj",
+            "ipa": "/ˌɪnkəʊˈhɪərənt/",
+            "meaning": "không mạch lạc",
+            "example": "The witness was so nervous that her testimony was incoherent."
+        },
+        {
+            "word": "inherent",
+            "type": "adj",
+            "ipa": "/ɪnˈhɪərənt/",
+            "meaning": "vốn có",
+            "example": "There are inherent risks in any investment."
+        },
+        {
+            "word": "sophisticated",
+            "type": "adj",
+            "ipa": "/səˈfɪstɪkeɪtɪd/",
+            "meaning": "tinh vi, phức tạp",
+            "example": "Modern communication systems use highly sophisticated technology."
+        },
+        {
+            "word": "spontaneous",
+            "type": "adj",
+            "ipa": "/spɒnˈteɪniəs/",
+            "meaning": "tự phát",
+            "example": "The crowd broke into spontaneous applause after the speech."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "clarify",
+            "type": "v",
+            "ipa": "/ˈklærɪfaɪ/",
+            "meaning": "làm rõ",
+            "example": "Could you clarify what you mean by that statement?"
+        },
+        {
+            "word": "communicate",
+            "type": "v",
+            "ipa": "/kəˈmjuːnɪkeɪt/",
+            "meaning": "giao tiếp",
+            "example": "He uses his phone to communicate with his family back home."
+        },
+        {
+            "word": "comprehend",
+            "type": "v",
+            "ipa": "/ˌkɒmprɪˈhend/",
+            "meaning": "hiểu",
+            "example": "I fail to comprehend why he would make such a decision."
+        },
+        {
+            "word": "conclude",
+            "type": "v",
+            "ipa": "/kənˈkluːd/",
+            "meaning": "kết luận",
+            "example": "The jury concluded that the defendant was not guilty."
+        },
+        {
+            "word": "confirm",
+            "type": "v",
+            "ipa": "/kənˈfɜːm/",
+            "meaning": "xác nhận",
+            "example": "Please click the link in your email to confirm your registration."
+        },
+        {
+            "word": "converse",
+            "type": "v",
+            "ipa": "/kənˈvɜːs/",
+            "meaning": "trò chuyện",
+            "example": "They sat on the bench and conversed for hours."
+        },
+        {
+            "word": "define",
+            "type": "v",
+            "ipa": "/dɪˈfaɪn/",
+            "meaning": "định nghĩa",
+            "example": "How would you define the word 'success'?"
+        },
+        {
+            "word": "demonstrate",
+            "type": "v",
+            "ipa": "/ˈdemənstreɪt/",
+            "meaning": "minh họa, chứng minh",
+            "example": "He demonstrated how to use the new software to the team."
+        },
+        {
+            "word": "distinguish",
+            "type": "v",
+            "ipa": "/dɪˈstɪŋɡwɪʃ/",
+            "meaning": "phân biệt",
+            "example": "It's difficult to distinguish between the two identical twins."
+        },
+        {
+            "word": "emerge",
+            "type": "v",
+            "ipa": "/ɪˈmɜːdʒ/",
+            "meaning": "xuất hiện",
+            "example": "New evidence has emerged that could change the trial's outcome."
+        },
+        {
+            "word": "evolve",
+            "type": "v",
+            "ipa": "/ɪˈvɒlv/",
+            "meaning": "phát triển, tiến hóa",
+            "example": "Languages evolve over time as new words are created."
+        },
+        {
+            "word": "explain",
+            "type": "v",
+            "ipa": "/ɪkˈspleɪn/",
+            "meaning": "giải thích",
+            "example": "Can you explain the rules of the game to me?"
+        },
+        {
+            "word": "express",
+            "type": "v",
+            "ipa": "/ɪkˈspres/",
+            "meaning": "thể hiện",
+            "example": "Children often use art to express their feelings."
+        },
+        {
+            "word": "gesture",
+            "type": "v",
+            "ipa": "/ˈdʒestʃə(r)/",
+            "meaning": "ra hiệu",
+            "example": "The waiter gestured towards our table."
+        },
+        {
+            "word": "illustrate",
+            "type": "v",
+            "ipa": "/ˈɪləstreɪt/",
+            "meaning": "minh họa",
+            "example": "The lecturer used examples to illustrate his point."
+        },
+        {
+            "word": "imply",
+            "type": "v",
+            "ipa": "/ɪmˈplaɪ/",
+            "meaning": "ngụ ý",
+            "example": "Are you implying that I am lying?"
+        },
+        {
+            "word": "indicate",
+            "type": "v",
+            "ipa": "/ˈɪndɪkeɪt/",
+            "meaning": "chỉ ra",
+            "example": "The map indicates that the station is two blocks away."
+        },
+        {
+            "word": "pronounce",
+            "type": "v",
+            "ipa": "/prəˈnaʊns/",
+            "meaning": "phát âm",
+            "example": "I'm not sure how to pronounce this name correctly."
+        },
+        {
+            "word": "recall",
+            "type": "v",
+            "ipa": "/rɪˈvjuː/",
+            "meaning": "nhớ lại",
+            "example": "I can't recall exactly what she said during the meeting."
+        },
+        {
+            "word": "refer (to)",
+            "type": "v",
+            "ipa": "/rɪˈfɜː(r)/",
+            "meaning": "đề cập đến",
+            "example": "The doctor referred to the latest research in his report."
+        },
+        {
+            "word": "signify",
+            "type": "v",
+            "ipa": "/ˈsɪɡnɪfaɪ/",
+            "meaning": "biểu thị",
+            "example": "A red light signifies that you must stop."
+        },
+        {
+            "word": "state",
+            "type": "v",
+            "ipa": "/steɪt/",
+            "meaning": "tuyên bố",
+            "example": "The witness stated that he saw the accident clearly."
+        },
+        {
+            "word": "stutter",
+            "type": "v",
+            "ipa": "/ˈstʌtə(r)/",
+            "meaning": "nói lắp",
+            "example": "He tends to stutter when he's feeling nervous."
+        },
+        {
+            "word": "suggest",
+            "type": "v",
+            "ipa": "/səˈdʒest/",
+            "meaning": "đề xuất",
+            "example": "I suggest that we leave early to avoid the traffic."
+        },
+        {
+            "word": "translate",
+            "type": "v",
+            "ipa": "/trænzˈleɪt/",
+            "meaning": "dịch",
+            "example": "Can you translate this document into Vietnamese for me?"
+        }
+    ],
+    "idioms": [
+        {
+            "word": "there is something to be said for",
+            "type": "idiom",
+            "ipa": "/ðeər ɪz ˈsʌmθɪŋ tə bi ˈsed fɔːr/",
+            "meaning": "cũng có lý khi nói rằng / có ưu điểm là",
+            "example": "There is something to be said for living in a small town; it's so peaceful."
+        },
+        {
+            "word": "needless to say",
+            "type": "idiom",
+            "ipa": "/ˈniːdləs tə seɪ/",
+            "meaning": "không cần phải nói (vì đã quá rõ)",
+            "example": "Needless to say, the company was very disappointed by the loss."
+        },
+        {
+            "word": "have a say",
+            "type": "idiom",
+            "ipa": "/hæv ə seɪ/",
+            "meaning": "có tiếng nói / được tham gia vào quyết định",
+            "example": "Employees should have a say in how the office is run."
+        },
+        {
+            "word": "when all is said and done",
+            "type": "idiom",
+            "ipa": "/wen ɔːl ɪz sed ənd dʌn/",
+            "meaning": "sau tất cả / rốt cuộc thì",
+            "example": "When all is said and done, family is the most important thing."
+        },
+        {
+            "word": "having said that",
+            "type": "idiom",
+            "ipa": "/ˈhævɪŋ sed ðæt/",
+            "meaning": "tuy nhiên / nói là vậy nhưng",
+            "example": "The job is stressful. Having said that, I do enjoy the high salary."
+        },
+        {
+            "word": "to say the least",
+            "type": "idiom",
+            "ipa": "/tə seɪ ðə liːst/",
+            "meaning": "nói nhẹ thì (thực tế còn nghiêm trọng hơn)",
+            "example": "The results were disappointing, to say the least."
+        },
+        {
+            "word": "you can say that again!",
+            "type": "idiom",
+            "ipa": "/juː kən seɪ ðæt əˈɡen/",
+            "meaning": "tôi hoàn toàn đồng ý!",
+            "example": "- 'This weather is awful.' - 'You can say that again!'"
+        },
+        {
+            "word": "that is to say",
+            "type": "idiom",
+            "ipa": "/ðæt ɪz tə seɪ/",
+            "meaning": "nói cách khác / cụ thể là",
+            "example": "He's a polyglot, that is to say, he speaks several languages fluently."
+        }
+    ]
+}

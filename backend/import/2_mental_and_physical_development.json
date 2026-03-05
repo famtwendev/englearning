@@ -1,126 +1,126 @@
 {
-    "topic": "Mental and Physical Development",
+    "topic": "Mental And Physical Development",
     "description": "The body, the mind",
-    "difficulty": "Low",
+    "difficulty": "LOW",
     "nouns": [
         {
             "word": "ability",
             "type": "n",
             "ipa": "/əˈbɪləti/",
             "meaning": "khả năng",
-            "example": "Children develop the ability to solve problems at an early age."
+            "example": "The system has the ability to run multiple programs at once."
         },
         {
             "word": "adolescent",
             "type": "n",
             "ipa": "/ˌædəˈlesnt/",
             "meaning": "thanh thiếu niên",
-            "example": "Many adolescents experience emotional changes during puberty."
+            "example": "Many adolescents experience mood swings during puberty."
         },
         {
             "word": "behaviour",
             "type": "n",
             "ipa": "/bɪˈheɪvjər/",
             "meaning": "hành vi, cư xử",
-            "example": "Parents play an important role in shaping their children's behaviour."
+            "example": "The teacher noticed a change in the student's behaviour."
         },
         {
             "word": "childhood",
             "type": "n",
             "ipa": "/ˈtʃaɪldhʊd/",
             "meaning": "tuổi thơ",
-            "example": "Childhood is a crucial stage of mental development."
+            "example": "She had a very happy childhood in the countryside."
         },
         {
             "word": "concept",
             "type": "n",
             "ipa": "/ˈkɒnsept/",
             "meaning": "ý tưởng, khái niệm",
-            "example": "Young children may struggle to understand abstract concepts."
+            "example": "Infants gradually learn the concept of cause and effect."
         },
         {
             "word": "consequence",
             "type": "n",
             "ipa": "/ˈkɒnsɪkwəns/",
             "meaning": "hậu quả",
-            "example": "Teenagers should learn about the consequences of their actions."
+            "example": "You must accept the consequences of your actions."
         },
         {
             "word": "gesture",
             "type": "n",
             "ipa": "/ˈdʒestʃə(r)/",
             "meaning": "cử chỉ",
-            "example": "A simple gesture can express love and support."
+            "example": "He made a rude gesture with his hand."
         },
         {
             "word": "growth",
             "type": "n",
             "ipa": "/ɡrəʊθ/",
             "meaning": "sự phát triển",
-            "example": "Physical growth is most rapid during adolescence."
+            "example": "The baby's growth was monitored closely by the doctor."
         },
         {
             "word": "height",
             "type": "n",
             "ipa": "/haɪt/",
             "meaning": "chiều cao",
-            "example": "Height often increases quickly during puberty."
+            "example": "She is the same height as her mother."
         },
         {
             "word": "imagination",
             "type": "n",
             "ipa": "/ɪˌmædʒɪˈneɪʃn/",
             "meaning": "trí tưởng tượng",
-            "example": "Imagination plays a key role in cognitive development."
+            "example": "Children often have a very vivid imagination."
         },
         {
             "word": "infancy",
             "type": "n",
             "ipa": "/ˈɪnfənsi/",
             "meaning": "thời kỳ sơ sinh",
-            "example": "Infancy is the earliest stage of human development."
+            "example": "The disease is rare in infancy."
         },
         {
             "word": "infant",
             "type": "n",
             "ipa": "/ˈɪnfənt/",
             "meaning": "trẻ sơ sinh",
-            "example": "An infant depends entirely on caregivers."
+            "example": "The infant was sleeping peacefully in the crib."
         },
         {
             "word": "knowledge",
             "type": "n",
             "ipa": "/ˈnɒlɪdʒ/",
             "meaning": "kiến thức",
-            "example": "Reading helps children gain knowledge about the world."
+            "example": "He has a deep knowledge of ancient history."
         },
         {
             "word": "maturity",
             "type": "n",
             "ipa": "/məˈtʃʊərəti/",
             "meaning": "sự trưởng thành",
-            "example": "Emotional maturity develops over time."
+            "example": "The boy showed great maturity in handling the problem."
         },
         {
             "word": "memory",
             "type": "n",
             "ipa": "/ˈmeməri/",
             "meaning": "trí nhớ",
-            "example": "Memory improves as the brain develops."
+            "example": "I have a very poor memory for names."
         },
         {
             "word": "milestone",
             "type": "n",
             "ipa": "/ˈmaɪlstəʊn/",
-            "meaning": "cột mốc phát triển",
-            "example": "Learning to walk is an important milestone."
+            "meaning": "cột mốc (phát triển)",
+            "example": "Walking is a major milestone in a child's development."
         },
         {
             "word": "mind",
             "type": "n",
             "ipa": "/maɪnd/",
             "meaning": "trí óc",
-            "example": "A healthy diet supports both body and mind."
+            "example": "Keep your mind active by reading regularly."
         },
         {
             "word": "peers",
@@ -134,70 +134,63 @@
             "type": "n",
             "ipa": "/ˈpɪəriəd/",
             "meaning": "giai đoạn",
-            "example": "Adolescence is a challenging period of life."
+            "example": "The study covered a period of ten years."
         },
         {
             "word": "phase",
             "type": "n",
             "ipa": "/feɪz/",
             "meaning": "giai đoạn",
-            "example": "Every child goes through different developmental phases."
+            "example": "The project is now in its final phase."
         },
         {
             "word": "rate",
             "type": "n",
             "ipa": "/reɪt/",
             "meaning": "tốc độ, tỷ lệ",
-            "example": "Children grow at different rates."
+            "example": "Children grow at an astonishing rate."
         },
         {
             "word": "reminder",
             "type": "n",
             "ipa": "/rɪˈmaɪndə(r)/",
             "meaning": "lời nhắc",
-            "example": "This photo serves as a reminder of my childhood."
+            "example": "The scars served as a constant reminder of the accident."
         },
         {
             "word": "social skills",
             "type": "n",
             "ipa": "/ˈsəʊʃl skɪlz/",
             "meaning": "kỹ năng xã hội",
-            "example": "School helps children develop social skills."
+            "example": "Playing with others helps children develop social skills."
         },
         {
             "word": "skill",
             "type": "n",
             "ipa": "/skɪl/",
             "meaning": "kỹ năng",
-            "example": "Communication is an essential life skill."
+            "example": "Learning to cook is a useful life skill."
         },
         {
             "word": "stage",
             "type": "n",
             "ipa": "/steɪdʒ/",
-            "meaning": "giai đoạn",
-            "example": "Infancy is the first stage of development."
+            "meaning": "giai đoạn, sân khấu",
+            "example": "They are in the early stages of the investigation."
         },
         {
             "word": "toddler",
             "type": "n",
-            "ipa": "/ˈtɑːdlər/",
+            "ipa": "/ˈtɑːd.lɚ/",
             "meaning": "trẻ mới biết đi",
-            "example": "The toddler is learning how to speak."
+            "example": "The toddler was taking his first wobbly steps."
         },
         {
             "word": "transition",
             "type": "n",
             "ipa": "/trænˈzɪʃn/",
             "meaning": "sự chuyển tiếp",
-            "example": "The transition from childhood to adolescence can be difficult."
-        },
-        {
-            "word": "fond memories",
-            "type": "phrase",
-            "ipa": "",
-            "meaning": "những kỷ niệm đẹp",
-            "example": "She has fond memories of her early school years."
+            "example": "The transition from childhood to adulthood can be difficult."
         }
     ],
     "adjectives": [
@@ -206,98 +199,98 @@
             "type": "adj",
             "ipa": "/ˈæbstrækt/",
             "meaning": "trừu tượng",
-            "example": "Abstract thinking develops during adolescence."
+            "example": "Young children find it hard to understand abstract concepts like 'time'."
         },
         {
             "word": "cognitive",
             "type": "adj",
             "ipa": "/ˈkɒɡnətɪv/",
             "meaning": "thuộc nhận thức",
-            "example": "Reading improves cognitive skills."
+            "example": "Reading helps a child's cognitive development."
         },
         {
             "word": "clumsy",
             "type": "adj",
             "ipa": "/ˈklʌmzi/",
             "meaning": "vụng về",
-            "example": "Toddlers often appear clumsy when learning to walk."
+            "example": "I'm so clumsy; I just dropped another glass."
         },
         {
             "word": "fond",
             "type": "adj",
-            "ipa": "/fɒnd/",
+            "ipa": "/fɑːnd/",
             "meaning": "yêu thích",
-            "example": "She is fond of her childhood friends."
+            "example": "She has fond memories of her grandmother."
         },
         {
             "word": "fully-grown",
             "type": "adj",
             "ipa": "/ˌfʊli ˈɡrəʊn/",
             "meaning": "phát triển hoàn toàn",
-            "example": "A fully-grown adult has reached physical maturity."
+            "example": "A fully-grown elephant is quite massive."
         },
         {
             "word": "immature",
             "type": "adj",
             "ipa": "/ˌɪməˈtʃʊə(r)/",
             "meaning": "chưa trưởng thành",
-            "example": "Some teenagers may behave in an immature way."
+            "example": "He is very immature for his age."
         },
         {
             "word": "independent",
             "type": "adj",
             "ipa": "/ˌɪndɪˈpendənt/",
             "meaning": "độc lập",
-            "example": "Adolescents strive to become more independent."
+            "example": "She is a very independent young woman."
         },
         {
             "word": "irresponsible",
             "type": "adj",
             "ipa": "/ˌɪrɪˈspɒnsəbl/",
             "meaning": "vô trách nhiệm",
-            "example": "Irresponsible behaviour can lead to serious consequences."
+            "example": "It would be irresponsible to leave the child alone."
         },
         {
             "word": "mature",
             "type": "adj",
             "ipa": "/məˈtʃʊə(r)/",
             "meaning": "trưởng thành",
-            "example": "He is very mature for his age."
+            "example": "She is more mature than most people her age."
         },
         {
             "word": "patient",
             "type": "adj",
             "ipa": "/ˈpeɪʃnt/",
             "meaning": "kiên nhẫn",
-            "example": "Parents need to be patient with toddlers."
+            "example": "You need to be patient when teaching children."
         },
         {
             "word": "rebellious",
             "type": "adj",
             "ipa": "/rɪˈbeljəs/",
             "meaning": "nổi loạn",
-            "example": "Rebellious behaviour is common in adolescence."
+            "example": "She went through a rebellious phase in her teens."
         },
         {
             "word": "significant",
             "type": "adj",
             "ipa": "/sɪɡˈnɪfɪkənt/",
             "meaning": "đáng kể, quan trọng",
-            "example": "There are significant changes during puberty."
+            "example": "There has been a significant increase in prices."
         },
         {
             "word": "tolerant",
             "type": "adj",
             "ipa": "/ˈtɒlərənt/",
             "meaning": "khoan dung",
-            "example": "A tolerant attitude helps build healthy relationships."
+            "example": "We should be more tolerant of different views."
         },
         {
             "word": "unsteady",
             "type": "adj",
-            "ipa": "/ʌnˈstedi/",
+            "ipa": "/ʌnˈstɛdi/",
             "meaning": "không ổn định",
-            "example": "The toddler took a few unsteady steps."
+            "example": "The baby took a few unsteady steps towards her dad."
         }
     ],
     "verbs": [
@@ -306,149 +299,156 @@
             "type": "v",
             "ipa": "/əˈkwaɪə(r)/",
             "meaning": "đạt được, tiếp thu",
-            "example": "Children acquire language skills naturally."
+            "example": "Children acquire language skills very quickly."
         },
         {
             "word": "develop",
             "type": "v",
             "ipa": "/dɪˈveləp/",
             "meaning": "phát triển",
-            "example": "Children develop rapidly in their early years."
+            "example": "The company is developing a new software program."
         },
         {
             "word": "gesture",
             "type": "v",
             "ipa": "/ˈdʒestʃə(r)/",
             "meaning": "ra hiệu bằng cử chỉ",
-            "example": "She gestured for him to come closer."
+            "example": "He gestured for me to sit down."
         },
         {
             "word": "grow",
             "type": "v",
             "ipa": "/ɡrəʊ/",
             "meaning": "lớn lên, phát triển",
-            "example": "Children grow quickly during puberty."
+            "example": "The business has grown rapidly this year."
         },
         {
             "word": "imitate",
             "type": "v",
             "ipa": "/ˈɪmɪteɪt/",
             "meaning": "bắt chước",
-            "example": "Young children often imitate their parents."
+            "example": "Parrots can imitate human speech."
         },
         {
             "word": "look back",
-            "type": "phrasal verb",
+            "type": "phr v",
             "ipa": "/lʊk bæk/",
             "meaning": "nhìn lại, hồi tưởng",
-            "example": "She likes to look back on her childhood."
+            "example": "When I look back on my school days, I realize how lucky I was."
         },
         {
             "word": "master",
             "type": "v",
             "ipa": "/ˈmɑːstə(r)/",
             "meaning": "thành thạo",
-            "example": "It takes time to master a new skill."
+            "example": "It takes years to master a foreign language."
         },
         {
             "word": "mature",
             "type": "v",
             "ipa": "/məˈtʃʊə(r)/",
             "meaning": "trưởng thành",
-            "example": "People mature at different rates."
+            "example": "The wine needs to mature for a few more years."
         },
         {
             "word": "remember",
             "type": "v",
             "ipa": "/rɪˈmembə(r)/",
             "meaning": "nhớ",
-            "example": "I still remember my first day at school."
+            "example": "I don't remember seeing him at the party."
         },
         {
             "word": "remind",
             "type": "v",
             "ipa": "/rɪˈmaɪnd/",
             "meaning": "nhắc nhở",
-            "example": "Please remind me to call her."
+            "example": "Please remind me to call her tomorrow."
         },
         {
             "word": "reminisce",
             "type": "v",
             "ipa": "/ˌremɪˈnɪs/",
             "meaning": "hồi tưởng",
-            "example": "They reminisced about their school days."
+            "example": "My grandparents love to reminisce about the old days."
         },
         {
             "word": "throw a tantrum",
-            "type": "verb phrase",
+            "type": "v phr",
             "ipa": "/θrəʊ ə ˈtæntrəm/",
             "meaning": "ăn vạ, nổi cơn giận",
-            "example": "The toddler threw a tantrum in the supermarket."
+            "example": "The toddler threw a tantrum because he couldn't have the toy."
         },
         {
             "word": "visualise",
             "type": "v",
             "ipa": "/ˈvɪʒuəlaɪz/",
             "meaning": "hình dung",
-            "example": "Try to visualise your future goals."
+            "example": "Try to visualise the final result before you start."
         }
     ],
-    "phrases_with_mind": [
+    "idioms": [
         {
             "word": "bear in mind",
             "type": "idiom",
             "ipa": "/beə(r) ɪn maɪnd/",
             "meaning": "ghi nhớ",
-            "example": "Bear in mind that everyone develops differently."
+            "example": "Please bear in mind that the deadline is tomorrow."
         },
         {
             "word": "broaden the mind",
             "type": "idiom",
             "ipa": "/ˈbrɔːdn ðə maɪnd/",
             "meaning": "mở mang đầu óc",
-            "example": "Travel can broaden the mind."
+            "example": "Travel helps to broaden the mind."
         },
         {
             "word": "have something in mind",
             "type": "idiom",
-            "ipa": "",
+            "ipa": "/hæv ˈsʌmθɪŋ ɪn maɪnd/",
             "meaning": "có ý định",
-            "example": "I have something in mind for my future career."
+            "example": "Do you have anyone in mind for the job?"
         },
         {
             "word": "have something on your mind",
             "type": "idiom",
-            "ipa": "",
+            "ipa": "/hæv ˈsʌmθɪŋ ɒn jɔː(r) maɪnd/",
             "meaning": "bận tâm, lo lắng",
-            "example": "You seem worried. Do you have something on your mind?"
+            "example": "You look worried. Do you have something on your mind?"
         },
         {
             "word": "it slipped my mind",
             "type": "idiom",
-            "ipa": "",
+            "ipa": "/ɪt slɪpt maɪ maɪnd/",
             "meaning": "tôi quên mất",
-            "example": "I’m sorry I forgot your birthday; it slipped my mind."
+            "example": "I'm sorry I didn't buy the milk; it completely slipped my mind."
         },
         {
             "word": "keep an open mind",
             "type": "idiom",
-            "ipa": "",
+            "ipa": "/kiːp ən ˈəʊpən maɪnd/",
             "meaning": "giữ tư duy cởi mở",
-            "example": "Keep an open mind when learning new ideas."
+            "example": "It's important to keep an open mind when hearing new ideas."
         },
         {
             "word": "my mind went blank",
             "type": "idiom",
-            "ipa": "",
+            "ipa": "/maɪ maɪnd went blæŋk/",
             "meaning": "đầu óc trống rỗng",
-            "example": "During the exam, my mind went blank."
+            "example": "When she asked me the question, my mind went blank."
         },
         {
             "word": "put your mind at ease",
             "type": "idiom",
-            "ipa": "",
+            "ipa": "/pʊt jɔː(r) maɪnd æt iːz/",
             "meaning": "làm ai đó yên tâm",
-            "example": "The doctor’s words put her mind at ease."
+            "example": "The doctor's words put my mind at ease."
+        },
+        {
+            "word": "fond memories",
+            "type": "phrase",
+            "ipa": "/fɒnd ˈmeməriz/",
+            "meaning": "những kỷ niệm đẹp",
+            "example": "She has fond memories of her early school years."
         }
     ]
 }
