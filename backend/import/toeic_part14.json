@@ -1,0 +1,235 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 14",
+    "description": "Essential TOEIC terms focusing on evaluation, business expansion, corporate leadership, and financial spending.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "environment",
+            "type": "n",
+            "ipa": "/ɪnˈvaɪ.rən.mənt/",
+            "meaning": "môi trường",
+            "example": "We strive to create a working environment that fosters creativity and collaboration."
+        },
+        {
+            "word": "equivalent",
+            "type": "n",
+            "ipa": "/ɪˈkwɪv.əl.ənt/",
+            "meaning": "vật tương đương, sự tương đương",
+            "example": "The cost of the repair is the equivalent of a new machine."
+        },
+        {
+            "word": "event",
+            "type": "n",
+            "ipa": "/ɪˈvent/",
+            "meaning": "sự kiện",
+            "example": "The networking event is a great opportunity to meet industry leaders."
+        },
+        {
+            "word": "evidence",
+            "type": "n",
+            "ipa": "/ˈev.ə.dəns/",
+            "meaning": "bằng chứng, chứng cớ",
+            "example": "There is clear evidence that the new marketing strategy is working."
+        },
+        {
+            "word": "examination",
+            "type": "n",
+            "ipa": "/ɪɡˌzæm.əˈneɪ.ʃən/",
+            "meaning": "sự khám xét, kiểm tra, kỳ thi",
+            "example": "A thorough examination of the financial records revealed some errors."
+        },
+        {
+            "word": "executive",
+            "type": "n",
+            "ipa": "/ɪɡˈzek.jə.t̬ɪv/",
+            "meaning": "người điều hành, ủy viên ban quản trị",
+            "example": "The chief executive decided to delay the product launch by two weeks."
+        },
+        {
+            "word": "expansion",
+            "type": "n",
+            "ipa": "/ɪkˈspæn.ʃən/",
+            "meaning": "sự mở rộng",
+            "example": "The company’s rapid expansion into Asian markets has been very successful."
+        },
+        {
+            "word": "expectation",
+            "type": "n",
+            "ipa": "/ˌek.spekˈteɪ.ʃən/",
+            "meaning": "sự mong chờ, kỳ vọng",
+            "example": "The final sales figures exceeded our highest expectations."
+        },
+        {
+            "word": "expenditure",
+            "type": "n",
+            "ipa": "/ɪkˈspen.də.tʃɚ/",
+            "meaning": "sự tiêu dùng, phí tổn (ngân sách)",
+            "example": "The government is planning to increase its expenditure on infrastructure."
+        },
+        {
+            "word": "expense",
+            "type": "n",
+            "ipa": "/ɪkˈspens/",
+            "meaning": "chi phí",
+            "example": "Travel expenses will be reimbursed by the company upon submission of receipts."
+        },
+        {
+            "word": "experience",
+            "type": "n",
+            "ipa": "/ɪkˈspɪr.i.əns/",
+            "meaning": "trải nghiệm, kinh nghiệm",
+            "example": "Applicants must have at least three years of experience in accounting."
+        },
+        {
+            "word": "experiment",
+            "type": "n",
+            "ipa": "/ɪkˈsper.ə.mənt/",
+            "meaning": "thí nghiệm, cuộc thử nghiệm",
+            "example": "The laboratory is conducting an experiment to test the new drug's safety."
+        },
+        {
+            "word": "exploration",
+            "type": "n",
+            "ipa": "/ˌek.spləˈreɪ.ʃən/",
+            "meaning": "cuộc thăm dò, thám hiểm",
+            "example": "The company is involved in the exploration of new oil fields in the North Sea."
+        },
+        {
+            "word": "express",
+            "type": "n",
+            "ipa": "/ɪkˈspres/",
+            "meaning": "công văn hỏa tốc, dịch vụ chuyển phát nhanh",
+            "example": "If you send it by express, it should arrive by tomorrow morning."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "environmental",
+            "type": "adj",
+            "ipa": "/ɪnˌvaɪ.rənˈmen.t̬əl/",
+            "meaning": "(thuộc) môi trường",
+            "example": "The firm was fined for violating several environmental regulations."
+        },
+        {
+            "word": "equivalent",
+            "type": "adj",
+            "ipa": "/ɪˈkwɪv.əl.ənt/",
+            "meaning": "tương đương",
+            "example": "Is $100 equivalent to the value of the service provided?"
+        },
+        {
+            "word": "essential",
+            "type": "adj",
+            "ipa": "/ɪˈsen.ʃəl/",
+            "meaning": "cốt lõi, thiết yếu",
+            "example": "Good communication skills are essential for this customer-facing role."
+        },
+        {
+            "word": "exact",
+            "type": "adj",
+            "ipa": "/ɪɡˈzækt/",
+            "meaning": "chính xác",
+            "example": "We need the exact measurements before we can start the installation."
+        },
+        {
+            "word": "excellent",
+            "type": "adj",
+            "ipa": "/ˈek.səl.ənt/",
+            "meaning": "xuất sắc, ưu tú",
+            "example": "The hotel is famous for its excellent service and luxurious rooms."
+        },
+        {
+            "word": "executive",
+            "type": "adj",
+            "ipa": "/ɪɡˈzek.jə.t̬ɪv/",
+            "meaning": "(thuộc) điều hành, quản trị",
+            "example": "She was recently promoted to an executive position within the company."
+        },
+        {
+            "word": "expensive",
+            "type": "adj",
+            "ipa": "/ɪkˈspen.sɪv/",
+            "meaning": "đắt tiền",
+            "example": "Maintaining the old equipment has become too expensive for the factory."
+        },
+        {
+            "word": "experienced",
+            "type": "adj",
+            "ipa": "/ɪkˈspɪə.ri.ənst/",
+            "meaning": "có kinh nghiệm",
+            "example": "Our team consists of highly experienced professionals in the tech industry."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "estimate",
+            "type": "v",
+            "ipa": "/ˈes.tə.meɪt/",
+            "meaning": "ước tính, dự đoán",
+            "example": "Experts estimate that the global economy will grow by 3% this year."
+        },
+        {
+            "word": "evaluate",
+            "type": "v",
+            "ipa": "/ɪˈvæl.ju.eɪt/",
+            "meaning": "đánh giá, định giá",
+            "example": "We need to evaluate the performance of our suppliers every quarter."
+        },
+        {
+            "word": "evolve",
+            "type": "v",
+            "ipa": "/ɪˈvɑːlv/",
+            "meaning": "tiến hóa, phát triển dần",
+            "example": "The small family business has evolved into a major international firm."
+        },
+        {
+            "word": "examine",
+            "type": "v",
+            "ipa": "/ɪɡˈzæm.ɪn/",
+            "meaning": "khảo sát, kiểm tra kỹ",
+            "example": "The safety inspector will examine the machinery for any potential risks."
+        },
+        {
+            "word": "excel",
+            "type": "v",
+            "ipa": "/ɪkˈsel/",
+            "meaning": "vượt trội, xuất sắc ở lĩnh vực nào đó",
+            "example": "She has always managed to excel in competitive environments."
+        },
+        {
+            "word": "exhibit",
+            "type": "v",
+            "ipa": "/ɪɡˈzɪb.ɪt/",
+            "meaning": "trưng bày, triển lãm",
+            "example": "Local artists will exhibit their work at the gallery next month."
+        },
+        {
+            "word": "expand",
+            "type": "v",
+            "ipa": "/ɪkˈspænd/",
+            "meaning": "mở rộng",
+            "example": "The retail chain plans to expand its operations to three more cities."
+        },
+        {
+            "word": "expect",
+            "type": "v",
+            "ipa": "/ɪkˈspekt/",
+            "meaning": "chờ đợi, hy vọng, liệu rằng",
+            "example": "We expect the new software to be available for download by Friday."
+        },
+        {
+            "word": "experiment",
+            "type": "v",
+            "ipa": "/ɪkˈsper.ə.mənt/",
+            "meaning": "thử nghiệm",
+            "example": "The chef decided to experiment with new spices for the autumn menu."
+        },
+        {
+            "word": "express",
+            "type": "v",
+            "ipa": "/ɪkˈspres/",
+            "meaning": "trình bày, diễn đạt",
+            "example": "Many employees expressed their concerns about the new office layout."
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 8",
+    "description": "Focusing on workplace compliance, consumer behavior, and professional conduct.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "complex",
+            "type": "n",
+            "ipa": "/ˈkɑːm.pleks/",
+            "meaning": "khu phức hợp",
+            "example": "The company’s headquarters is located in a large industrial complex."
+        },
+        {
+            "word": "complexity",
+            "type": "n",
+            "ipa": "/kəˈmplek.sə.t̬i/",
+            "meaning": "sự phức tạp",
+            "example": "We need to simplify the process to reduce its complexity."
+        },
+        {
+            "word": "compliment",
+            "type": "n",
+            "ipa": "/ˈkɑːm.plə.mənt/",
+            "meaning": "lời khen",
+            "example": "It is a great compliment to be asked to speak at the conference."
+        },
+        {
+            "word": "compromise",
+            "type": "n",
+            "ipa": "/ˈkɑːm.prə.maɪz/",
+            "meaning": "sự thỏa hiệp",
+            "example": "After hours of negotiation, both sides reached a compromise."
+        },
+        {
+            "word": "concern",
+            "type": "n",
+            "ipa": "/kənˈsɝːn/",
+            "meaning": "mối bận tâm, lo lắng",
+            "example": "The main concern of the board is the drop in quarterly profits."
+        },
+        {
+            "word": "conclusion",
+            "type": "n",
+            "ipa": "/kənˈkluː.ʒən/",
+            "meaning": "kết luận, sự kết thúc",
+            "example": "The report reached the conclusion that more investment is needed."
+        },
+        {
+            "word": "concourse",
+            "type": "n",
+            "ipa": "/ˈkɑːn.kɔːrs/",
+            "meaning": "đám đông, sảnh chờ lớn (nhà ga/sân bay)",
+            "example": "Meet me in the main concourse of the station at noon."
+        },
+        {
+            "word": "condition",
+            "type": "n",
+            "ipa": "/kənˈdɪʃ.ən/",
+            "meaning": "điều kiện, tình trạng",
+            "example": "The second-hand machinery was still in excellent condition."
+        },
+        {
+            "word": "conduct",
+            "type": "n",
+            "ipa": "/ˈkɑːn.dʌkt/",
+            "meaning": "hạnh kiểm, cách cư xử",
+            "example": "The company has a strict code of conduct for all employees."
+        },
+        {
+            "word": "confirmation",
+            "type": "n",
+            "ipa": "/ˌkɑːn.fɚˈmeɪ.ʃən/",
+            "meaning": "sự xác nhận",
+            "example": "You will receive a confirmation email once your booking is complete."
+        },
+        {
+            "word": "confusion",
+            "type": "n",
+            "ipa": "/kənˈfjuː.ʒən/",
+            "meaning": "sự bối rối, xáo trộn",
+            "example": "The change in the schedule caused a lot of confusion among the staff."
+        },
+        {
+            "word": "consequence",
+            "type": "n",
+            "ipa": "/ˈkɑːn.sə.kwəns/",
+            "meaning": "hậu quả, kết quả",
+            "example": "The decision to cut the budget had serious consequences for the project."
+        },
+        {
+            "word": "consultant",
+            "type": "n",
+            "ipa": "/kənˈsʌl.tənt/",
+            "meaning": "tư vấn viên, cố vấn",
+            "example": "We hired a management consultant to help us restructure the department."
+        },
+        {
+            "word": "consumer",
+            "type": "n",
+            "ipa": "/kənˈsuː.mɚ/",
+            "meaning": "người tiêu dùng",
+            "example": "Consumer confidence has increased since the interest rates dropped."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "complex",
+            "type": "adj",
+            "ipa": "/kɑːmˈpleks/",
+            "meaning": "phức tạp",
+            "example": "The legal issues surrounding the merger are very complex."
+        },
+        {
+            "word": "complimentary",
+            "type": "adj",
+            "ipa": "/ˌkɑːm.pləˈmen.t̬ɚ.i/",
+            "meaning": "miễn phí, ca ngợi",
+            "example": "The hotel offers a complimentary breakfast to all guests."
+        },
+        {
+            "word": "comprehensive",
+            "type": "adj",
+            "ipa": "/ˌkɑːm.prəˈhen.sɪv/",
+            "meaning": "toàn diện",
+            "example": "The manual provides a comprehensive guide to using the software."
+        },
+        {
+            "word": "compulsory",
+            "type": "adj",
+            "ipa": "/kəmˈpʌl.sɚ.i/",
+            "meaning": "bắt buộc",
+            "example": "Safety training is compulsory for all new factory workers."
+        },
+        {
+            "word": "considerable",
+            "type": "adj",
+            "ipa": "/kənˈsɪd.ɚ.ə.bəl/",
+            "meaning": "đáng kể, lớn lao",
+            "example": "The project will require a considerable amount of time and money."
+        },
+        {
+            "word": "constant",
+            "type": "adj",
+            "ipa": "/ˈkɑːn.stənt/",
+            "meaning": "liên tục, không đổi",
+            "example": "The machine needs constant maintenance to operate efficiently."
+        },
+        {
+            "word": "continual",
+            "type": "adj",
+            "ipa": "/kənˈtɪn.ju.əl/",
+            "meaning": "liên tục, liên miên",
+            "example": "The project faced continual delays due to bad weather."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "compliment",
+            "type": "v",
+            "ipa": "/ˈkɑːm.plə.mənt/",
+            "meaning": "khen ngợi",
+            "example": "The director stopped by to compliment the team on their success."
+        },
+        {
+            "word": "comply",
+            "type": "v",
+            "ipa": "/kəmˈplaɪ/",
+            "meaning": "tuân theo",
+            "example": "All businesses must comply with the new environmental regulations."
+        },
+        {
+            "word": "compromise",
+            "type": "v",
+            "ipa": "/ˈkɑːm.prə.maɪz/",
+            "meaning": "thỏa hiệp, làm hại",
+            "example": "We cannot compromise on the safety standards of our products."
+        },
+        {
+            "word": "concede",
+            "type": "v",
+            "ipa": "/kənˈsiːd/",
+            "meaning": "thừa nhận, nhượng bộ",
+            "example": "The official finally conceded that there had been a mistake."
+        },
+        {
+            "word": "concern",
+            "type": "v",
+            "ipa": "/kənˈsɝːn/",
+            "meaning": "liên quan, làm lo lắng",
+            "example": "The new policy concerns all employees working in the sales department."
+        },
+        {
+            "word": "conclude",
+            "type": "v",
+            "ipa": "/kənˈkluːd/",
+            "meaning": "kết luận, kết thúc",
+            "example": "She concluded her speech by thanking the organizers."
+        },
+        {
+            "word": "conduct",
+            "type": "v",
+            "ipa": "/kənˈdʌkt/",
+            "meaning": "tiến hành, chỉ đạo",
+            "example": "The agency will conduct a survey to gather customer feedback."
+        },
+        {
+            "word": "connect",
+            "type": "v",
+            "ipa": "/kəˈnekt/",
+            "meaning": "kết nối",
+            "example": "The technician is here to connect the office to the high-speed network."
+        },
+        {
+            "word": "consume",
+            "type": "v",
+            "ipa": "/kənˈsuːm/",
+            "meaning": "tiêu thụ",
+            "example": "Modern appliances are designed to consume less energy."
+        },
+        {
+            "word": "continue",
+            "type": "v",
+            "ipa": "/kənˈtɪn.juː/",
+            "meaning": "tiếp tục",
+            "example": "The team will continue to work on the project through the weekend."
+        },
+        {
+            "word": "contribute",
+            "type": "v",
+            "ipa": "/kənˈtrɪb.juːt/",
+            "meaning": "đóng góp",
+            "example": "Every member is expected to contribute ideas during the meeting."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "consistently",
+            "type": "adv",
+            "ipa": "/kənˈsɪs.tənt.li/",
+            "meaning": "kiên định, luôn luôn",
+            "example": "He has consistently met his sales targets for three years in a row."
+        }
+    ]
+}

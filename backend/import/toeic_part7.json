@@ -1,0 +1,216 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 7",
+    "description": "Essential TOEIC terms focusing on travel, legal claims, professional competition, and workplace interactions.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "charity",
+            "type": "n",
+            "ipa": "/ˈtʃer.ə.t̬i/",
+            "meaning": "lòng từ bi, tổ chức từ thiện",
+            "example": "The company donates a percentage of its profits to a local charity every year."
+        },
+        {
+            "word": "chef",
+            "type": "n",
+            "ipa": "/ʃef/",
+            "meaning": "đầu bếp",
+            "example": "The executive chef is responsible for creating the seasonal menu."
+        },
+        {
+            "word": "circumstances",
+            "type": "n",
+            "ipa": "/ˈsɝː.kəm.stæns/",
+            "meaning": "hoàn cảnh, tình huống",
+            "example": "Due to unforeseen circumstances, the outdoor concert has been rescheduled."
+        },
+        {
+            "word": "claim",
+            "type": "n",
+            "ipa": "/kleɪm/",
+            "meaning": "quyền đòi sở hữu, sự yêu cầu bồi thường",
+            "example": "Please submit your insurance claim within thirty days of the accident."
+        },
+        {
+            "word": "claimant",
+            "type": "n",
+            "ipa": "/ˈkleɪ.mənt/",
+            "meaning": "người thỉnh cầu, người đòi quyền lợi",
+            "example": "The claimant must provide proof of identity to receive the payment."
+        },
+        {
+            "word": "client",
+            "type": "n",
+            "ipa": "/ˈklaɪ.ənt/",
+            "meaning": "khách hàng (đối tác chuyên môn)",
+            "example": "Our law firm represents a wide range of corporate clients."
+        },
+        {
+            "word": "climate",
+            "type": "n",
+            "ipa": "/ˈklaɪ.mət/",
+            "meaning": "khí hậu, môi trường",
+            "example": "The current economic climate makes it difficult for small businesses to thrive."
+        },
+        {
+            "word": "commission",
+            "type": "n",
+            "ipa": "/kəˈmɪʃ.ən/",
+            "meaning": "hội đồng, tiền hoa hồng",
+            "example": "Sales agents earn a 10% commission on every product they sell."
+        },
+        {
+            "word": "committee",
+            "type": "n",
+            "ipa": "/kəˈmɪt̬.i/",
+            "meaning": "ủy ban",
+            "example": "The organizing committee is meeting to plan the annual gala."
+        },
+        {
+            "word": "commuter",
+            "type": "n",
+            "ipa": "/kəˈmjuː.t̬ɚ/",
+            "meaning": "người đi lại thường xuyên (bằng vé tháng)",
+            "example": "The new express train service will greatly benefit daily commuters."
+        },
+        {
+            "word": "company",
+            "type": "n",
+            "ipa": "/ˈkʌm.pə.ni/",
+            "meaning": "공 ty, sự cùng đi",
+            "example": "He recently joined a tech company specializing in artificial intelligence."
+        },
+        {
+            "word": "compensation",
+            "type": "n",
+            "ipa": "/ˌkɑːm.penˈseɪ.ʃən/",
+            "meaning": "sự đền bù, vật bồi thường",
+            "example": "The workers are demanding fair compensation for their overtime hours."
+        },
+        {
+            "word": "competitor",
+            "type": "n",
+            "ipa": "/kə mˈpet̬.ə.t̬ɚ/",
+            "meaning": "người cạnh tranh, đối thủ",
+            "example": "To stay ahead of our competitors, we must focus on innovation."
+        },
+        {
+            "word": "complaint",
+            "type": "n",
+            "ipa": "/kəmˈpleɪnt/",
+            "meaning": "lời than phiền, đơn khiếu nại",
+            "example": "The customer service department handled a formal complaint regarding the faulty item."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "cheap",
+            "type": "adj",
+            "ipa": "/tʃiːp/",
+            "meaning": "rẻ tiền, chất lượng thấp",
+            "example": "Although the materials were cheap, the finished product looks very professional."
+        },
+        {
+            "word": "compatible",
+            "type": "adj",
+            "ipa": "/kəmˈpæt̬.ə.bəl/",
+            "meaning": "tương thích, phù hợp",
+            "example": "Ensure that the new software is compatible with your existing operating system."
+        },
+        {
+            "word": "competent",
+            "type": "adj",
+            "ipa": "/ˈɑːm.pə.t̬ənt/",
+            "meaning": "có khả năng, đủ trình độ",
+            "example": "The company is looking for a competent manager to lead the new branch."
+        },
+        {
+            "word": "competitive",
+            "type": "adj",
+            "ipa": "/kəmˈpet̬.ə.t̬ɪv/",
+            "meaning": "có tính cạnh tranh, giá cả phải chăng",
+            "example": "We offer high-quality services at very competitive prices."
+        },
+        {
+            "word": "complete",
+            "type": "adj",
+            "ipa": "/kəmˈpliːt/",
+            "meaning": "đầy đủ, hoàn thiện",
+            "example": "A complete list of participants will be available on the website tomorrow."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "check in",
+            "type": "v",
+            "ipa": "/tʃek ɪn/",
+            "meaning": "đăng ký phòng, làm thủ tục vé",
+            "example": "Passengers are advised to check in at least two hours before departure."
+        },
+        {
+            "word": "check out",
+            "type": "v",
+            "ipa": "/tʃek aʊt/",
+            "meaning": "trả phòng, thanh toán",
+            "example": "Guests must check out of their rooms by 11:00 AM."
+        },
+        {
+            "word": "claim",
+            "type": "v",
+            "ipa": "/kleɪm/",
+            "meaning": "đòi hỏi, nhận, khẳng định",
+            "example": "You can claim your lost baggage at the information desk."
+        },
+        {
+            "word": "classify",
+            "type": "v",
+            "ipa": "/ˈklæs.ə.faɪ/",
+            "meaning": "phân loại",
+            "example": "We need to classify these documents according to their importance."
+        },
+        {
+            "word": "commence",
+            "type": "v",
+            "ipa": "/kəˈmens/",
+            "meaning": "bắt đầu, khởi đầu",
+            "example": "The construction of the new office building is scheduled to commence in July."
+        },
+        {
+            "word": "commute",
+            "type": "v",
+            "ipa": "/kəˈmjuːt/",
+            "meaning": "di chuyển đều đặn (đi làm/đi học)",
+            "example": "He has to commute for over an hour each day to get to the office."
+        },
+        {
+            "word": "compare",
+            "type": "v",
+            "ipa": "/kəmˈper/",
+            "meaning": "so sánh, đối chiếu",
+            "example": "It is always wise to compare prices before making a major purchase."
+        },
+        {
+            "word": "compensate",
+            "type": "v",
+            "ipa": "/ˈkɑːm.pən.seɪt/",
+            "meaning": "đền bù, bồi thường",
+            "example": "The airline will compensate passengers for the long delay."
+        },
+        {
+            "word": "complain",
+            "type": "v",
+            "ipa": "/kəmˈpleɪn/",
+            "meaning": "kêu ca, phàn nàn",
+            "example": "Residents often complain about the noise from the nearby construction site."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "commonly",
+            "type": "adv",
+            "ipa": "/ˈɑː.mən.li/",
+            "meaning": "thông thường, phổ biến",
+            "example": "This type of software is commonly used in graphic design offices."
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 16",
+    "description": "Essential TOEIC terms focusing on market trends, office organization, forecasting, and workplace relations.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "fluctuation",
+            "type": "n",
+            "ipa": "/ˌflʌk.tʃuˈeɪ.ʃən/",
+            "meaning": "sự dao động, biến động",
+            "example": "Investors are concerned about the constant fluctuation in oil prices."
+        },
+        {
+            "word": "focus",
+            "type": "n",
+            "ipa": "/ˈfoʊ.kəs/",
+            "meaning": "sự tập trung, tiêu điểm",
+            "example": "The main focus of today's meeting is the upcoming product launch."
+        },
+        {
+            "word": "fold",
+            "type": "n",
+            "ipa": "/foʊld/",
+            "meaning": "nếp gấp",
+            "example": "Make a sharp fold at the top of the page to mark your place."
+        },
+        {
+            "word": "folder",
+            "type": "n",
+            "ipa": "/ˈfoʊl.dɚ/",
+            "meaning": "bìa đựng hồ sơ, kẹp tài liệu",
+            "example": "Please organize these invoices into the blue folder on my desk."
+        },
+        {
+            "word": "force",
+            "type": "n",
+            "ipa": "/fɔːrs/",
+            "meaning": "lực lượng, sức mạnh",
+            "example": "The sales force has been doubled to reach more potential customers."
+        },
+        {
+            "word": "forecast",
+            "type": "n",
+            "ipa": "/ˈfɔːr.kæst/",
+            "meaning": "sự dự báo",
+            "example": "The weather forecast predicts heavy rain for the weekend."
+        },
+        {
+            "word": "form",
+            "type": "n",
+            "ipa": "/fɔːrm/",
+            "meaning": "mẫu đơn, hình dáng",
+            "example": "Applicants are required to fill out an application form online."
+        },
+        {
+            "word": "fuel",
+            "type": "n",
+            "ipa": "/ˈfjuː.əl/",
+            "meaning": "nhiên liệu, chất đốt",
+            "example": "Rising fuel costs have impacted the shipping industry significantly."
+        },
+        {
+            "word": "function",
+            "type": "n",
+            "ipa": "/ˈfʌŋk.ʃən/",
+            "meaning": "chức năng, buổi lễ/tiệc",
+            "example": "The main function of this software is to track inventory in real-time."
+        },
+        {
+            "word": "fundraising",
+            "type": "n",
+            "ipa": "/ˈfʌndˌreɪ.zɪŋ/",
+            "meaning": "sự huy động vốn, gây quỹ",
+            "example": "The charity organized a fundraising event to build a new community center."
+        },
+        {
+            "word": "furniture",
+            "type": "n",
+            "ipa": "/ˈfɝː.nɪ.tʃɚ/",
+            "meaning": "đồ nội thất",
+            "example": "The office furniture was replaced to create a more ergonomic workspace."
+        },
+        {
+            "word": "gesture",
+            "type": "n",
+            "ipa": "/ˈdʒes.tʃɚ/",
+            "meaning": "cử chỉ, điệu bộ",
+            "example": "Sending a thank-you note is a nice gesture after a job interview."
+        },
+        {
+            "word": "goal",
+            "type": "n",
+            "ipa": "/ɡoʊl/",
+            "meaning": "mục tiêu",
+            "example": "Our primary goal is to achieve a 15% increase in sales this quarter."
+        },
+        {
+            "word": "goods",
+            "type": "n",
+            "ipa": "/ɡʊdz/",
+            "meaning": "hàng hóa",
+            "example": "The warehouse is used to store finished goods before they are shipped."
+        },
+        {
+            "word": "grievance",
+            "type": "n",
+            "ipa": "/ˈɡriː.vəns/",
+            "meaning": "lời than phiền, khiếu nại (trong công việc)",
+            "example": "The employee filed a formal grievance regarding unfair treatment."
+        },
+        {
+            "word": "grill",
+            "type": "n",
+            "ipa": "/ɡrɪl/",
+            "meaning": "vỉ nướng, món nướng",
+            "example": "The restaurant is famous for its mixed grill platter."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "focused",
+            "type": "adj",
+            "ipa": "/ˈfoʊ.kəst/",
+            "meaning": "tập trung, chú ý",
+            "example": "She remained focused on her work despite the noise in the office."
+        },
+        {
+            "word": "foreign",
+            "type": "adj",
+            "ipa": "/ˈfɔːr.ən/",
+            "meaning": "nước ngoài, ngoại quốc",
+            "example": "Learning a foreign language is beneficial for international business."
+        },
+        {
+            "word": "forgetful",
+            "type": "adj",
+            "ipa": "/fɚˈɡet.fəl/",
+            "meaning": "hay quên",
+            "example": "He has become quite forgetful lately, often losing his keys."
+        },
+        {
+            "word": "frank",
+            "type": "adj",
+            "ipa": "/fræŋk/",
+            "meaning": "thẳng thắn, bộc trực",
+            "example": "To be frank, I don't think the new design will be popular with customers."
+        },
+        {
+            "word": "functional",
+            "type": "adj",
+            "ipa": "/ˈfʌŋk.ʃən.əl/",
+            "meaning": "(thuộc) chức năng, hữu dụng",
+            "example": "The new office layout is both stylish and highly functional."
+        },
+        {
+            "word": "further",
+            "type": "adj",
+            "ipa": "/ˈfɝː.ðɚ/",
+            "meaning": "xa hơn, thêm nữa",
+            "example": "For further information, please visit our official website."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "fluctuate",
+            "type": "v",
+            "ipa": "/ˈflʌk.tʃu.eɪt/",
+            "meaning": "dao động, thay đổi thất thường",
+            "example": "Exchange rates fluctuate daily based on market conditions."
+        },
+        {
+            "word": "focus",
+            "type": "v",
+            "ipa": "/ˈfoʊ.kəs/",
+            "meaning": "tập trung",
+            "example": "We need to focus our efforts on improving customer satisfaction."
+        },
+        {
+            "word": "fold",
+            "type": "v",
+            "ipa": "/foʊld/",
+            "meaning": "gấp lại, đóng cửa (kinh doanh)",
+            "example": "Please fold the brochures neatly before putting them in envelopes."
+        },
+        {
+            "word": "forecast",
+            "type": "v",
+            "ipa": "/ˈfɔːr.kæst/",
+            "meaning": "dự đoán",
+            "example": "Economists forecast a period of slow growth for the next year."
+        },
+        {
+            "word": "forget",
+            "type": "v",
+            "ipa": "/fɚˈɡet/",
+            "meaning": "quên",
+            "example": "Don't forget to back up your files before the system update."
+        },
+        {
+            "word": "fulfill",
+            "type": "v",
+            "ipa": "/fʊlˈfɪl/",
+            "meaning": "hoàn thành, đáp ứng",
+            "example": "The company worked hard to fulfill all customer orders on time."
+        },
+        {
+            "word": "function",
+            "type": "v",
+            "ipa": "/ˈfʌŋk.ʃən/",
+            "meaning": "hoạt động, vận hành",
+            "example": "The elevator is not functioning properly and needs repair."
+        },
+        {
+            "word": "grill",
+            "type": "v",
+            "ipa": "/ɡrɪl/",
+            "meaning": "nướng, chất vấn kỹ",
+            "example": "The manager decided to grill the candidate about his previous experience."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "forward",
+            "type": "adv",
+            "ipa": "/ˈfɔːr.wɚd/",
+            "meaning": "về phía trước, tiến bộ",
+            "example": "I look forward to hearing from you soon regarding the job offer."
+        },
+        {
+            "word": "frankly",
+            "type": "adv",
+            "ipa": "/ˈfræŋ.kli/",
+            "meaning": "một cách thẳng thắn",
+            "example": "Frankly, we were surprised by the sudden change in management."
+        },
+        {
+            "word": "gradually",
+            "type": "adv",
+            "ipa": "/ˈɡrædʒ.u.ə.li/",
+            "meaning": "dần dần, từ từ",
+            "example": "The company's reputation has gradually improved over the years."
+        }
+    ]
+}

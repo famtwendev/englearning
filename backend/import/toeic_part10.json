@@ -1,0 +1,244 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 10",
+    "description": "Essential TOEIC terms focusing on finances, professional commitment, logistics, and office administration.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "deadline",
+            "type": "n",
+            "ipa": "/ˈded.laɪn/",
+            "meaning": "hạn cuối, hạn hoàn thành",
+            "example": "The team worked overtime to ensure they met the project deadline."
+        },
+        {
+            "word": "deal",
+            "type": "n",
+            "ipa": "/diːl/",
+            "meaning": "thỏa thuận mua bán, sự giao dịch",
+            "example": "The sales representative managed to close a major deal with a new client."
+        },
+        {
+            "word": "debit",
+            "type": "n",
+            "ipa": "/ˈdeb.ɪt/",
+            "meaning": "món nợ, khoản ghi nợ",
+            "example": "A debit of $500 was recorded in the company's ledger today."
+        },
+        {
+            "word": "debt",
+            "type": "n",
+            "ipa": "/det/",
+            "meaning": "khoản nợ",
+            "example": "The startup is struggling to pay off its initial debts to investors."
+        },
+        {
+            "word": "decision",
+            "type": "n",
+            "ipa": "/dɪˈsɪʒ.ən/",
+            "meaning": "quyết định",
+            "example": "The management's decision to expand overseas was based on thorough research."
+        },
+        {
+            "word": "decrease",
+            "type": "n",
+            "ipa": "/ˈdiː.kriːs/",
+            "meaning": "sự sụt giảm",
+            "example": "There has been a significant decrease in the number of customer complaints."
+        },
+        {
+            "word": "degree",
+            "type": "n",
+            "ipa": "/dɪˈɡriː/",
+            "meaning": "mức độ, bằng cấp, nhiệt độ",
+            "example": "Applicants for this position must have a university degree in marketing."
+        },
+        {
+            "word": "delay",
+            "type": "n",
+            "ipa": "/dɪˈlêɪ/",
+            "meaning": "sự chậm trễ, trì hoãn",
+            "example": "We apologize for the delay in processing your application."
+        },
+        {
+            "word": "delivery",
+            "type": "n",
+            "ipa": "/dɪˈlɪv.ɚ.i/",
+            "meaning": "sự giao hàng, sự phát biểu",
+            "example": "The store offers free delivery on all orders over fifty dollars."
+        },
+        {
+            "word": "demand",
+            "type": "n",
+            "ipa": "/dɪˈmænd/",
+            "meaning": "sự đòi hỏi, nhu cầu",
+            "example": "The demand for eco-friendly products is growing rapidly."
+        },
+        {
+            "word": "department",
+            "type": "n",
+            "ipa": "/dɪˈpɑːrt.mənt/",
+            "meaning": "bộ phận, phòng ban",
+            "example": "Please contact the human resources department if you have any questions."
+        },
+        {
+            "word": "dependence",
+            "type": "n",
+            "ipa": "/dɪˈpen.dəns/",
+            "meaning": "sự phụ thuộc",
+            "example": "Our heavy dependence on one supplier has become a risk factor."
+        },
+        {
+            "word": "deposit",
+            "type": "n",
+            "ipa": "/dɪˈpɑː.zɪt/",
+            "meaning": "tiền cọc, tiền gửi ngân hàng",
+            "example": "You need to pay a one-month deposit before moving into the apartment."
+        },
+        {
+            "word": "description",
+            "type": "n",
+            "ipa": "/dɪˈskrɪp.ʃən/",
+            "meaning": "bản mô tả",
+            "example": "Read the job description carefully before submitting your resume."
+        },
+        {
+            "word": "dessert",
+            "type": "n",
+            "ipa": "/dɪˈzɝːt/",
+            "meaning": "món tráng miệng",
+            "example": "The restaurant is famous for its delicious chocolate cake dessert."
+        },
+        {
+            "word": "destination",
+            "type": "n",
+            "ipa": "/ˌdes.təˈneɪ.ʃən/",
+            "meaning": "đích đến, điểm đến",
+            "example": "The flight was forced to land before reaching its final destination."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "definite",
+            "type": "adj",
+            "ipa": "/ˈdef.ən.ət/",
+            "meaning": "xác định rõ, rõ ràng",
+            "example": "We need a definite answer by Friday to proceed with the plan."
+        },
+        {
+            "word": "delighted",
+            "type": "adj",
+            "ipa": "/dɪˈlaɪ.t̬ɪd/",
+            "meaning": "hài lòng, vui mừng",
+            "example": "We are delighted to announce that you have been selected for the role."
+        },
+        {
+            "word": "demanding",
+            "type": "adj",
+            "ipa": "/dɪˈmæn.dɪŋ/",
+            "meaning": "yêu cầu cao, khắt khe",
+            "example": "Software development can be a very demanding profession."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "deal",
+            "type": "v",
+            "ipa": "/diːl/",
+            "meaning": "giải quyết, đối phó (deal with)",
+            "example": "The customer service team is trained to deal with difficult situations."
+        },
+        {
+            "word": "decorate",
+            "type": "v",
+            "ipa": "/ˈdek.ər.eɪt/",
+            "meaning": "trang trí",
+            "example": "The staff stayed late to decorate the office for the holiday party."
+        },
+        {
+            "word": "decrease",
+            "type": "v",
+            "ipa": "/ˈdiː.kriːs/",
+            "meaning": "làm giảm đi",
+            "example": "The new strategy is intended to decrease operational costs."
+        },
+        {
+            "word": "dedicate",
+            "type": "v",
+            "ipa": "/ˈded.ə.keɪt/",
+            "meaning": "cống hiến, dành riêng cho",
+            "example": "He decided to dedicate his career to medical research."
+        },
+        {
+            "word": "deduct",
+            "type": "v",
+            "ipa": "/dɪˈdʌkt/",
+            "meaning": "khấu trừ, trừ đi",
+            "example": "The company will deduct tax directly from your monthly salary."
+        },
+        {
+            "word": "delay",
+            "type": "v",
+            "ipa": "/dɪˈleɪ/",
+            "meaning": "làm chậm, hoãn lại",
+            "example": "The heavy snow will likely delay the shipment of the goods."
+        },
+        {
+            "word": "deliver",
+            "type": "v",
+            "ipa": "/dɪˈlɪv.ɚ/",
+            "meaning": "giao hàng, phát biểu",
+            "example": "The courier is scheduled to deliver the package tomorrow morning."
+        },
+        {
+            "word": "demand",
+            "type": "v",
+            "ipa": "/dɪˈmænd/",
+            "meaning": "yêu cầu, đòi hỏi",
+            "example": "The union plans to demand higher wages and better working conditions."
+        },
+        {
+            "word": "demonstrate",
+            "type": "v",
+            "ipa": "/ˈdem.ən.streɪt/",
+            "meaning": "làm mẫu, giải thích, minh họa",
+            "example": "The salesperson will demonstrate how to use the new coffee machine."
+        },
+        {
+            "word": "depart",
+            "type": "v",
+            "ipa": "/dɪˈpɑːrt/",
+            "meaning": "rời đi, khởi hành",
+            "example": "The train is scheduled to depart from platform 4 at 10:30."
+        },
+        {
+            "word": "depend",
+            "type": "v",
+            "ipa": "/dɪˈpend/",
+            "meaning": "phụ thuộc, tùy thuộc vào",
+            "example": "Our success depends on the hard work of all our employees."
+        },
+        {
+            "word": "deposit",
+            "type": "v",
+            "ipa": "/dɪˈpɑː.zɪt/",
+            "meaning": "đặt cọc, gửi tiền",
+            "example": "You can deposit checks using the bank's mobile app."
+        },
+        {
+            "word": "designate",
+            "type": "v",
+            "ipa": "/ˈdez.ɪɡ.neɪt/",
+            "meaning": "chỉ định, bổ nhiệm",
+            "example": "The manager will designate a team leader for the new project."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "definitely",
+            "type": "adv",
+            "ipa": "/ˈdef.ən.ət.li/",
+            "meaning": "chắc chắn, dứt khoát",
+            "example": "We will definitely meet the deadline if we stay focused."
+        }
+    ]
+}

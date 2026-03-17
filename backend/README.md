@@ -113,3 +113,15 @@ To import data IPA
 cd 'e:\eng-app\backend\import\'
 Get-Content e:\eng-app\backend\import\ipa_seed.sql | docker exec -i eng_learning_db psql -U postgres -d eng_learning_db
 ```
+
+
+Backup database
+```bash
+docker exec eng_learning_db pg_dump -U postgres -d eng_learning_db --encoding=UTF8 > e:\eng-app\backend\import\backup_utf8.sql
+```
+
+
+Restore database
+```bash
+cat e:\eng-app\backend\import\backup_utf8.sql | docker exec -i eng_learning_db psql -U postgres -d eng_learning_db
+```

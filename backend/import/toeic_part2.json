@@ -1,0 +1,235 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 2",
+    "description": "Essential TOEIC words covering business operations, professional services, and logistics.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "advance",
+            "type": "n",
+            "ipa": "/ədˈvæns/",
+            "meaning": "sự tiến lên, tiền ứng trước",
+            "example": "Recent advances in technology have made remote work much easier."
+        },
+        {
+            "word": "advantage",
+            "type": "n",
+            "ipa": "/ədˈvæn.t̬ɪdʒ/",
+            "meaning": "lợi thế",
+            "example": "Being bilingual is a great advantage in the international job market."
+        },
+        {
+            "word": "advertisement",
+            "type": "n",
+            "ipa": "/æd.vɝːˈtaɪz.mənt/",
+            "meaning": "bản tin quảng cáo",
+            "example": "The company placed an advertisement in the local newspaper to recruit new staff."
+        },
+        {
+            "word": "advice",
+            "type": "n",
+            "ipa": "/ədˈvaɪs/",
+            "meaning": "lời khuyên, lời chỉ bảo",
+            "example": "The consultant provided some useful advice on how to improve efficiency."
+        },
+        {
+            "word": "agency",
+            "type": "n",
+            "ipa": "/ˈeɪ.dʒən.si/",
+            "meaning": "đại lý, bên môi giới trung gian",
+            "example": "We hired an advertising agency to handle our new product launch."
+        },
+        {
+            "word": "agenda",
+            "type": "n",
+            "ipa": "/əˈdʒen.də/",
+            "meaning": "chương trình nghị sự, kế hoạch chương trình",
+            "example": "The most important item on the agenda today is the budget review."
+        },
+        {
+            "word": "agreement",
+            "type": "n",
+            "ipa": "/əˈɡriː.mənt/",
+            "meaning": "hợp đồng, giao kèo, sự đồng ý",
+            "example": "Both parties finally signed the lease agreement after weeks of negotiation."
+        },
+        {
+            "word": "aid",
+            "type": "n",
+            "ipa": "/eɪd/",
+            "meaning": "sự giúp đỡ, cứu trợ",
+            "example": "The government provided financial aid to small businesses during the crisis."
+        },
+        {
+            "word": "aim",
+            "type": "n",
+            "ipa": "/eɪm/",
+            "meaning": "mục tiêu",
+            "example": "Our primary aim is to increase customer satisfaction by 20%."
+        },
+        {
+            "word": "airline",
+            "type": "n",
+            "ipa": "/ˈer.laɪn/",
+            "meaning": "công ty hàng không",
+            "example": "Several airlines have announced ticket discounts for the holiday season."
+        },
+        {
+            "word": "aisle",
+            "type": "n",
+            "ipa": "/aɪl/",
+            "meaning": "gian hàng, lối đi giữa các dãy ghế",
+            "example": "The flight attendant walked down the aisle to check everyone's seatbelts."
+        },
+        {
+            "word": "alarm",
+            "type": "n",
+            "ipa": "/əˈlɑːrm/",
+            "meaning": "sự báo động, thiết bị báo động",
+            "example": "The security alarm went off when someone tried to enter the building."
+        },
+        {
+            "word": "amount",
+            "type": "n",
+            "ipa": "/əˈmaʊnt/",
+            "meaning": "số lượng",
+            "example": "A large amount of work still needs to be finished before Friday."
+        },
+        {
+            "word": "analysis",
+            "type": "n",
+            "ipa": "/əˈnæl.ə.sɪs/",
+            "meaning": "sự phân tích, bản phân tích",
+            "example": "A detailed analysis of the market trends will be presented tomorrow."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "advanced",
+            "type": "adj",
+            "ipa": "/ədˈvænst/",
+            "meaning": "tiến bộ, cấp tiến",
+            "example": "The lab uses advanced techniques to test the quality of the materials."
+        },
+        {
+            "word": "advantageous",
+            "type": "adj",
+            "ipa": "/ˌæd.vænˈteɪ.dʒəs/",
+            "meaning": "có lợi, thuận lợi",
+            "example": "The merger would be advantageous for both companies involved."
+        },
+        {
+            "word": "affordable",
+            "type": "adj",
+            "ipa": "/əˈfɔːr.də.bəl/",
+            "meaning": "có khả năng chi trả, vừa túi tiền",
+            "example": "They are looking for an affordable office space in the city center."
+        },
+        {
+            "word": "agreeable",
+            "type": "adj",
+            "ipa": "/əˈɡriː.ə.bəl/",
+            "meaning": "dễ chịu, thích hợp",
+            "example": "The two managers reached an agreeable solution to the scheduling conflict."
+        },
+        {
+            "word": "agricultural",
+            "type": "adj",
+            "ipa": "/ˌæɡ.rəˈkʌl.tʃɚ.əl/",
+            "meaning": "(thuộc) nông nghiệp",
+            "example": "The country’s economy is heavily dependent on agricultural exports."
+        },
+        {
+            "word": "alternative",
+            "type": "adj",
+            "ipa": "/ɑːlˈtɝː.nə.t̬ɪv/",
+            "meaning": "thay thế, xen kẽ",
+            "example": "If the main road is closed, we will have to find an alternative route."
+        },
+        {
+            "word": "ambitious",
+            "type": "adj",
+            "ipa": "/æmˈbɪʃ.əs/",
+            "meaning": "tham vọng",
+            "example": "The company has set an ambitious goal to expand into five new countries."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "advance",
+            "type": "v",
+            "ipa": "/ədˈvæns/",
+            "meaning": "tiến lên, phát triển",
+            "example": "Employees have many opportunities to advance within the company."
+        },
+        {
+            "word": "advertise",
+            "type": "v",
+            "ipa": "/ˈæd.vɚ.taɪz/",
+            "meaning": "quảng cáo, thông báo",
+            "example": "We plan to advertise our new services on social media platforms."
+        },
+        {
+            "word": "advise",
+            "type": "v",
+            "ipa": "/ədˈvaɪz/",
+            "meaning": "đưa ra lời khuyên",
+            "example": "The legal department will advise us on how to proceed with the lawsuit."
+        },
+        {
+            "word": "affect",
+            "type": "v",
+            "ipa": "/əˈfekt/",
+            "meaning": "ảnh hưởng, tác động",
+            "example": "The new regulations will affect how we process customer data."
+        },
+        {
+            "word": "afford",
+            "type": "v",
+            "ipa": "/əˈfɔːrd/",
+            "meaning": "có đủ khả năng chi trả",
+            "example": "We cannot afford to lose any more valuable clients."
+        },
+        {
+            "word": "agree",
+            "type": "v",
+            "ipa": "/əˈɡriː/",
+            "meaning": "đồng ý, tán thành",
+            "example": "The committee did not agree with the proposed changes to the policy."
+        },
+        {
+            "word": "aid",
+            "type": "v",
+            "ipa": "/eɪd/",
+            "meaning": "giúp đỡ, viện trợ",
+            "example": "The new software is designed to aid engineers in their design work."
+        },
+        {
+            "word": "aim",
+            "type": "v",
+            "ipa": "/eɪm/",
+            "meaning": "nhắm đến, hướng đến",
+            "example": "The marketing campaign is aimed specifically at young professionals."
+        },
+        {
+            "word": "allow",
+            "type": "v",
+            "ipa": "/əˈlaʊ/",
+            "meaning": "cho phép, để cho",
+            "example": "The manager decided to allow the team to work from home on Fridays."
+        },
+        {
+            "word": "amount",
+            "type": "v",
+            "ipa": "/əˈmaʊnt/",
+            "meaning": "cộng dồn lên tới",
+            "example": "The total repair costs will amount to over five hundred dollars."
+        },
+        {
+            "word": "analyze",
+            "type": "v",
+            "ipa": "/ˈæn.əl.aɪz/",
+            "meaning": "phân tích",
+            "example": "We need to analyze the feedback from our customers more thoroughly."
+        }
+    ]
+}

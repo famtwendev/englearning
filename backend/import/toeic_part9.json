@@ -1,0 +1,265 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 9",
+    "description": "Essential TOEIC vocabulary covering corporate structure, customer service, financial terms, and critical evaluation.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "control",
+            "type": "n",
+            "ipa": "/kənˈtroʊl/",
+            "meaning": "sự điều khiển, kiểm soát",
+            "example": "The manager has full control over the project's budget."
+        },
+        {
+            "word": "control panel",
+            "type": "n",
+            "ipa": "/kənˈtroʊl ˌpæn.əl/",
+            "meaning": "bảng điều khiển",
+            "example": "The technician checked the control panel to identify the system error."
+        },
+        {
+            "word": "corporate",
+            "type": "n",
+            "ipa": "/ˈkɔːr.pɚ.ət/",
+            "meaning": "đoàn thể, tập đoàn",
+            "example": "Corporate culture plays a significant role in employee retention."
+        },
+        {
+            "word": "corporation",
+            "type": "n",
+            "ipa": "/ˌkɔːr.pəˈreɪ.ʃən/",
+            "meaning": "tập đoàn",
+            "example": "He works for a multinational corporation with offices in twenty countries."
+        },
+        {
+            "word": "cost",
+            "type": "n",
+            "ipa": "/kɑːst/",
+            "meaning": "giá, chi phí",
+            "example": "The cost of raw materials has risen sharply this month."
+        },
+        {
+            "word": "counter",
+            "type": "n",
+            "ipa": "/ˈkaʊ.t̬ɚ/",
+            "meaning": "quầy hàng, quầy thu ngân",
+            "example": "Please proceed to the customer service counter for your refund."
+        },
+        {
+            "word": "courier",
+            "type": "n",
+            "ipa": "/ˈkʊr.i.ɚ/",
+            "meaning": "người đưa thư, chuyển phát nhanh",
+            "example": "The documents were sent via courier to ensure they arrived by noon."
+        },
+        {
+            "word": "cover letter",
+            "type": "n",
+            "ipa": "/ˈkʌv.ə ˌlet.ər/",
+            "meaning": "thư xin việc, thư ngỏ",
+            "example": "A well-written cover letter can help you stand out from other applicants."
+        },
+        {
+            "word": "coverage",
+            "type": "n",
+            "ipa": "/ˈkʌv.ɚ.ɪdʒ/",
+            "meaning": "mức độ bảo hiểm, bản tin sự kiện",
+            "example": "The news provided extensive coverage of the international trade summit."
+        },
+        {
+            "word": "coworker",
+            "type": "n",
+            "ipa": "/ˌkoʊˈwɝː.kɚ/",
+            "meaning": "đồng nghiệp",
+            "example": "She is going to have lunch with her coworkers from the marketing team."
+        },
+        {
+            "word": "crash",
+            "type": "n",
+            "ipa": "/kræʃ/",
+            "meaning": "sự va chạm, sụp đổ hệ thống",
+            "example": "The computer crash caused us to lose several hours of work."
+        },
+        {
+            "word": "credit",
+            "type": "n",
+            "ipa": "/ˈkred.ɪt/",
+            "meaning": "tín dụng, sự tin tưởng",
+            "example": "The store will give you a store credit if you return the item without a receipt."
+        },
+        {
+            "word": "criterion",
+            "type": "n",
+            "ipa": "/kraɪˈtɪr.i.ən/",
+            "meaning": "tiêu chí đánh giá",
+            "example": "Experience is the main criterion for choosing the new supervisor."
+        },
+        {
+            "word": "crowd",
+            "type": "n",
+            "ipa": "/kraʊd/",
+            "meaning": "đám đông",
+            "example": "A large crowd gathered outside the store for the grand opening sale."
+        },
+        {
+            "word": "cruise",
+            "type": "n",
+            "ipa": "/kruːz/",
+            "meaning": "chuyến du lịch biển",
+            "example": "They are planning to take a Mediterranean cruise next summer."
+        },
+        {
+            "word": "currency",
+            "type": "n",
+            "ipa": "/ˈkɝː.ən.si/",
+            "meaning": "tiền tệ",
+            "example": "You can exchange your currency at the airport or at most banks."
+        },
+        {
+            "word": "current",
+            "type": "n",
+            "ipa": "/ˈkɝː.ənt/",
+            "meaning": "dòng, luồng",
+            "example": "The strong current made it difficult for the boat to stay on course."
+        },
+        {
+            "word": "custom",
+            "type": "n",
+            "ipa": "/ˈkʌs.təm/",
+            "meaning": "phong tục, tục lệ",
+            "example": "It is the custom in this office to have a small party for everyone's birthday."
+        },
+        {
+            "word": "customer",
+            "type": "n",
+            "ipa": "/ˈkʌs.tə.mɚ/",
+            "meaning": "khách hàng",
+            "example": "Our priority is to provide excellent service to every customer."
+        },
+        {
+            "word": "cycle",
+            "type": "n",
+            "ipa": "/ˈsaɪ.kəl/",
+            "meaning": "chu kỳ, chu trình",
+            "example": "The economic cycle often fluctuates between growth and recession."
+        },
+        {
+            "word": "damage",
+            "type": "n",
+            "ipa": "/ˈdæm.ɪdʒ/",
+            "meaning": "mối gây hại, sự thiệt hại",
+            "example": "The storm caused significant damage to the warehouse roof."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "corporate",
+            "type": "adj",
+            "ipa": "/ˈɔːr.pɚ.ət/",
+            "meaning": "(thuộc) đoàn thể, công ty",
+            "example": "He wears a formal suit to all corporate events."
+        },
+        {
+            "word": "critical",
+            "type": "adj",
+            "ipa": "/ˈkrɪt̬.ɪ.kəl/",
+            "meaning": "nguy kịch, phê bình",
+            "example": "The CEO's decision will be critical to the future of the company."
+        },
+        {
+            "word": "crowded",
+            "type": "adj",
+            "ipa": "/ˈlraʊ.dɪd/",
+            "meaning": "đông đúc",
+            "example": "The train was so crowded that I had to stand for the entire trip."
+        },
+        {
+            "word": "crucial",
+            "type": "adj",
+            "ipa": "/ˈkruː.ʃəl/",
+            "meaning": "trọng yếu, cốt yếu",
+            "example": "Accurate data is crucial for making an informed business decision."
+        },
+        {
+            "word": "current",
+            "type": "adj",
+            "ipa": "/ˈkɝː.ənt/",
+            "meaning": "hiện tại, hiện hành",
+            "example": "What is the current status of the shipment?"
+        },
+        {
+            "word": "daily",
+            "type": "adj",
+            "ipa": "/ˈdeɪ.li/",
+            "meaning": "hằng ngày",
+            "example": "We have a daily meeting at 9 AM to discuss our tasks."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "control",
+            "type": "v",
+            "ipa": "/kənˈtroʊl/",
+            "meaning": "kiểm soát, điều khiển",
+            "example": "We need to control our expenses more strictly this quarter."
+        },
+        {
+            "word": "convince",
+            "type": "v",
+            "ipa": "/kənˈvɪns/",
+            "meaning": "thuyết phục",
+            "example": "It was hard to convince the board to invest in the new technology."
+        },
+        {
+            "word": "cost",
+            "type": "v",
+            "ipa": "/kɑːst/",
+            "meaning": "tốn phí, định giá",
+            "example": "The repairs will cost more than the original price of the machine."
+        },
+        {
+            "word": "counter",
+            "type": "v",
+            "ipa": "/ˈkaʊ.t̬ɚ/",
+            "meaning": "phản đối, chống lại",
+            "example": "The company decided to counter the competitor's offer with a lower price."
+        },
+        {
+            "word": "crash",
+            "type": "v",
+            "ipa": "/kræʃ/",
+            "meaning": "va đập, sụp đổ",
+            "example": "Stock prices might crash if the government introduces the new tax."
+        },
+        {
+            "word": "criticize",
+            "type": "v",
+            "ipa": "/ˈkrɪt̬.ɪ.saɪz/",
+            "meaning": "phê bình, chỉ trích",
+            "example": "The manager was careful not to criticize the team in front of the clients."
+        },
+        {
+            "word": "crowd",
+            "type": "v",
+            "ipa": "/kræʊd/",
+            "meaning": "tụ tập, làm cho đông",
+            "example": "Fans began to crowd the entrance of the theater before the show."
+        },
+        {
+            "word": "cruise",
+            "type": "v",
+            "ipa": "/kruːz/",
+            "meaning": "đi chơi bằng tàu thủy",
+            "example": "We spent the afternoon cruising along the coastline."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "conveniently",
+            "type": "adv",
+            "ipa": "/kənˈviː.ni.ənt.li/",
+            "meaning": "một cách thuận tiện",
+            "example": "The hotel is conveniently located near the central station."
+        }
+    ]
+}

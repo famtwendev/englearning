@@ -1,0 +1,214 @@
+{
+    "topic": "TOEIC Common Vocabulary - Part 3",
+    "description": "Focusing on administrative procedures, recruitment, evaluation, and professional interactions.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "appeal",
+            "type": "n",
+            "ipa": "/əˈpiːl/",
+            "meaning": "lời thỉnh cầu, sức lôi cuốn",
+            "example": "The design of the new smartphone has a broad appeal among young users."
+        },
+        {
+            "word": "appetizer",
+            "type": "n",
+            "ipa": "/ˈæp.ə.taɪ.zɚ/",
+            "meaning": "món khai vị",
+            "example": "We ordered a plate of spring rolls as an appetizer before the main course."
+        },
+        {
+            "word": "appliance",
+            "type": "n",
+            "ipa": "/əˈplaɪ.əns/",
+            "meaning": "thiết bị, dụng cụ",
+            "example": "The store sells a wide range of household appliances like blenders and toasters."
+        },
+        {
+            "word": "applicant",
+            "type": "n",
+            "ipa": "/ˈæp.lə.kənt/",
+            "meaning": "người ứng tuyển",
+            "example": "Each applicant is required to submit a resume and a cover letter."
+        },
+        {
+            "word": "application",
+            "type": "n",
+            "ipa": "/ˌæp.ləˈkeɪ.ʃən/",
+            "meaning": "đơn ứng tuyển, sự áp dụng",
+            "example": "Please complete the online application form by the end of the month."
+        },
+        {
+            "word": "appointment",
+            "type": "n",
+            "ipa": "/əˈpɔɪnt.mənt/",
+            "meaning": "sự bổ nhiệm, cuộc hẹn",
+            "example": "I would like to make an appointment to see the marketing director."
+        },
+        {
+            "word": "appreciation",
+            "type": "n",
+            "ipa": "/əˌpriː.ʃiˈeɪ.ʃən/",
+            "meaning": "sự đánh giá cao, sự cảm kích",
+            "example": "The company gave him a bonus as a token of appreciation for his hard work."
+        },
+        {
+            "word": "apprentice",
+            "type": "n",
+            "ipa": "/əˈpren.t̬ɪs/",
+            "meaning": "người học việc",
+            "example": "He started his career as an apprentice in a local engineering firm."
+        },
+        {
+            "word": "area",
+            "type": "n",
+            "ipa": "/ˈer.i.ə/",
+            "meaning": "khu vực, lĩnh vực",
+            "example": "She is an expert in the area of international trade law."
+        },
+        {
+            "word": "argument",
+            "type": "n",
+            "ipa": "/ˈɑːrɡ.jə.mənt/",
+            "meaning": "cuộc tranh luận",
+            "example": "There was a long argument during the meeting about the new budget."
+        },
+        {
+            "word": "arrangement",
+            "type": "n",
+            "ipa": "/əˈreɪndʒ.mənt/",
+            "meaning": "sự sắp đặt, sự dàn xếp",
+            "example": "We have made a special arrangement to host the seminar in the main hall."
+        },
+        {
+            "word": "asset",
+            "type": "n",
+            "ipa": "/ˈæs.et/",
+            "meaning": "của cải, tài sản, vốn quý",
+            "example": "The company's greatest asset is its highly skilled workforce."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "annual",
+            "type": "adj",
+            "ipa": "/ˈæn.ju.əl/",
+            "meaning": "hằng năm",
+            "example": "All employees are expected to attend the annual general meeting."
+        },
+        {
+            "word": "anxious",
+            "type": "adj",
+            "ipa": "/ˈæŋk.ʃəs/",
+            "meaning": "bồn chồn, lo lắng",
+            "example": "The staff was anxious about the news of the upcoming merger."
+        },
+        {
+            "word": "appreciable",
+            "type": "adj",
+            "ipa": "/əˈpriː.ʃə.bəl/",
+            "meaning": "đáng kể",
+            "example": "There has been an appreciable increase in sales over the last quarter."
+        },
+        {
+            "word": "appreciative",
+            "type": "adj",
+            "ipa": "/əˈpriː.ʃə.t̬ɪv/",
+            "meaning": "biết ơn, đánh giá cao",
+            "example": "The team was appreciative of the support they received from the manager."
+        },
+        {
+            "word": "approximate",
+            "type": "adj",
+            "ipa": "/əˈprɑːk.sə.mət/",
+            "meaning": "xấp xỉ, gần đúng",
+            "example": "The approximate cost of the renovation is around ten thousand dollars."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "anticipate",
+            "type": "v",
+            "ipa": "/ænˈtɪs.ə.peɪt/",
+            "meaning": "phỏng đoán, dự đoán",
+            "example": "We anticipate that the new product will be a huge success."
+        },
+        {
+            "word": "apologize",
+            "type": "v",
+            "ipa": "/əˈpɑː.lə.dʒaɪz/",
+            "meaning": "xin lỗi",
+            "example": "I apologize for the delay in responding to your email."
+        },
+        {
+            "word": "appeal",
+            "type": "v",
+            "ipa": "/əˈpiːl/",
+            "meaning": "kêu gọi, hấp dẫn",
+            "example": "The charity is appealing for donations to help the flood victims."
+        },
+        {
+            "word": "apply",
+            "type": "v",
+            "ipa": "/əˈplaɪ/",
+            "meaning": "áp dụng, ứng tuyển",
+            "example": "You can apply for the position through our website."
+        },
+        {
+            "word": "appoint",
+            "type": "v",
+            "ipa": "/əˈpɔɪnt/",
+            "meaning": "bổ nhiệm, chỉ định",
+            "example": "The board decided to appoint Mr. Smith as the new CEO."
+        },
+        {
+            "word": "appreciate",
+            "type": "v",
+            "ipa": "/əˈpriː.ʃi.eɪt/",
+            "meaning": "đánh giá cao, cảm kích",
+            "example": "I really appreciate your help with the presentation."
+        },
+        {
+            "word": "approve",
+            "type": "v",
+            "ipa": "/əˈpruːv/",
+            "meaning": "tán thành, phê chuẩn",
+            "example": "The manager needs to approve all travel expenses in advance."
+        },
+        {
+            "word": "argue",
+            "type": "v",
+            "ipa": "/ˈɑːrɡ.juː/",
+            "meaning": "tranh luận",
+            "example": "The lawyers will argue the case in court tomorrow morning."
+        },
+        {
+            "word": "arrange",
+            "type": "v",
+            "ipa": "/əˈreɪndʒ/",
+            "meaning": "dàn xếp, sắp đặt",
+            "example": "Can you arrange a meeting with the suppliers for next Tuesday?"
+        },
+        {
+            "word": "assemble",
+            "type": "v",
+            "ipa": "/əˈsem.bəl/",
+            "meaning": "lắp ráp, thu thập",
+            "example": "It took the workers three hours to assemble the new office desks."
+        },
+        {
+            "word": "assess",
+            "type": "v",
+            "ipa": "/əˈses/",
+            "meaning": "đánh giá, định giá",
+            "example": "The experts were hired to assess the market value of the property."
+        },
+        {
+            "word": "assign",
+            "type": "v",
+            "ipa": "/əˈsaɪn/",
+            "meaning": "phân công, chia việc",
+            "example": "The supervisor will assign tasks to each team member."
+        }
+    ]
+}

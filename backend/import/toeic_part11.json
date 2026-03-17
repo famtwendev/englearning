@@ -1,0 +1,228 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 11",
+    "description": "Essential TOEIC terms focusing on professional development, office technology, conflict resolution, and retail operations.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "detail",
+            "type": "n",
+            "ipa": "/ˈdiː.teɪl/",
+            "meaning": "chi tiết, tiểu tiết",
+            "example": "The project manager went over every detail of the contract before signing."
+        },
+        {
+            "word": "deterioration",
+            "type": "n",
+            "ipa": "/dɪˌtɪr.i.əˈreɪ.ʃən/",
+            "meaning": "sự hư hại, xuống cấp",
+            "example": "The deterioration of the building's structure required immediate renovation."
+        },
+        {
+            "word": "developer",
+            "type": "n",
+            "ipa": "/dɪˈvel.ə.pɚ/",
+            "meaning": "người phát triển, lập trình viên",
+            "example": "Our lead developer is working on a new feature for the mobile app."
+        },
+        {
+            "word": "development",
+            "type": "n",
+            "ipa": "/dɪˈvel.əp.mənt/",
+            "meaning": "sự phát triển",
+            "example": "The development of the new software took over six months to complete."
+        },
+        {
+            "word": "device",
+            "type": "n",
+            "ipa": "/dɪˈvaɪs/",
+            "meaning": "thiết bị, máy móc",
+            "example": "Please turn off all electronic devices before the flight takes off."
+        },
+        {
+            "word": "director",
+            "type": "n",
+            "ipa": "/daɪˈrek.tɚ/",
+            "meaning": "giám đốc, người điều hành",
+            "example": "The board of directors will meet next week to discuss the annual report."
+        },
+        {
+            "word": "disagreement",
+            "type": "n",
+            "ipa": "/ˌdɪs.əˈɡriː.mənt/",
+            "meaning": "sự bất đồng, mâu thuẫn",
+            "example": "There was a slight disagreement between the two departments regarding the budget."
+        },
+        {
+            "word": "discount",
+            "type": "n",
+            "ipa": "/ˈdɪs.kaʊnt/",
+            "meaning": "sự giảm giá, chiết khấu",
+            "example": "Employees are entitled to a 20% discount on all company products."
+        },
+        {
+            "word": "discrepancy",
+            "type": "n",
+            "ipa": "/dɪˈskrep.ən.si/",
+            "meaning": "sự khác biệt, chênh lệch (số liệu)",
+            "example": "The auditor found a discrepancy between the receipts and the bank statement."
+        },
+        {
+            "word": "discrimination",
+            "type": "n",
+            "ipa": "/dɪˌskrɪm.əˈneɪ.ʃən/",
+            "meaning": "sự phân biệt đối xử",
+            "example": "The company has strict policies against any form of workplace discrimination."
+        },
+        {
+            "word": "discussion",
+            "type": "n",
+            "ipa": "/dɪˈskʌʃ.ən/",
+            "meaning": "cuộc thảo luận",
+            "example": "We had a productive discussion about the upcoming marketing strategy."
+        },
+        {
+            "word": "dish",
+            "type": "n",
+            "ipa": "/dɪʃ/",
+            "meaning": "món ăn, đĩa đựng",
+            "example": "The signature dish at this restaurant is grilled salmon with asparagus."
+        },
+        {
+            "word": "display",
+            "type": "n",
+            "ipa": "/dɪˈspleɪ/",
+            "meaning": "sự trưng bày, màn hình",
+            "example": "The latest products are currently on display in the main lobby."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "detailed",
+            "type": "adj",
+            "ipa": "/ˈdiː.teɪld/",
+            "meaning": "chi tiết, cụ thể",
+            "example": "The technician provided a detailed explanation of how the system works."
+        },
+        {
+            "word": "determined",
+            "type": "adj",
+            "ipa": "/dɪˈtɝː.mɪnd/",
+            "meaning": "quyết tâm, kiên quyết",
+            "example": "She is determined to finish the report before the end of the day."
+        },
+        {
+            "word": "differential",
+            "type": "adj",
+            "ipa": "/ˌdɪf.əˈren.ʃəl/",
+            "meaning": "khác biệt, chênh lệch",
+            "example": "Differential pricing is used to target different segments of the market."
+        },
+        {
+            "word": "diligent",
+            "type": "adj",
+            "ipa": "/ˈdɪl.ə.dʒənt/",
+            "meaning": "chăm chỉ, cần cù",
+            "example": "He is a diligent worker who always pays attention to small details."
+        },
+        {
+            "word": "disappointing",
+            "type": "adj",
+            "ipa": "/ˌdɪs.əˈpɔɪn.t̬ɪŋ/",
+            "meaning": "đáng thất vọng",
+            "example": "The quarterly sales results were quite disappointing for the investors."
+        },
+        {
+            "word": "dismissive",
+            "type": "adj",
+            "ipa": "/dɪˈsmɪs.ɪv/",
+            "meaning": "thô bạo, tùy tiện, gạt bỏ",
+            "example": "The manager was dismissive of the employee's concerns about safety."
+        },
+        {
+            "word": "disposable",
+            "type": "adj",
+            "ipa": "/dɪˈspoʊ.zə.bəl/",
+            "meaning": "dùng một lần, sẵn có",
+            "example": "The cafeteria replaced plastic plates with biodegradable disposable ones."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "detail",
+            "type": "v",
+            "ipa": "/ˈdiː.teɪl/",
+            "meaning": "trình bày chi tiết",
+            "example": "Could you please detail the expenses in your travel report?"
+        },
+        {
+            "word": "detect",
+            "type": "v",
+            "ipa": "/dɪˈtekt/",
+            "meaning": "dò ra, phát hiện",
+            "example": "The security system is designed to detect any unauthorized entry."
+        },
+        {
+            "word": "determine",
+            "type": "v",
+            "ipa": "/dɪˈtɝː.mɪn/",
+            "meaning": "xác định rõ, quyết định",
+            "example": "The committee will determine which candidate is best suited for the job."
+        },
+        {
+            "word": "develop",
+            "type": "v",
+            "ipa": "/dɪˈvel.əp/",
+            "meaning": "phát triển",
+            "example": "The company plans to develop a new line of organic skincare products."
+        },
+        {
+            "word": "diagnose",
+            "type": "v",
+            "ipa": "/ˌdaɪ.əɡˈnoʊz/",
+            "meaning": "chẩn đoán",
+            "example": "The IT team is trying to diagnose the cause of the network failure."
+        },
+        {
+            "word": "disagree",
+            "type": "v",
+            "ipa": "/ˌdɪs.əˈɡriː/",
+            "meaning": "bất đồng, không đồng ý",
+            "example": "I'm afraid I disagree with the proposed changes to the policy."
+        },
+        {
+            "word": "disconnect",
+            "type": "v",
+            "ipa": "/ˌdɪs.kəˈnekt/",
+            "meaning": "ngắt kết nối",
+            "example": "Remember to disconnect the power supply before repairing the machine."
+        },
+        {
+            "word": "discount",
+            "type": "v",
+            "ipa": "/ˈdɪs.kaʊnt/",
+            "meaning": "giảm giá, bớt giá",
+            "example": "They decided to discount the older models to make room for new inventory."
+        },
+        {
+            "word": "discuss",
+            "type": "v",
+            "ipa": "/dɪˈskʌs/",
+            "meaning": "thảo luận",
+            "example": "We need to discuss the feedback from our latest customer survey."
+        },
+        {
+            "word": "dismiss",
+            "type": "v",
+            "ipa": "/dɪˈsmɪs/",
+            "meaning": "giải tán, sa thải, gạt bỏ",
+            "example": "The judge decided to dismiss the case due to a lack of evidence."
+        },
+        {
+            "word": "display",
+            "type": "v",
+            "ipa": "/dɪˈspleɪ/",
+            "meaning": "trưng bày",
+            "example": "The museum will display the new collection starting next month."
+        }
+    ]
+}

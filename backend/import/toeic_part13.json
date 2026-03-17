@@ -1,0 +1,209 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 13",
+    "description": "Essential TOEIC terms focusing on operational efficiency, professional development, and workplace rights.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "effectiveness",
+            "type": "n",
+            "ipa": "/əˈfek.tɪv.nəs/",
+            "meaning": "sự hiệu quả",
+            "example": "The effectiveness of the new marketing campaign will be measured by sales growth."
+        },
+        {
+            "word": "efficiency",
+            "type": "n",
+            "ipa": "/ɪˈfɪʃ.ən.si/",
+            "meaning": "hiệu suất, năng suất",
+            "example": "We are looking for ways to improve the energy efficiency of our manufacturing plant."
+        },
+        {
+            "word": "elevator",
+            "type": "n",
+            "ipa": "/ˈel.ə.veɪ.t̬ɚ/",
+            "meaning": "thang máy",
+            "example": "The freight elevator is currently out of service for maintenance."
+        },
+        {
+            "word": "emergency",
+            "type": "n",
+            "ipa": "/ɪˈmɝː.dʒən.si/",
+            "meaning": "trường hợp khẩn cấp",
+            "example": "In case of an emergency, please use the stairs instead of the lift."
+        },
+        {
+            "word": "employer",
+            "type": "n",
+            "ipa": "/ɪmˈplɔɪ.ɚ/",
+            "meaning": "người làm chủ, chủ lao động",
+            "example": "As an employer, the company is responsible for providing a safe working environment."
+        },
+        {
+            "word": "employment",
+            "type": "n",
+            "ipa": "/ɪmˈplɔɪ.mənt/",
+            "meaning": "việc làm, sự thuê mướn",
+            "example": "The terms of your employment are clearly stated in the contract."
+        },
+        {
+            "word": "engineer",
+            "type": "n",
+            "ipa": "/ˌen.dʒɪˈnɪr/",
+            "meaning": "kỹ sư",
+            "example": "The software engineer fixed the bug in the system within an hour."
+        },
+        {
+            "word": "engineering",
+            "type": "n",
+            "ipa": "/ˌen.dʒɪˈnɪr.ɪŋ/",
+            "meaning": "công việc kỹ sư, ngành kỹ thuật",
+            "example": "The firm specializes in civil engineering and urban planning."
+        },
+        {
+            "word": "enterprise",
+            "type": "n",
+            "ipa": "/ˈen.t̬ɚ.praɪz/",
+            "meaning": "doanh nghiệp, xí nghiệp",
+            "example": "This small enterprise has grown into a global leader in just five years."
+        },
+        {
+            "word": "entitlement",
+            "type": "n",
+            "ipa": "/ɪnˈtaɪ.t̬əl.mənt/",
+            "meaning": "quyền hạn, sự được phép hưởng",
+            "example": "Your holiday entitlement increases after two years of service with the company."
+        },
+        {
+            "word": "entrée",
+            "type": "n",
+            "ipa": "/ˈɑːn.treɪ/",
+            "meaning": "món chính, sự gia nhập",
+            "example": "The waiter recommended the grilled salmon as the best entrée on the menu."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "effective",
+            "type": "adj",
+            "ipa": "/əˈfek.tɪv/",
+            "meaning": "hiệu quả, có hiệu lực",
+            "example": "The new safety regulations will be effective starting from next Monday."
+        },
+        {
+            "word": "efficient",
+            "type": "adj",
+            "ipa": "/ɪˈfɪʃ.ənt/",
+            "meaning": "năng suất cao, hiệu quả tốt",
+            "example": "An efficient filing system can save a lot of time in the office."
+        },
+        {
+            "word": "elderly",
+            "type": "adj",
+            "ipa": "/ˈel.dɚ.li/",
+            "meaning": "lớn tuổi, có tuổi",
+            "example": "The community center offers various programs for elderly residents."
+        },
+        {
+            "word": "enthusiastic",
+            "type": "adj",
+            "ipa": "/ɪnˌθuː.ziˈæs.tɪk/",
+            "meaning": "nhiệt tình, hứng khởi",
+            "example": "The manager was very enthusiastic about the new project proposal."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "embark",
+            "type": "v",
+            "ipa": "/ɪmˈbɑːrk/",
+            "meaning": "bắt đầu, dấn thân, lên tàu/máy bay",
+            "example": "The company is about to embark on a major restructuring plan."
+        },
+        {
+            "word": "emphasize",
+            "type": "v",
+            "ipa": "/ˈem.fə.saɪz/",
+            "meaning": "nhấn mạnh",
+            "example": "I must emphasize that all data in this report is strictly confidential."
+        },
+        {
+            "word": "enable",
+            "type": "v",
+            "ipa": "/ɪˈneɪ.bəl/",
+            "meaning": "cho phép, làm cho có thể",
+            "example": "This software update will enable users to share files more easily."
+        },
+        {
+            "word": "enclose",
+            "type": "v",
+            "ipa": "/ɪnˈkloʊz/",
+            "meaning": "gửi kèm, vây quanh",
+            "example": "Please find the invoice and the shipping label enclosed with this letter."
+        },
+        {
+            "word": "encourage",
+            "type": "v",
+            "ipa": "/ɪnˈkɝː.ɪʒ/",
+            "meaning": "động viên, cổ vũ",
+            "example": "Managers are encouraged to provide regular feedback to their teams."
+        },
+        {
+            "word": "endure",
+            "type": "v",
+            "ipa": "/ɪnˈdʊr/",
+            "meaning": "chịu đựng, tồn tại lâu dài",
+            "example": "The company has managed to endure several economic recessions."
+        },
+        {
+            "word": "enhance",
+            "type": "v",
+            "ipa": "/ɪnˈhæns/",
+            "meaning": "làm tăng thêm, đẩy mạnh",
+            "example": "We need to enhance our customer service to compete in the current market."
+        },
+        {
+            "word": "enlighten",
+            "type": "v",
+            "ipa": "/ɪnˈlaɪ.t̬ən/",
+            "meaning": "làm sáng tỏ, khai sáng",
+            "example": "The seminar aims to enlighten participants on new financial regulations."
+        },
+        {
+            "word": "enroll",
+            "type": "v",
+            "ipa": "/ɪnˈroʊl/",
+            "meaning": "đăng ký, ghi danh",
+            "example": "Employees can enroll in the company’s retirement plan after six months."
+        },
+        {
+            "word": "ensure",
+            "type": "v",
+            "ipa": "/ɪnˈʃʊr/",
+            "meaning": "bảo đảm, chắc chắn",
+            "example": "Please double-check the figures to ensure accuracy in the final report."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "effectively",
+            "type": "adv",
+            "ipa": "/əˈfek.tɪv.li/",
+            "meaning": "một cách hiệu quả",
+            "example": "He communicates effectively with clients from diverse backgrounds."
+        },
+        {
+            "word": "efficiently",
+            "type": "adv",
+            "ipa": "/ɪˈfɪʃ.ənt.li/",
+            "meaning": "một cách năng suất",
+            "example": "The team worked efficiently to complete the task before the deadline."
+        },
+        {
+            "word": "enthusiastically",
+            "type": "adv",
+            "ipa": "/ɪnˌθuː.ziˈæs.tɪ.kəl.i/",
+            "meaning": "một cách nhiệt tình",
+            "example": "The new policy was enthusiastically welcomed by most of the staff."
+        }
+    ]
+}

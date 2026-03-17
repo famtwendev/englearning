@@ -1,0 +1,221 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 6",
+    "description": "Essential TOEIC terms focusing on financial calculations, recruitment, professional qualities, and business operations.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "cafeteria",
+            "type": "n",
+            "ipa": "/ˌkæf.əˈtɪr.i.ə/",
+            "meaning": "quán ăn tự phục vụ, nhà ăn",
+            "example": "Most employees have lunch in the company cafeteria to save time."
+        },
+        {
+            "word": "calculation",
+            "type": "n",
+            "ipa": "/ˌkæl.kjəˈleɪ.ʃən/",
+            "meaning": "sự tính toán",
+            "example": "According to our calculations, the project will be profitable by next year."
+        },
+        {
+            "word": "calculator",
+            "type": "n",
+            "ipa": "/ˈkæl.kjə.leɪ.t̬ɚ/",
+            "meaning": "máy tính bỏ túi",
+            "example": "You are allowed to use a basic calculator during the accounting exam."
+        },
+        {
+            "word": "campaign",
+            "type": "n",
+            "ipa": "/kæmˈpeɪn/",
+            "meaning": "chiến dịch, cuộc vận động",
+            "example": "The marketing campaign resulted in a 15% increase in brand awareness."
+        },
+        {
+            "word": "cancellation",
+            "type": "n",
+            "ipa": "/ˌkæn.səlˈeɪ.ʃən/",
+            "meaning": "sự xóa bỏ, sự hủy bỏ",
+            "example": "The hotel has a 24-hour cancellation policy for all reservations."
+        },
+        {
+            "word": "candidacy",
+            "type": "n",
+            "ipa": "/ˈkæn.dɪ.də.si/",
+            "meaning": "sự ứng cử",
+            "example": "The board is currently reviewing his candidacy for the position of Vice President."
+        },
+        {
+            "word": "candidate",
+            "type": "n",
+            "ipa": "/ˈkæn.dɪ.dət/",
+            "meaning": "ứng cử viên",
+            "example": "We are looking for a candidate with at least five years of experience in sales."
+        },
+        {
+            "word": "capacity",
+            "type": "n",
+            "ipa": "/kəˈpæs.ə.t̬i/",
+            "meaning": "năng lực, sức chứa",
+            "example": "The conference hall has a seating capacity of 500 people."
+        },
+        {
+            "word": "capital",
+            "type": "n",
+            "ipa": "/ˈkæp.ə.t̬əl/",
+            "meaning": "nguồn vốn, thủ đô",
+            "example": "The startup is looking for extra capital to expand its operations overseas."
+        },
+        {
+            "word": "career",
+            "type": "n",
+            "ipa": "/kəˈrɪr/",
+            "meaning": "sự nghiệp",
+            "example": "He spent most of his career working for international non-profit organizations."
+        },
+        {
+            "word": "cash",
+            "type": "n",
+            "ipa": "/kæʃ/",
+            "meaning": "tiền mặt",
+            "example": "Customers receive a 5% discount if they pay in cash."
+        },
+        {
+            "word": "cashier",
+            "type": "n",
+            "ipa": "/kæʃˈɪr/",
+            "meaning": "nhân viên thu ngân",
+            "example": "The cashier handed me the receipt and wished me a nice day."
+        },
+        {
+            "word": "cause",
+            "type": "n",
+            "ipa": "/kɑːz/",
+            "meaning": "nguyên nhân, lý do",
+            "example": "The heavy rain was the main cause of the flight delays."
+        },
+        {
+            "word": "celebration",
+            "type": "n",
+            "ipa": "/ˌsel.əˈbreɪ.ʃən/",
+            "meaning": "lễ kỉ niệm",
+            "example": "The company held a celebration to mark its 20th anniversary."
+        },
+        {
+            "word": "certificate",
+            "type": "n",
+            "ipa": "/sɚˈtɪf.ə.kət/",
+            "meaning": "giấy chứng nhận",
+            "example": "You will receive a certificate of completion after finishing the training course."
+        },
+        {
+            "word": "certification",
+            "type": "n",
+            "ipa": "/ˌsɜ˞ː.t̬ə.fɪˈkeɪ.ʃən/",
+            "meaning": "sự cấp giấy chứng nhận",
+            "example": "Professional certification can help improve your chances of getting promoted."
+        },
+        {
+            "word": "chain",
+            "type": "n",
+            "ipa": "/tʃeɪn/",
+            "meaning": "chuỗi",
+            "example": "They are planning to open a new chain of coffee shops across the city."
+        },
+        {
+            "word": "chain store",
+            "type": "n",
+            "ipa": "/ˈtʃeɪn ˌstɔːr/",
+            "meaning": "cửa hàng theo chuỗi",
+            "example": "Shopping at a chain store ensures consistent quality and pricing."
+        },
+        {
+            "word": "chair",
+            "type": "n",
+            "ipa": "/tʃer/",
+            "meaning": "ghế ngồi",
+            "example": "Please take a chair and wait for the manager in the lobby."
+        },
+        {
+            "word": "chairperson",
+            "type": "n",
+            "ipa": "/ˈtʃerˌpɝː.sən/",
+            "meaning": "chủ tịch",
+            "example": "The chairperson called the meeting to order at 9:00 AM."
+        },
+        {
+            "word": "characteristic",
+            "type": "n",
+            "ipa": "/ˌker.ək.təˈrɪs.tɪk/",
+            "meaning": "đặc điểm",
+            "example": "Reliability is a key characteristic we look for in our suppliers."
+        },
+        {
+            "word": "charge",
+            "type": "n",
+            "ipa": "/tʃɑːrdʒ/",
+            "meaning": "chi phí, tiền công",
+            "example": "There is no extra charge for using the hotel's fitness center."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "careless",
+            "type": "adj",
+            "ipa": "/ˈker.ləs/",
+            "meaning": "bất cẩn, cẩu thảo",
+            "example": "A careless mistake in the financial report caused a lot of confusion."
+        },
+        {
+            "word": "cautious",
+            "type": "adj",
+            "ipa": "/ˈkɑː.ʃəs/",
+            "meaning": "thận trọng, cẩn thận",
+            "example": "Investors are very cautious about putting money into the new tech startup."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "calculate",
+            "type": "v",
+            "ipa": "/ˈkæl.kjə.leɪt/",
+            "meaning": "tính toán",
+            "example": "We need to calculate the total shipping costs before sending the invoice."
+        },
+        {
+            "word": "cancel",
+            "type": "v",
+            "ipa": "/ˈkæn.səl/",
+            "meaning": "hủy bỏ",
+            "example": "The meeting was canceled because the director had an urgent matter to attend to."
+        },
+        {
+            "word": "cause",
+            "type": "v",
+            "ipa": "/kɑːz/",
+            "meaning": "gây ra",
+            "example": "The technical glitch might cause some temporary disruptions to the website."
+        },
+        {
+            "word": "celebrate",
+            "type": "v",
+            "ipa": "/ˈsel.ə.breɪt/",
+            "meaning": "kỉ niệm, tán dương",
+            "example": "The team went out to dinner to celebrate winning the new contract."
+        },
+        {
+            "word": "characterize",
+            "type": "v",
+            "ipa": "/ˈker.ək.tɚ.aɪz/",
+            "meaning": "biểu thị đặc điểm",
+            "example": "High quality and durability characterize all products from this brand."
+        },
+        {
+            "word": "charge",
+            "type": "v",
+            "ipa": "/tʃɑːrdʒ/",
+            "meaning": "tính giá, đòi trả",
+            "example": "The consultant decided to charge a flat fee for the entire project."
+        }
+    ]
+}

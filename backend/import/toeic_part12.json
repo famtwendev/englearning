@@ -1,0 +1,236 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 12",
+    "description": "Essential TOEIC terms focusing on logistics, finance, corporate restructuring, and economic principles.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "dispose",
+            "type": "v",
+            "ipa": "/dɪˈspoʊz/",
+            "meaning": "vứt bỏ, giải quyết",
+            "example": "We need to dispose of the waste properly."
+        },
+        {
+            "word": "dispute",
+            "type": "n",
+            "ipa": "/dɪˈspjuːt/",
+            "meaning": "cuộc bàn cãi, tranh chấp",
+            "example": "The labor dispute was finally settled after a week of negotiations."
+        },
+        {
+            "word": "disruption",
+            "type": "n",
+            "ipa": "/dɪsˈrʌp.ʃən/",
+            "meaning": "sự phá vỡ, gián đoạn",
+            "example": "The storm caused a major disruption to the local train services."
+        },
+        {
+            "word": "distribution",
+            "type": "n",
+            "ipa": "/ˌdɪs.trɪˈbjuː.ʃən/",
+            "meaning": "sự phân phát, phân phối",
+            "example": "The company is looking for a new partner to handle the distribution of its products."
+        },
+        {
+            "word": "dividend",
+            "type": "n",
+            "ipa": "/ˈdɪv.ə.dend/",
+            "meaning": "cổ tức, số bị chia",
+            "example": "Shareholders will receive a higher dividend this year due to increased profits."
+        },
+        {
+            "word": "document",
+            "type": "n",
+            "ipa": "/ˈdɑː.kjə.mənt/",
+            "meaning": "văn kiện, tài liệu",
+            "example": "Please make sure you save the document before closing the program."
+        },
+        {
+            "word": "donation",
+            "type": "n",
+            "ipa": "/doʊˈneɪ.ʃən/",
+            "meaning": "sự quyên góp, hiến tặng",
+            "example": "The museum received a generous donation from a local businessman."
+        },
+        {
+            "word": "double",
+            "type": "n",
+            "ipa": "/ˈdʌb.əl/",
+            "meaning": "số lượng gấp đôi",
+            "example": "I'll have a double of whatever she's having."
+        },
+        {
+            "word": "downturn",
+            "type": "n",
+            "ipa": "/ˈdaʊn.tɝːn/",
+            "meaning": "sự suy thoái, sụt giảm",
+            "example": "The economic downturn has led to a decrease in consumer spending."
+        },
+        {
+            "word": "drawer",
+            "type": "n",
+            "ipa": "/drɑːr/",
+            "meaning": "ngăn kéo",
+            "example": "The files you are looking for are in the bottom drawer of the desk."
+        },
+        {
+            "word": "drive",
+            "type": "n",
+            "ipa": "/draɪv/",
+            "meaning": "cuộc đua, chiến dịch",
+            "example": "The annual recruitment drive will start early next month."
+        },
+        {
+            "word": "duration",
+            "type": "n",
+            "ipa": "/djʊəˈreɪ.ʃən/",
+            "meaning": "khoảng thời gian, thời hạn",
+            "example": "The duration of the training course is three weeks."
+        },
+        {
+            "word": "earnings",
+            "type": "n",
+            "ipa": "/ˈɝː.nɪŋz/",
+            "meaning": "thu nhập, tiền kiếm được",
+            "example": "The company's quarterly earnings exceeded market expectations."
+        },
+        {
+            "word": "economy",
+            "type": "n",
+            "ipa": "/iˈkɑː.nə.mi/",
+            "meaning": "nền kinh tế",
+            "example": "Tourism plays a vital role in the national economy."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "distinctive",
+            "type": "adj",
+            "ipa": "/dɪˈstɪŋ.kɪv/",
+            "meaning": "đặc biệt, độc đáo",
+            "example": "The brand is known for its distinctive logo and packaging."
+        },
+        {
+            "word": "double",
+            "type": "adj",
+            "ipa": "/ˈdʌb.əl/",
+            "meaning": "gấp đôi",
+            "example": "The hotel room has a double bed and a view of the garden."
+        },
+        {
+            "word": "dull",
+            "type": "adj",
+            "ipa": "/dʌl/",
+            "meaning": "buồn tẻ, chậm hiểu",
+            "example": "The presentation was quite dull and hard to follow."
+        },
+        {
+            "word": "duty-free",
+            "type": "adj",
+            "ipa": "/ˌduː.t̬iˈfriː/",
+            "meaning": "miễn thuế",
+            "example": "You can buy perfume and alcohol at the duty-free shop in the airport."
+        },
+        {
+            "word": "economical",
+            "type": "adj",
+            "ipa": "/ˌiː.kəˈnɑː.mɪ.kəl/",
+            "meaning": "tiết kiệm, kinh tế",
+            "example": "It is more economical to buy office supplies in bulk."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "dispose",
+            "type": "v",
+            "ipa": "/dɪˈspoʊz/",
+            "meaning": "vứt bỏ, giải quyết (dispose of)",
+            "example": "The factory must find a safe way to dispose of chemical waste."
+        },
+        {
+            "word": "dispute",
+            "type": "v",
+            "ipa": "/dɪˈspjuːt/",
+            "meaning": "tranh luận, phản bác",
+            "example": "The company decided to dispute the findings of the audit."
+        },
+        {
+            "word": "distinguish",
+            "type": "v",
+            "ipa": "/dɪˈstɪŋ.ɡwɪʃ/",
+            "meaning": "phân biệt, nhận ra",
+            "example": "It is sometimes difficult to distinguish between the two models."
+        },
+        {
+            "word": "distribute",
+            "type": "v",
+            "ipa": "/dɪˈstrɪb.juːt/",
+            "meaning": "phân phát, phân bổ",
+            "example": "The assistant will distribute the meeting agenda to all participants."
+        },
+        {
+            "word": "donate",
+            "type": "/ˈdoʊ.neɪt/",
+            "meaning": "quyên góp",
+            "example": "Many employees choose to donate a portion of their salary to charity."
+        },
+        {
+            "word": "download",
+            "type": "v",
+            "ipa": "/ˈdaʊn.loʊd/",
+            "meaning": "tải xuống",
+            "example": "You can download the full report from our website."
+        },
+        {
+            "word": "downsize",
+            "type": "v",
+            "ipa": "/ˈdaʊn.saɪz/",
+            "meaning": "cắt giảm nhân sự/quy mô",
+            "example": "The firm had to downsize its workforce to stay afloat during the crisis."
+        },
+        {
+            "word": "draw",
+            "type": "v",
+            "ipa": "/drɑː/",
+            "meaning": "vẽ, thu hút",
+            "example": "The trade fair is expected to draw thousands of visitors."
+        },
+        {
+            "word": "drive",
+            "type": "v",
+            "ipa": "/draɪv/",
+            "meaning": "lái xe, thúc đẩy",
+            "example": "Innovation is the key factor that drives our growth."
+        },
+        {
+            "word": "earn",
+            "type": "v",
+            "ipa": "/ɝːn/",
+            "meaning": "kiếm tiền, giành được",
+            "example": "The company hopes to earn a profit by the end of the second year."
+        },
+        {
+            "word": "economize",
+            "type": "v",
+            "ipa": "/iˈkɑː.nə.maɪz/",
+            "meaning": "tiết kiệm chi phí",
+            "example": "We need to economize on electricity and paper usage."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "downward",
+            "type": "adv",
+            "ipa": "/ˈdaʊn.wɚd/",
+            "meaning": "hướng xuống, trở xuống",
+            "example": "The trend in stock prices has been downward for the past week."
+        },
+        {
+            "word": "drastically",
+            "type": "adv",
+            "ipa": "/ˈdræs.tɪ.kəl.i/",
+            "meaning": "mạnh mẽ, quyết liệt",
+            "example": "Operational costs have been drastically reduced since the new policy."
+        }
+    ]
+}

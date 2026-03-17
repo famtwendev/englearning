@@ -1,0 +1,228 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 4",
+    "description": "Essential TOEIC terms focusing on workplace duties, office procedures, and commercial travel.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "assignment",
+            "type": "n",
+            "ipa": "/əˈsaɪn.mənt/",
+            "meaning": "sự phân việc, nhiệm vụ được giao",
+            "example": "His first assignment was to reorganize the filing system."
+        },
+        {
+            "word": "assistance",
+            "type": "n",
+            "ipa": "/əˈsɪs.təns/",
+            "meaning": "sự giúp đỡ, hỗ trợ",
+            "example": "Technical assistance is available 24 hours a day."
+        },
+        {
+            "word": "attachment",
+            "type": "n",
+            "ipa": "/əˈtætʃ.mənt/",
+            "meaning": "sự gắn thêm, tệp đính kèm",
+            "example": "Please check the email attachment for the full itinerary."
+        },
+        {
+            "word": "attendance",
+            "type": "n",
+            "ipa": "/əˈten.dəns/",
+            "meaning": "sự tham gia, số người có mặt",
+            "example": "Attendance at the monthly safety meeting is mandatory."
+        },
+        {
+            "word": "audience",
+            "type": "n",
+            "ipa": "/ˈɑː.di.əns/",
+            "meaning": "khán thính giả",
+            "example": "The speaker captivated the audience with her presentation."
+        },
+        {
+            "word": "audit",
+            "type": "n",
+            "ipa": "/ˈɑː.dɪt/",
+            "meaning": "việc kiểm toán",
+            "example": "The company undergoes an external audit every year."
+        },
+        {
+            "word": "authority",
+            "type": "n",
+            "ipa": "/əˈθɔːr.ə.t̬i/",
+            "meaning": "quyền thế, nhà chức trách",
+            "example": "You need to get permission from the local authority before building."
+        },
+        {
+            "word": "availability",
+            "type": "n",
+            "ipa": "/əˌveɪ.ləˈbɪl.ə.t̬i/",
+            "meaning": "tính sẵn có",
+            "example": "Please confirm your availability for an interview next week."
+        },
+        {
+            "word": "awareness",
+            "type": "n",
+            "ipa": "/əˈwer.nəs/",
+            "meaning": "sự nhận thức, ý thức",
+            "example": "The campaign aims to raise public awareness of environmental issues."
+        },
+        {
+            "word": "background",
+            "type": "n",
+            "ipa": "/ˈbæk.ɡraʊnd/",
+            "meaning": "phông nền, nền tảng kinh nghiệm",
+            "example": "She has a strong background in financial management."
+        },
+        {
+            "word": "backpack",
+            "type": "n",
+            "ipa": "/ˈbæk.pæk/",
+            "meaning": "ba lô",
+            "example": "He put his laptop and notebooks into his backpack."
+        },
+        {
+            "word": "baggage claim",
+            "type": "n",
+            "ipa": "/ˈbæɡ.ɪdʒ kleɪm/",
+            "meaning": "chỗ nhận hành lý",
+            "example": "We waited at the baggage claim for over thirty minutes."
+        },
+        {
+            "word": "balance",
+            "type": "n",
+            "ipa": "/ˈbæl.əns/",
+            "meaning": "số dư tài khoản, sự cân bằng",
+            "example": "You can check your account balance at any ATM."
+        },
+        {
+            "word": "bank",
+            "type": "n",
+            "ipa": "/bæŋk/",
+            "meaning": "ngân hàng",
+            "example": "The bank is closed on national holidays."
+        },
+        {
+            "word": "bankrupt",
+            "type": "n",
+            "ipa": "/ˈbæŋ.krʌpt/",
+            "meaning": "người phá sản",
+            "example": "The court declared the investor a bankrupt."
+        },
+        {
+            "word": "bar code",
+            "type": "n",
+            "ipa": "/ˈbɑːr ˌkoʊd/",
+            "meaning": "mã vạch",
+            "example": "The cashier scanned the bar code on the product label."
+        },
+        {
+            "word": "bargain",
+            "type": "n",
+            "ipa": "/ˈbɑːr.ɡɪn/",
+            "meaning": "món hời, sự mặc cả",
+            "example": "This second-hand printer is a real bargain at only $50."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "available",
+            "type": "adj",
+            "ipa": "/əˈvəɪ.lə.bəl/",
+            "meaning": "có sẵn, rảnh",
+            "example": "Is this model available in any other colors?"
+        },
+        {
+            "word": "avid",
+            "type": "adj",
+            "ipa": "/ˈæv.ɪd/",
+            "meaning": "khao khát, say mê",
+            "example": "He is an avid reader of business journals."
+        },
+        {
+            "word": "awkward",
+            "type": "adj",
+            "ipa": "/ˈɑː.kwɚd/",
+            "meaning": "khó xử, bất tiện",
+            "example": "There was an awkward silence when no one answered the question."
+        },
+        {
+            "word": "bankrupt",
+            "type": "adj",
+            "ipa": "/ˈbæŋ.krʌpt/",
+            "meaning": "vỡ nợ, phá sản",
+            "example": "The firm went bankrupt due to poor financial planning."
+        },
+        {
+            "word": "beautiful",
+            "type": "adj",
+            "ipa": "/ˈbjuː.t̬ə.fəl/",
+            "meaning": "xinh đẹp, tốt đẹp",
+            "example": "The city has many beautiful parks and gardens."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "assist",
+            "type": "v",
+            "ipa": "/əˈsɪst/",
+            "meaning": "hỗ trợ, giúp đỡ",
+            "example": "A team of researchers will assist the lead scientist."
+        },
+        {
+            "word": "assume",
+            "type": "v",
+            "ipa": "/əˈsuːm/",
+            "meaning": "cho rằng, đảm đương",
+            "example": "You shouldn't assume that the project will be finished on time."
+        },
+        {
+            "word": "attach",
+            "type": "v",
+            "ipa": "/əˈtætʃ/",
+            "meaning": "đính kèm",
+            "example": "Please remember to attach your photo to the application."
+        },
+        {
+            "word": "attend",
+            "type": "v",
+            "ipa": "/əˈtend/",
+            "meaning": "tham dự",
+            "example": "Many experts will attend the international conference."
+        },
+        {
+            "word": "attract",
+            "type": "v",
+            "ipa": "/əˈtrækt/",
+            "meaning": "thu hút",
+            "example": "The new marketing strategy is designed to attract more customers."
+        },
+        {
+            "word": "audit",
+            "type": "v",
+            "ipa": "/ˈɑː.dɪt/",
+            "meaning": "kiểm toán",
+            "example": "The IRS may decide to audit your tax return."
+        },
+        {
+            "word": "authorize",
+            "type": "v",
+            "ipa": "/ˈɑː.θɚ.aɪz/",
+            "meaning": "ủy quyền, cấp quyền",
+            "example": "The manager must authorize any expenditure over $500."
+        },
+        {
+            "word": "avoid",
+            "type": "v",
+            "ipa": "/əˈvɔɪd/",
+            "meaning": "tránh xa, ngăn ngừa",
+            "example": "You should avoid making any major changes until the situation is clear."
+        },
+        {
+            "word": "bargain",
+            "type": "v",
+            "ipa": "/ˈbɑːr.ɡɪn/",
+            "meaning": "mặc cả, thương lượng",
+            "example": "In some markets, it is expected that you will bargain over the price."
+        }
+    ]
+}

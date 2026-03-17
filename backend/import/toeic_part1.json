@@ -1,0 +1,223 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 1",
+    "description": "Essential words frequently appearing in the TOEIC exam, covering various parts of speech.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "ability",
+            "type": "n",
+            "ipa": "/əˈbɪl.ə.t̬i/",
+            "meaning": "năng lực, khả năng",
+            "example": "The manager praised her ability to handle difficult customers."
+        },
+        {
+            "word": "access",
+            "type": "n",
+            "ipa": "/ˈæk.ses/",
+            "meaning": "quyền truy cập, sự tiếp cận",
+            "example": "Only authorized personnel have access to the server room."
+        },
+        {
+            "word": "accident",
+            "type": "n",
+            "ipa": "/ˈæk.sə.dənt/",
+            "meaning": "tai nạn, sự tình cờ",
+            "example": "The report concluded that the fire was a complete accident."
+        },
+        {
+            "word": "accommodation",
+            "type": "n",
+            "ipa": "/əˌkɑː.məˈdeɪ.ʃən/",
+            "meaning": "chỗ ở, nơi ở",
+            "example": "The company will provide accommodation for all overseas employees."
+        },
+        {
+            "word": "accounting",
+            "type": "n",
+            "ipa": "/əˈkaʊ.t̬ɪŋ/",
+            "meaning": "kế toán",
+            "example": "He decided to pursue a career in accounting after graduation."
+        },
+        {
+            "word": "act",
+            "type": "n",
+            "ipa": "/ækt/",
+            "meaning": "hành động",
+            "example": "Helping a colleague is a kind act that improves teamwork."
+        },
+        {
+            "word": "adapter",
+            "type": "n",
+            "ipa": "/əˈdæp.tɚ/",
+            "meaning": "thiết bị chuyển đổi",
+            "example": "I need a power adapter to use my laptop in this country."
+        },
+        {
+            "word": "adjustment",
+            "type": "n",
+            "ipa": "/əˈdʒʌst.mənt/",
+            "meaning": "sự điều chỉnh, sự thay đổi",
+            "example": "The technician made a slight adjustment to the machine's settings."
+        },
+        {
+            "word": "administration",
+            "type": "n",
+            "ipa": "/ədˌmɪn.əˈstreɪ.ʃən/",
+            "meaning": "sự quản lý, quản trị",
+            "example": "The new administration is focusing on reducing operational costs."
+        },
+        {
+            "word": "admittance",
+            "type": "n",
+            "ipa": "/ədˈmɪt̬.əns/",
+            "meaning": "sự thu nạp, đón nhận",
+            "example": "The sign stated 'No Admittance' to unauthorized visitors."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "accessible",
+            "type": "adj",
+            "ipa": "/əkˈses.ə.bəl/",
+            "meaning": "khả năng tiếp cận được",
+            "example": "The building is fully accessible to people in wheelchairs."
+        },
+        {
+            "word": "accurate",
+            "type": "adj",
+            "ipa": "/ˈæk.jɚ.ət/",
+            "meaning": "đúng đắn, chính xác",
+            "example": "We need an accurate estimate of the project's total cost."
+        },
+        {
+            "word": "additional",
+            "type": "adj",
+            "ipa": "/əˈdɪʃ.ən.əl/",
+            "meaning": "thêm vào, phụ thêm",
+            "example": "There will be an additional charge for express delivery."
+        },
+        {
+            "word": "supplementary",
+            "type": "adj",
+            "ipa": "/ˌsʌp.ləˈmen.tər.i/",
+            "meaning": "bổ sung, thêm vào (=additional)",
+            "example": "The book provides supplementary materials for further study."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "accept",
+            "type": "v",
+            "ipa": "/əkˈsept/",
+            "meaning": "chấp nhận, chấp thuận",
+            "example": "Please let us know if you accept the terms of the contract."
+        },
+        {
+            "word": "access",
+            "type": "v",
+            "ipa": "/ˈæk.ses/",
+            "meaning": "truy cập",
+            "example": "You can access your account details through our mobile app."
+        },
+        {
+            "word": "accommodate",
+            "type": "v",
+            "ipa": "/əˈkɑː.mə.deɪt/",
+            "meaning": "đáp ứng (đủ không gian/chỗ)",
+            "example": "The hotel can accommodate up to 500 guests for the conference."
+        },
+        {
+            "word": "accomplish",
+            "type": "v",
+            "ipa": "/əˈkɑːm.plɪʃ/",
+            "meaning": "hoàn thành, thực hiện",
+            "example": "We can accomplish more when we work together as a team."
+        },
+        {
+            "word": "achieve",
+            "type": "v",
+            "ipa": "/əˈtʃiːv/",
+            "meaning": "đạt được, giành được",
+            "example": "The company hopes to achieve its sales targets by the end of the year."
+        },
+        {
+            "word": "acquire",
+            "type": "v",
+            "ipa": "/əˈkwaɪɚ/",
+            "meaning": "có được, thu mua",
+            "example": "Our firm plans to acquire a smaller competitor next month."
+        },
+        {
+            "word": "act",
+            "type": "v",
+            "ipa": "/ækt/",
+            "meaning": "thực hiện, hành động",
+            "example": "The board must act quickly to solve the financial crisis."
+        },
+        {
+            "word": "adapt",
+            "type": "v",
+            "ipa": "/əˈdæpt/",
+            "meaning": "thích nghi, thích ứng",
+            "example": "Successful businesses are those that can adapt to changing markets."
+        },
+        {
+            "word": "adjust",
+            "type": "v",
+            "ipa": "/əˈdʒʌst/",
+            "meaning": "điều chỉnh",
+            "example": "You may need to adjust your expectations regarding the timeline."
+        },
+        {
+            "word": "admire",
+            "type": "v",
+            "ipa": "/ədˈmaɪr/",
+            "meaning": "ngưỡng mộ, thán phục",
+            "example": "Many employees admire the CEO for her visionary leadership."
+        },
+        {
+            "word": "admit",
+            "type": "v",
+            "ipa": "/ədˈmɪt/",
+            "meaning": "thừa nhận; tiếp nhận",
+            "example": "The director had to admit that the marketing campaign was a failure."
+        },
+        {
+            "word": "adopt",
+            "type": "v",
+            "ipa": "/əˈdɑːpt/",
+            "meaning": "làm theo, áp dụng",
+            "example": "The company decided to adopt a new flexible working policy."
+        },
+        {
+            "word": "according to",
+            "type": "prep",
+            "ipa": "/əˈkɔːr.dɪŋ ˌtuː/",
+            "meaning": "theo như, dựa vào",
+            "example": "According to the latest report, profits have increased by 10%."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "abroad",
+            "type": "adv",
+            "ipa": "/əˈbrɑːd/",
+            "meaning": "ở nước ngoài",
+            "example": "The company is looking to expand its business abroad."
+        },
+        {
+            "word": "accordingly",
+            "type": "adv",
+            "ipa": "/əˈkɔːr.dɪŋ.li/",
+            "meaning": "một cách phù hợp",
+            "example": "We have updated the budget and will inform the staff accordingly."
+        },
+        {
+            "word": "actually",
+            "type": "adv",
+            "ipa": "/ˈæk.tʃu.ə.li/",
+            "meaning": "thực sự, trên thực tế",
+            "example": "I thought the meeting was at 2 PM, but it's actually at 3 PM."
+        }
+    ]
+}

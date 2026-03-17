@@ -1,0 +1,249 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 15",
+    "description": "Essential TOEIC terms focusing on logistics, contract extensions, financial figures, and travel services.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "extension",
+            "type": "n",
+            "ipa": "/ɪkˈsten.ʃən/",
+            "meaning": "sự mở rộng, sự gia hạn, số máy nhánh",
+            "example": "If you need more time to finish the report, you can request a two-day extension."
+        },
+        {
+            "word": "facility",
+            "type": "n",
+            "ipa": "/fəˈsɪl.ə.t̬i/",
+            "meaning": "cơ sở vật chất, điều kiện thuận lợi",
+            "example": "The research facility is equipped with the latest technology in the field."
+        },
+        {
+            "word": "factor",
+            "type": "n",
+            "ipa": "/ˈfæk.tɚ/",
+            "meaning": "nhân tố",
+            "example": "Location is a key factor to consider when opening a new retail store."
+        },
+        {
+            "word": "factory",
+            "type": "n",
+            "ipa": "/ˈfæk.tɚ.i/",
+            "meaning": "nhà máy, xí nghiệp",
+            "example": "The company plans to build a new factory to increase production capacity."
+        },
+        {
+            "word": "failure",
+            "type": "n",
+            "ipa": "/ˈfeɪ.ljɚ/",
+            "meaning": "sự thất bại, sự hỏng hóc (máy móc)",
+            "example": "The power failure resulted in the loss of unsaved data on many computers."
+        },
+        {
+            "word": "fair",
+            "type": "n",
+            "ipa": "/fer/",
+            "meaning": "hội chợ, phiên chợ",
+            "example": "Many local businesses will participate in the annual job fair this weekend."
+        },
+        {
+            "word": "fare",
+            "type": "n",
+            "ipa": "/fer/",
+            "meaning": "tiền xe, tiền vé (tàu, xe, máy bay)",
+            "example": "Bus fares are expected to increase by ten percent next month."
+        },
+        {
+            "word": "fault",
+            "type": "n",
+            "ipa": "/fɑːlt/",
+            "meaning": "lỗi, sai lầm, khuyết điểm",
+            "example": "The technician identified a minor fault in the wiring system."
+        },
+        {
+            "word": "favor",
+            "type": "n",
+            "ipa": "/ˈfeɪ.vɚ/",
+            "meaning": "thiện ý, sự giúp đỡ",
+            "example": "Could you do me a favor and drop these documents off at the post office?"
+        },
+        {
+            "word": "fax",
+            "type": "n",
+            "ipa": "/fæks/",
+            "meaning": "bản fax, máy fax",
+            "example": "Please send the signed agreement via fax to our headquarters."
+        },
+        {
+            "word": "feature",
+            "type": "n",
+            "ipa": "/ˈfiː.tʃɚ/",
+            "meaning": "đặc điểm, tính năng",
+            "example": "The most impressive feature of the new smartphone is its long battery life."
+        },
+        {
+            "word": "fee",
+            "type": "n",
+            "ipa": "/fiː/",
+            "meaning": "lệ phí, phí dịch vụ",
+            "example": "There is a small processing fee for all credit card transactions."
+        },
+        {
+            "word": "feedback",
+            "type": "n",
+            "ipa": "/ˈfiːd.bæk/",
+            "meaning": "phản hồi, góp ý",
+            "example": "Positive feedback from customers has boosted the team's morale."
+        },
+        {
+            "word": "figure",
+            "type": "n",
+            "ipa": "/ˈfɪɡ.jɚ/",
+            "meaning": "con số, số liệu, nhân vật",
+            "example": "The latest sales figures show a steady increase in revenue."
+        },
+        {
+            "word": "file",
+            "type": "n",
+            "ipa": "/faɪl/",
+            "meaning": "hồ sơ, tập tin",
+            "example": "I need to organize these files before the meeting starts."
+        },
+        {
+            "word": "finance",
+            "type": "n",
+            "ipa": "/ˈfaɪ.næns/",
+            "meaning": "tài chính",
+            "example": "She has a background in international finance and investment."
+        },
+        {
+            "word": "flight",
+            "type": "n",
+            "ipa": "/flaɪt/",
+            "meaning": "chuyến bay",
+            "example": "My flight was delayed due to heavy fog at the airport."
+        },
+        {
+            "word": "flight attendant",
+            "type": "n",
+            "ipa": "/ˈflaɪt əˌten.dənt/",
+            "meaning": "tiếp viên hàng không",
+            "example": "The flight attendant helped the passengers locate their seats."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "external",
+            "type": "adj",
+            "ipa": "/ɪkˈstɝː.nəl/",
+            "meaning": "bên ngoài, đối ngoại",
+            "example": "The company hired an external consultant to review its safety procedures."
+        },
+        {
+            "word": "fair",
+            "type": "adj",
+            "ipa": "/fer/",
+            "meaning": "công bằng",
+            "example": "The manager ensures that all team members receive a fair share of the workload."
+        },
+        {
+            "word": "famed",
+            "type": "adj",
+            "ipa": "/feɪmd/",
+            "meaning": "nổi tiếng, lừng danh",
+            "example": "The city is famed for its historic architecture and vibrant culture."
+        },
+        {
+            "word": "faulty",
+            "type": "adj",
+            "ipa": "/ˈfɑːl.t̬i/",
+            "meaning": "có lỗi, bị hỏng",
+            "example": "You can return the faulty goods and ask for a full refund."
+        },
+        {
+            "word": "final",
+            "type": "adj",
+            "ipa": "/ˈfaɪ.nəl/",
+            "meaning": "cuối cùng",
+            "example": "The final decision regarding the budget will be made by the CEO."
+        },
+        {
+            "word": "financial",
+            "type": "adj",
+            "ipa": "/faɪˈnæn.ʃəl/",
+            "meaning": "(thuộc) tài chính",
+            "example": "The company is in a strong financial position following the merger."
+        },
+        {
+            "word": "flexible",
+            "type": "adj",
+            "ipa": "/ˈflek.sə.bəl/",
+            "meaning": "linh hoạt",
+            "example": "We offer flexible working hours to help employees balance work and life."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "extend",
+            "type": "v",
+            "ipa": "/ɪkˈstend/",
+            "meaning": "gia hạn, kéo dài, gửi tới",
+            "example": "The deadline for the scholarship application has been extended to next Friday."
+        },
+        {
+            "word": "fail",
+            "type": "v",
+            "ipa": "/feɪl/",
+            "meaning": "thất bại, trượt",
+            "example": "If the negotiations fail, the company will have to look for a different partner."
+        },
+        {
+            "word": "fare",
+            "type": "v",
+            "ipa": "/fer/",
+            "meaning": "xoay xở, làm ăn (tốt/xấu)",
+            "example": "How did the new product fare in the international market?"
+        },
+        {
+            "word": "favor",
+            "type": "v",
+            "ipa": "/ˈfeɪ.vɚ/",
+            "meaning": "ưu ái, thiên vị",
+            "example": "The current tax laws tend to favor large corporations over small businesses."
+        },
+        {
+            "word": "feedback",
+            "type": "v",
+            "ipa": "/ˈfiːd.bæk/",
+            "meaning": "phản hồi thông tin",
+            "example": "We need to feedback the results of the survey to the participants."
+        },
+        {
+            "word": "figure",
+            "type": "v",
+            "ipa": "/ˈfɪɡ.jɚ/",
+            "meaning": "tính toán, suy luận (figure out)",
+            "example": "It took me a while to figure out how to operate the new software."
+        },
+        {
+            "word": "fill",
+            "type": "v",
+            "ipa": "/fɪl/",
+            "meaning": "làm đầy, điền vào (fill out/in)",
+            "example": "Please fill out the application form and sign it at the bottom."
+        },
+        {
+            "word": "finance",
+            "type": "v",
+            "ipa": "/ˈfaɪ.næns/",
+            "meaning": "cấp vốn, tài trợ",
+            "example": "The project was financed by a group of private investors."
+        },
+        {
+            "word": "fix",
+            "type": "v",
+            "ipa": "/fɪks/",
+            "meaning": "sửa chữa, cố định",
+            "example": "The IT department is working to fix the server issue as quickly as possible."
+        }
+    ]
+}

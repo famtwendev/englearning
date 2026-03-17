@@ -298,12 +298,12 @@ export const IpaDashboard: React.FC = () => {
                     </Box>
 
                     {/* Consonants Grid */}
-                    {/* Matches the total columns from Vowels exactly (3+3=6) at all sizes */}
+                    {/* Matches the total columns from Vowels exactly (2+2=4 config on xs, 3+3=6 on sm) */}
                     <Box
                         sx={{
                             flex: 1,
                             display: 'grid',
-                            gridTemplateColumns: { xs: 'repeat(6, 1fr)', sm: 'repeat(6, 1fr)' },
+                            gridTemplateColumns: { xs: 'repeat(4, 1fr)', sm: 'repeat(6, 1fr)' },
                             gridAutoRows: '1fr',
                             gap: { xs: 1.5, sm: 2 }
                         }}

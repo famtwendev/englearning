@@ -1,0 +1,272 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 17",
+    "description": "Essential TOEIC terms focusing on business growth, operations, workplace safety, and professional behavior.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "growth",
+            "type": "n",
+            "ipa": "/ɡroʊθ/",
+            "meaning": "sự tăng trưởng, phát triển",
+            "example": "The company has seen a significant growth in international sales this year."
+        },
+        {
+            "word": "guarantee",
+            "type": "n",
+            "ipa": "/ˌɡer.ənˈtiː/",
+            "meaning": "sự đảm bảo, giấy bảo hành",
+            "example": "The electronic equipment comes with a two-year guarantee against defects."
+        },
+        {
+            "word": "guideline",
+            "type": "n",
+            "ipa": "/ˈɡaɪd.laɪn/",
+            "meaning": "quy tắc, nguyên tắc chỉ đạo",
+            "example": "Please follow the guidelines provided in the employee handbook."
+        },
+        {
+            "word": "haggle",
+            "type": "n",
+            "ipa": "/ˈhæɡ.əl/",
+            "meaning": "sự mặc cả",
+            "example": "It's common to haggle over prices at local street markets."
+        },
+        {
+            "word": "handle",
+            "type": "n",
+            "ipa": "/ˈhæn.dəl/",
+            "meaning": "tay cầm, cán",
+            "example": "The handle of the suitcase was damaged during the flight."
+        },
+        {
+            "word": "harbor",
+            "type": "n",
+            "ipa": "/ˈhɑː.bər/",
+            "meaning": "bến cảng",
+            "example": "The ship is docked in the harbor for repairs."
+        },
+        {
+            "word": "head office",
+            "type": "n",
+            "ipa": "/ˌhed ˈɑː.fɪs/",
+            "meaning": "trụ sở chính, văn phòng chính",
+            "example": "Our head office is located in the financial district of New York."
+        },
+        {
+            "word": "headquarters",
+            "type": "n",
+            "ipa": "/ˈhedˌkwɔːr.t̬ɚz/",
+            "meaning": "sở chỉ huy, trụ sở chính",
+            "example": "The global headquarters of the firm moved to London last summer."
+        },
+        {
+            "word": "hesitation",
+            "type": "n",
+            "ipa": "/ˌhez.əˈteɪ.ʃən/",
+            "meaning": "sự do dự, ngập ngừng",
+            "example": "After a brief hesitation, the candidate signed the job offer."
+        },
+        {
+            "word": "highlight",
+            "type": "n",
+            "ipa": "/ˈhaɪ.laɪt/",
+            "meaning": "điểm nổi bật",
+            "example": "The highlight of the conference was the keynote speech by the CEO."
+        },
+        {
+            "word": "hike",
+            "type": "n",
+            "ipa": "/haɪk/",
+            "meaning": "cuộc đi bộ đường dài, sự tăng vọt (giá)",
+            "example": "The recent price hike has caused concern among regular customers."
+        },
+        {
+            "word": "hire",
+            "type": "n",
+            "ipa": "/haɪr/",
+            "meaning": "sự thuê, người mới được thuê",
+            "example": "The new hires are required to attend an orientation session tomorrow."
+        },
+        {
+            "word": "hold",
+            "type": "n",
+            "ipa": "/hoʊld/",
+            "meaning": "sự cầm nắm, khoang hàng (tàu)",
+            "example": "All large luggage must be stored in the aircraft's hold."
+        },
+        {
+            "word": "host",
+            "type": "n",
+            "ipa": "/hoʊst/",
+            "meaning": "chủ nhà, người chủ trì",
+            "example": "The city is proud to be the host of the international trade fair."
+        },
+        {
+            "word": "identification",
+            "type": "n",
+            "ipa": "/aɪˌden.t̬ə.fəˈkeɪ.ʃən/",
+            "meaning": "sự nhận diện, giấy tờ tùy thân",
+            "example": "Please show your identification at the security desk upon arrival."
+        },
+        {
+            "word": "impact",
+            "type": "n",
+            "ipa": "/ˈɪm.pækt/",
+            "meaning": "tác động, ảnh hưởng",
+            "example": "The new tax policy will have a major impact on small businesses."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "handy",
+            "type": "adj",
+            "ipa": "/ˈhæn.di/",
+            "meaning": "thuận tiện, có sẵn",
+            "example": "It's always handy to have a backup of your files on a portable drive."
+        },
+        {
+            "word": "harmful",
+            "type": "adj",
+            "ipa": "/ˈhɑːrm.fəl/",
+            "meaning": "gây hại",
+            "example": "The report warns that high levels of stress can be harmful to health."
+        },
+        {
+            "word": "hazardous",
+            "type": "adj",
+            "ipa": "/ˈhæz.ɚ.dəs/",
+            "meaning": "nguy hiểm, mạo hiểm",
+            "example": "The workers wear protective gear when handling hazardous chemicals."
+        },
+        {
+            "word": "imaginative",
+            "type": "adj",
+            "ipa": "/ɪˈmædʒ.ə.nə.t̬ɪv/",
+            "meaning": "giàu tưởng tượng, sáng tạo",
+            "example": "The marketing team came up with an imaginative solution for the ad campaign."
+        },
+        {
+            "word": "immediate",
+            "type": "adj",
+            "ipa": "/ɪˈmiː.di.ət/",
+            "meaning": "ngay lập tức, trực tiếp",
+            "example": "The new software update requires an immediate restart of the system."
+        },
+        {
+            "word": "impatient",
+            "type": "adj",
+            "ipa": "/ɪmˈpeɪ.ʃənt/",
+            "meaning": "thiếu kiên nhẫn",
+            "example": "The customer became impatient after waiting for thirty minutes."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "guarantee",
+            "type": "v",
+            "ipa": "/ˌɡer.ənˈtiː/",
+            "meaning": "cam kết, bảo đảm",
+            "example": "We guarantee that your order will be delivered within three business days."
+        },
+        {
+            "word": "haggle",
+            "type": "v",
+            "ipa": "/ˈhæɡ.əl/",
+            "meaning": "mặc cả, tranh luận giá",
+            "example": "You can sometimes haggle with suppliers to get a better bulk discount."
+        },
+        {
+            "word": "handle",
+            "type": "v",
+            "ipa": "/ˈhæn.dəl/",
+            "meaning": "xử lý, giải quyết",
+            "example": "The customer service department is trained to handle complaints efficiently."
+        },
+        {
+            "word": "harbor",
+            "type": "v",
+            "ipa": "/ˈhɑː.bər/",
+            "meaning": "che giấu, nuôi dưỡng (ý nghĩ)",
+            "example": "He still harbors hopes of becoming the vice president one day."
+        },
+        {
+            "word": "hesitate",
+            "type": "v",
+            "ipa": "/ˈhez.ə.teɪt/",
+            "meaning": "do dự",
+            "example": "Please do not hesitate to contact us if you have any questions."
+        },
+        {
+            "word": "hide",
+            "type": "v",
+            "ipa": "/haɪd/",
+            "meaning": "che giấu",
+            "example": "The company was accused of trying to hide its financial losses."
+        },
+        {
+            "word": "highlight",
+            "type": "v",
+            "ipa": "/ˈhaɪ.laɪt/",
+            "meaning": "làm nổi bật, nhấn mạnh",
+            "example": "The presentation was designed to highlight the benefits of the new system."
+        },
+        {
+            "word": "hire",
+            "type": "v",
+            "ipa": "/haɪr/",
+            "meaning": "thuê, mướn",
+            "example": "We plan to hire more staff to help with the increased workload."
+        },
+        {
+            "word": "hold",
+            "type": "v",
+            "ipa": "/hoʊld/",
+            "meaning": "cầm giữ, tổ chức",
+            "example": "The annual shareholders' meeting will be held in the main ballroom."
+        },
+        {
+            "word": "host",
+            "type": "v",
+            "ipa": "/hoʊst/",
+            "meaning": "tổ chức, đăng cai",
+            "example": "Our office will host a welcoming lunch for the new interns."
+        },
+        {
+            "word": "identify",
+            "type": "v",
+            "ipa": "/aɪˈden.t̬ə.faɪ/",
+            "meaning": "nhận diện, xác định",
+            "example": "The investigation aims to identify the cause of the system failure."
+        },
+        {
+            "word": "impact",
+            "type": "v",
+            "ipa": "/ˈɪm.pækt/",
+            "meaning": "tác động đến",
+            "example": "The budget cuts will seriously impact the department's ability to innovate."
+        },
+        {
+            "word": "impersonate",
+            "type": "v",
+            "ipa": "/ɪmˈpɝː.sən.eɪt/",
+            "meaning": "mạo danh, đóng vai",
+            "example": "He was arrested for trying to impersonate a police officer."
+        }
+    ],
+    "adverbs": [
+        {
+            "word": "highly",
+            "type": "adv",
+            "ipa": "/ˈhaɪ.li/",
+            "meaning": "rất, ở mức độ cao",
+            "example": "She is a highly respected professional in the field of engineering."
+        },
+        {
+            "word": "immediately",
+            "type": "adv",
+            "ipa": "/ɪˈmiː.di.ət.li/",
+            "meaning": "ngay lập tức",
+            "example": "If you notice a gas leak, leave the building immediately."
+        }
+    ]
+}

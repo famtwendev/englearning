@@ -1,0 +1,263 @@
+{
+    "topic": "TOEIC Common Vocabulary Part 5",
+    "description": "Essential TOEIC terms covering workplace behavior, office supplies, business growth, and travel services.",
+    "difficulty": "MEDIUM",
+    "nouns": [
+        {
+            "word": "belongings",
+            "type": "n",
+            "ipa": "/bɪˈlɑːŋ.ɪŋz/",
+            "meaning": "tài sản, đồ dùng cá nhân",
+            "example": "Please make sure you take all your personal belongings with you when you leave the plane."
+        },
+        {
+            "word": "benefit",
+            "type": "n",
+            "ipa": "/ˈben.ə.fɪt/",
+            "meaning": "ích lợi, phúc lợi",
+            "example": "The new health insurance plan is a great benefit for all employees."
+        },
+        {
+            "word": "beverage",
+            "type": "n",
+            "ipa": "/ˈbev.ɚ.ɪdʒ/",
+            "meaning": "đồ uống, đồ giải khát",
+            "example": "Complimentary beverages will be served during the flight."
+        },
+        {
+            "word": "bill",
+            "type": "n",
+            "ipa": "/bɪl/",
+            "meaning": "hóa đơn",
+            "example": "If you don't pay the electricity bill on time, the service may be disconnected."
+        },
+        {
+            "word": "binder",
+            "type": "n",
+            "ipa": "/ˈbaɪn.dɚ/",
+            "meaning": "bìa ôm, bìa rời",
+            "example": "I kept all the project reports organized in a large blue binder."
+        },
+        {
+            "word": "blanket",
+            "type": "n",
+            "ipa": "/ˈblæŋ.kɪt/",
+            "meaning": "chăn, mền",
+            "example": "The hotel provides extra blankets in the closet if you get cold at night."
+        },
+        {
+            "word": "block",
+            "type": "n",
+            "ipa": "/blɑːk/",
+            "meaning": "khối, vật cản",
+            "example": "The fallen tree created a block on the main road to the airport."
+        },
+        {
+            "word": "board",
+            "type": "n",
+            "ipa": "/bɔːrd/",
+            "meaning": "ban giám đốc, cái bảng",
+            "example": "The board of directors will meet tomorrow to discuss the new budget."
+        },
+        {
+            "word": "boardroom",
+            "type": "n",
+            "ipa": "/ˈbɔːrd.ruːm/",
+            "meaning": "phòng họp ban giám đốc",
+            "example": "The negotiations are taking place in the boardroom on the top floor."
+        },
+        {
+            "word": "boast",
+            "type": "n",
+            "ipa": "/boʊst/",
+            "meaning": "sự khoe khoang",
+            "example": "It wasn't a boast when he said the company was the best in the industry."
+        },
+        {
+            "word": "book",
+            "type": "n",
+            "ipa": "/bʊk/",
+            "meaning": "cuốn sách",
+            "example": "She wrote a book about effective management strategies."
+        },
+        {
+            "word": "boost",
+            "type": "n",
+            "ipa": "/buːst/",
+            "meaning": "sự tăng lên, sự thúc đẩy",
+            "example": "The tax cuts provided a much-needed boost to the economy."
+        },
+        {
+            "word": "bother",
+            "type": "n",
+            "ipa": "/ˈbɑː.ðɚ/",
+            "meaning": "điều gây khó chịu",
+            "example": "I'm sorry to be a bother, but could you help me with this printer?"
+        },
+        {
+            "word": "bottom line",
+            "type": "n",
+            "ipa": "/ˌbɑː.t̬əm ˈlaɪn/",
+            "meaning": "điểm mấu chốt, lợi nhuận ròng",
+            "example": "The bottom line is that we need to reduce costs to remain competitive."
+        },
+        {
+            "word": "branch",
+            "type": "n",
+            "ipa": "/bræntʃ/",
+            "meaning": "chi nhánh",
+            "example": "Our bank is opening a new branch in the downtown area next month."
+        },
+        {
+            "word": "brand",
+            "type": "n",
+            "ipa": "/brænd/",
+            "meaning": "thương hiệu",
+            "example": "The company is working hard to build a strong global brand."
+        },
+        {
+            "word": "briefcase",
+            "type": "n",
+            "ipa": "/ˈbriːf.keɪs/",
+            "meaning": "cặp tài liệu",
+            "example": "He forgot his briefcase in the taxi on his way to the meeting."
+        },
+        {
+            "word": "briefing",
+            "type": "n",
+            "ipa": "/ˈbriː.fɪŋ/",
+            "meaning": "buổi chỉ dẫn, hướng dẫn",
+            "example": "The manager gave a short briefing before the start of the shift."
+        },
+        {
+            "word": "broadcast",
+            "type": "n",
+            "ipa": "/ˈbrɑːd.kæst/",
+            "meaning": "chương trình phát thanh/truyền hình",
+            "example": "The news broadcast mentioned the changes in the stock market."
+        },
+        {
+            "word": "browser",
+            "type": "n",
+            "ipa": "/ˈbraʊ.zɚ/",
+            "meaning": "trình duyệt",
+            "example": "Please make sure your web browser is updated to the latest version."
+        },
+        {
+            "word": "brush",
+            "type": "n",
+            "ipa": "/brʌʃ/",
+            "meaning": "bàn chải, lược",
+            "example": "You can find a small brush in the cleaning kit."
+        },
+        {
+            "word": "budget",
+            "type": "n",
+            "ipa": "/ˈbʌdʒ.ɪt/",
+            "meaning": "ngân sách",
+            "example": "We have to stay within the budget for the annual holiday party."
+        },
+        {
+            "word": "bulletin",
+            "type": "n",
+            "ipa": "/ˈbʊl.ə.t̬ɪn/",
+            "meaning": "bảng thông báo, tập san",
+            "example": "The latest company news is posted on the bulletin board."
+        },
+        {
+            "word": "cabin crew",
+            "type": "n",
+            "ipa": "/ˈkæb.ɪn ˌkruː/",
+            "meaning": "đội bay, tiếp viên hàng không",
+            "example": "The cabin crew is responsible for the safety and comfort of the passengers."
+        }
+    ],
+    "adjectives": [
+        {
+            "word": "beneficial",
+            "type": "adj",
+            "ipa": "/ˌben.əˈfɪʃ.əl/",
+            "meaning": "có ích, có lợi",
+            "example": "Regular training sessions are beneficial for professional development."
+        },
+        {
+            "word": "bored",
+            "type": "adj",
+            "ipa": "/bɔːrd/",
+            "meaning": "buồn chán, tẻ nhạt",
+            "example": "Some employees felt bored during the long, repetitive presentation."
+        }
+    ],
+    "verbs": [
+        {
+            "word": "behave",
+            "type": "v",
+            "ipa": "/bɪˈheɪv/",
+            "meaning": "hành xử, cư xử",
+            "example": "We expect all our staff to behave professionally at all times."
+        },
+        {
+            "word": "block",
+            "type": "v",
+            "ipa": "/blɑːk/",
+            "meaning": "ngăn chặn, phong tỏa",
+            "example": "The security system will block any unauthorized access attempts."
+        },
+        {
+            "word": "boast",
+            "type": "v",
+            "ipa": "/boʊst/",
+            "meaning": "khoe khoang",
+            "example": "The hotel can boast some of the best views of the city."
+        },
+        {
+            "word": "book",
+            "type": "v",
+            "ipa": "/bʊk/",
+            "meaning": "đặt phòng, đặt vé",
+            "example": "It is advisable to book your flight at least a month in advance."
+        },
+        {
+            "word": "boost",
+            "type": "v",
+            "ipa": "/buːst/",
+            "meaning": "đẩy mạnh, kích thích",
+            "example": "The new marketing campaign helped boost our sales significantly."
+        },
+        {
+            "word": "bother",
+            "type": "v",
+            "ipa": "/ˈɑː.ðɚ/",
+            "meaning": "làm phiền, bận tâm",
+            "example": "Don't bother with the report tonight; you can finish it tomorrow."
+        },
+        {
+            "word": "broadcast",
+            "type": "v",
+            "ipa": "/ˈbrɑːd.kæst/",
+            "meaning": "phát thanh, truyền bá",
+            "example": "The ceremony will be broadcast live to millions of viewers."
+        },
+        {
+            "word": "broaden",
+            "type": "v",
+            "ipa": "/ˈbrɑː.dən/",
+            "meaning": "mở rộng",
+            "example": "The internship is a great way to broaden your knowledge of the industry."
+        },
+        {
+            "word": "brush",
+            "type": "v",
+            "ipa": "/brʌʃ/",
+            "meaning": "chải, quét",
+            "example": "The worker had to brush the dust off the equipment before using it."
+        },
+        {
+            "word": "budget",
+            "type": "v",
+            "ipa": "/ˈbʌdʒ.ɪt/",
+            "meaning": "dự thảo ngân sách, lập kế hoạch chi tiêu",
+            "example": "We need to budget carefully for the upcoming renovation project."
+        }
+    ]
+}
