@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react';
-import { Box, Typography, Container, CircularProgress, Tooltip, ButtonBase } from '@mui/material';
+import { Box, Typography, Container, Tooltip, ButtonBase } from '@mui/material';
 import { useSuspenseQuery } from '@tanstack/react-query';
 import { ipaApi } from '../api/ipaApi';
 import type { Phoneme, IpaWord } from '../types';

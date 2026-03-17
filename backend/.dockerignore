@@ -1,0 +1,27 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.apt_generated/
+.apt_generated_tests/
+
+# Log files
+*.log
+backend_build.log
+build_output.log
+compile*.log
+
+# Git
+.git/
+.gitignore
+
+# Windows scripts (không cần trong container)
+*.bat
+
+# Docker files (không cần copy vào image)
+**/Dockerfile

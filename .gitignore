@@ -147,3 +147,13 @@ vite.config.ts.timestamp-*
 
 # Ngoại lệ cho maven-wrapper.jar
 !maven-wrapper.jar
+
+# Backend
+backend/target/
+backend/api-gateway/target/
+backend/identity-service/target/
+backend/core-learning-service/target/
+backend/assessment-service/target/
+backend/ai-evaluator-service/target/
+
+docker-compose.yml

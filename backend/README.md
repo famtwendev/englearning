@@ -125,3 +125,6 @@ Restore database
 ```bash
 cat e:\eng-app\backend\import\backup_utf8.sql | docker exec -i eng_learning_db psql -U postgres -d eng_learning_db
 ```
+
+# Từ thư mục e:\eng-app\
+docker-compose up --build
