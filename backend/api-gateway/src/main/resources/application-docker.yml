@@ -1,0 +1,48 @@
+# Docker profile - override routes và CORS cho môi trường Docker
+# Active khi SPRING_PROFILES_ACTIVE=docker
+
+spring:
+  cloud:
+    gateway:
+      globalcors:
+        cors-configurations:
+          '[/**]':
+            # Cho phép cả localhost:5173 (dev) và localhost:80 (Docker nginx)
+            allowedOrigins:
+              - "http://localhost"
+              - "http://localhost:5173"
+              - "http://localhost:80"
+            allowedMethods:
+              - GET
+              - POST
+              - PUT
+              - DELETE
+              - OPTIONS
+            allowedHeaders: "*"
+            allowCredentials: true
+      routes:
+        # identity-service routes → trỏ tới tên service Docker
+        - id: identity-service
+          uri: http://identity-service:8081
+          predicates:
+            - Path=/api/v1/auth/**
+
+        - id: identity-service-openapi
+          uri: http://identity-service:8081
+          predicates:
+            - Path=/v3/api-docs/identity-service
+          filters:
+            - RewritePath=/v3/api-docs/identity-service, /v3/api-docs
+
+        # core-learning-service routes → trỏ tới tên service Docker
+        - id: core-learning-service
+          uri: http://core-learning-service:8082
+          predicates:
+            - Path=/api/v1/topics/**,/api/v1/progress/**,/api/v1/ipa/**
+
+        - id: core-learning-service-openapi
+          uri: http://core-learning-service:8082
+          predicates:
+            - Path=/v3/api-docs/core-learning-service
+          filters:
+            - RewritePath=/v3/api-docs/core-learning-service, /v3/api-docs

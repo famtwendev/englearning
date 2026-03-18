@@ -15,7 +15,7 @@ services:
       - postgres_data:/var/lib/postgresql/data
     restart: unless-stopped
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
       interval: 10s
       timeout: 5s
       retries: 5
@@ -31,7 +31,7 @@ services:
       - redis_data:/data
     restart: unless-stopped
     healthcheck:
-      test: ["CMD", "redis-cli", "ping"]
+      test: [ "CMD", "redis-cli", "ping" ]
       interval: 10s
       timeout: 5s
       retries: 5
@@ -75,6 +75,13 @@ services:
       postgres:
         condition: service_healthy
     restart: unless-stopped
+    # Spring Boot không start được nếu DB lỗi → port mở = DB kết nối OK
+    healthcheck:
+      test: [ "CMD-SHELL", "wget -qO- http://localhost:8081/v3/api-docs 2>/dev/null | grep -q openapi || exit 1" ]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 90s
     networks:
       - eng_network
 
@@ -95,6 +102,12 @@ services:
       postgres:
         condition: service_healthy
     restart: unless-stopped
+    healthcheck:
+      test: [ "CMD-SHELL", "wget -qO- http://localhost:8082/v3/api-docs 2>/dev/null | grep -q openapi || exit 1" ]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 90s
     networks:
       - eng_network
 
@@ -113,6 +126,13 @@ services:
       postgres:
         condition: service_healthy
     restart: unless-stopped
+    # assessment-service không có springdoc/actuator → check TCP port
+    healthcheck:
+      test: [ "CMD-SHELL", "nc -z localhost 8083 || exit 1" ]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 90s
     networks:
       - eng_network
 
@@ -122,30 +142,25 @@ services:
       dockerfile: api-gateway/Dockerfile
     container_name: api-gateway
     environment:
-      # Override routes trong application.yml: localhost → tên service Docker
-      SPRING_CLOUD_GATEWAY_ROUTES_0_ID: identity-service
-      SPRING_CLOUD_GATEWAY_ROUTES_0_URI: http://identity-service:8081
-      SPRING_CLOUD_GATEWAY_ROUTES_0_PREDICATES_0: Path=/api/v1/auth/**
-      SPRING_CLOUD_GATEWAY_ROUTES_1_ID: identity-service-openapi
-      SPRING_CLOUD_GATEWAY_ROUTES_1_URI: http://identity-service:8081
-      SPRING_CLOUD_GATEWAY_ROUTES_1_PREDICATES_0: Path=/v3/api-docs/identity-service
-      SPRING_CLOUD_GATEWAY_ROUTES_1_FILTERS_0: RewritePath=/v3/api-docs/identity-service, /v3/api-docs
-      SPRING_CLOUD_GATEWAY_ROUTES_2_ID: core-learning-service
-      SPRING_CLOUD_GATEWAY_ROUTES_2_URI: http://core-learning-service:8082
-      SPRING_CLOUD_GATEWAY_ROUTES_2_PREDICATES_0: Path=/api/v1/topics/**,/api/v1/progress/**,/api/v1/ipa/**
-      SPRING_CLOUD_GATEWAY_ROUTES_3_ID: core-learning-service-openapi
-      SPRING_CLOUD_GATEWAY_ROUTES_3_URI: http://core-learning-service:8082
-      SPRING_CLOUD_GATEWAY_ROUTES_3_PREDICATES_0: Path=/v3/api-docs/core-learning-service
-      SPRING_CLOUD_GATEWAY_ROUTES_3_FILTERS_0: RewritePath=/v3/api-docs/core-learning-service, /v3/api-docs
-      # CORS: frontend trong Docker phát từ port 80
-      SPRING_CLOUD_GATEWAY_GLOBALCORS_CORS_CONFIGURATIONS_[/**]_ALLOWEDORIGINS: "http://localhost,http://localhost:5173"
+      # Kích hoạt profile docker → dùng application-docker.yml
+      # Overrides routes (localhost → service name) và CORS (thêm http://localhost)
+      SPRING_PROFILES_ACTIVE: docker
     ports:
       - "8080:8080"
     depends_on:
-      - identity-service
-      - core-learning-service
-      - assessment-service
+      identity-service:
+        condition: service_healthy
+      core-learning-service:
+        condition: service_healthy
+      assessment-service:
+        condition: service_healthy
     restart: unless-stopped
+    healthcheck:
+      test: [ "CMD-SHELL", "wget -qO- http://localhost:8080/actuator/health 2>/dev/null | grep -q UP || exit 1" ]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
     networks:
       - eng_network
 
@@ -169,6 +184,7 @@ volumes:
   postgres_data:
   redis_data:
   minio_data:
+
 
 networks:
   eng_network:
