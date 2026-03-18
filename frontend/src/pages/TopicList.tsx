@@ -15,9 +15,9 @@ const TopicList: React.FC = () => {
     }
 
     return (
-        <div className="min-h-screen bg-gray-50 p-6">
+        <div className="min-h-screen bg-gray-50 px-6 pb-6">
             <div className="max-w-4xl mx-auto">
-                <div className="sticky top-[65px] z-40 relative flex items-center justify-center bg-gray-50 py-4 mb-6 border-b border-gray-200 transform-gpu">
+                <div className="sticky top-[65px] z-40 flex items-center justify-center bg-white pt-6 pb-5 px-4 sm:px-8 mb-8 shadow-md shadow-gray-200/50 border-b border-gray-100 sm:rounded-b-2xl transform-gpu -mx-6 sm:mx-0">
                     <Link to="/" className="absolute left-0 px-4 py-2 text-sm font-semibold rounded-lg shadow text-orange-400 border border-orange-400 hover:bg-orange-400 hover:text-white transition">← Back</Link>
 
                     {/* Title */}
