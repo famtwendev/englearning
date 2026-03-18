@@ -17,13 +17,23 @@ const TopicList: React.FC = () => {
     return (
         <div className="min-h-screen bg-gray-50 px-6 pb-6">
             <div className="max-w-4xl mx-auto">
-                <div className="sticky top-[65px] z-40 flex items-center justify-center bg-white pt-6 pb-5 px-4 sm:px-8 mb-8 shadow-md shadow-gray-200/50 border-b border-gray-100 sm:rounded-b-2xl transform-gpu -mx-6 sm:mx-0">
-                    <Link to="/" className="absolute left-0 px-4 py-2 text-sm font-semibold rounded-lg shadow text-orange-400 border border-orange-400 hover:bg-orange-400 hover:text-white transition">← Back</Link>
+                <div className="sticky top-[65px] z-40 flex justify-between items-center bg-gradient-to-r from-sky-500 to-indigo-600 pt-6 pb-5 px-6 sm:px-8 mb-8 shadow-md shadow-indigo-500/20 border-b border-indigo-700/50 sm:rounded-b-2xl transform-gpu -mx-6 sm:mx-0 relative">
+                    <Link
+                        to="/"
+                        className="py-2 px-6 text-sm font-bold rounded-lg text-white bg-rose-500 border-2 border-rose-500 shadow-sm hover:bg-orange-500 hover:text-white hover:shadow-md transition z-10"
+                    >
+                        ← Back
+                    </Link>
 
-                    {/* Title */}
-                    <h1 className="inline-block px-8 py-3 text-3xl font-bold text-white bg-gradient-to-r from-blue-500 to-indigo-600 rounded-2xl shadow-lg">
-                        Topics
-                    </h1>
+                    {/* Title perfectly centered */}
+                    <div className="absolute inset-x-0 flex justify-center pointer-events-none mt-1">
+                        <h1 className="px-8 py-2 text-3xl font-extrabold text-white tracking-wide drop-shadow-md pointer-events-auto">
+                            Topics
+                        </h1>
+                    </div>
+
+                    {/* Empty placeholder to balance flex-between */}
+                    <div className="w-24"></div>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {topics.map(topic => (

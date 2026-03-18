@@ -29,7 +29,7 @@ const Theory: React.FC = () => {
     return (
         <div className="min-h-screen bg-gray-50 px-6 pb-6">
             <div className="max-w-4xl mx-auto">
-                <div className="sticky top-[65px] z-40 flex justify-between items-center bg-white pt-6 pb-5 px-4 sm:px-8 mb-8 shadow-md shadow-gray-200/50 border-b border-gray-100 sm:rounded-b-2xl transform-gpu -mx-6 sm:mx-0">
+                <div className="sticky top-[65px] z-40 flex justify-between items-center bg-white pt-6 pb-5 px-4 sm:px-8 mb-8 shadow-md shadow-gray-300/50 border-b border-gray-200 sm:rounded-b-2xl transform-gpu -mx-6 sm:mx-0">
                     <div className="flex items-center gap-4">
                         <Link
                             to="/topics"
