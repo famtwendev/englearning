@@ -12,6 +12,8 @@ import Navbar from './components/Navbar';
 import TestLandingPage from './features/exam/pages/TestLandingPage';
 import ExamEngine from './features/exam/pages/ExamEngine';
 import IpaDashboard from './features/ipa/pages/IpaDashboard';
+import ScrollToTop from './components/ScrollToTop';
+import ScrollToTopButton from './components/ScrollToTopButton';
 
 const PrivateRoute = ({ children }: { children: React.ReactNode }) => {
   const isAuthenticated = useAuthStore((state) => state.isAuthenticated);
@@ -33,6 +35,8 @@ const GuestRoute = ({ children }: { children: React.ReactNode }) => {
 function App() {
   return (
     <Router>
+      <ScrollToTop />
+      <ScrollToTopButton />
       <Routes>
         <Route path="/login" element={<GuestRoute><Login /></GuestRoute>} />
         <Route path="/register" element={<GuestRoute><Register /></GuestRoute>} />
