@@ -17,14 +17,13 @@ const TopicList: React.FC = () => {
     return (
         <div className="min-h-screen bg-gray-50 p-6">
             <div className="max-w-4xl mx-auto">
-                <div className="relative mb-8 flex items-center justify-center">
-                    <Link to="/" className="absolute left-0 px-4 py-2 text-sm font-semibold rounded-lg shadow text-orange-400 border border-orange-400  shadow-lg hover:bg-orange-400 hover:text-white transition">← Back</Link>
+                <div className="sticky top-[65px] z-40 relative flex items-center justify-center bg-gray-50 py-4 mb-6 border-b border-gray-200 transform-gpu">
+                    <Link to="/" className="absolute left-0 px-4 py-2 text-sm font-semibold rounded-lg shadow text-orange-400 border border-orange-400 hover:bg-orange-400 hover:text-white transition">← Back</Link>
 
                     {/* Title */}
                     <h1 className="inline-block px-8 py-3 text-3xl font-bold text-white bg-gradient-to-r from-blue-500 to-indigo-600 rounded-2xl shadow-lg">
                         Topics
                     </h1>
-
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {topics.map(topic => (

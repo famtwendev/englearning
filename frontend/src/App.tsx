@@ -20,7 +20,7 @@ const PrivateRoute = ({ children }: { children: React.ReactNode }) => {
   return isAuthenticated ? (
     <div className="min-h-screen flex flex-col bg-gray-50">
       <Navbar />
-      <div className="flex-1">
+      <div className="flex-1 pt-[65px]">
         {children}
       </div>
     </div>
