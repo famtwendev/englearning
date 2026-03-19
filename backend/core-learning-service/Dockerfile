@@ -48,4 +48,4 @@ USER spring
 
 EXPOSE 8082
 
-ENTRYPOINT ["java", "org.springframework.boot.loader.launch.JarLauncher"]
+ENTRYPOINT ["sh", "-c", "exec java -jar *.jar"]
