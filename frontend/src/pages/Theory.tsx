@@ -17,9 +17,29 @@ const Theory: React.FC = () => {
         () => vocabApi.getTopicPractice(Number(id))
     );
 
+    // Preload voices on mobile
+    React.useEffect(() => {
+        window.speechSynthesis.getVoices();
+    }, []);
+
     const playAudio = (text: string) => {
         const utterance = new SpeechSynthesisUtterance(text);
         utterance.lang = 'en-US';
+        
+        // Cố tình chọn giọng chuẩn tiếng Anh để sửa lỗi "đánh vần" trên form Android Chrome
+        const voices = window.speechSynthesis.getVoices();
+        const enVoice = voices.find(v => v.name.includes('Google US English'))
+                     || voices.find(v => v.name.includes('Google UK English Female'))
+                     || voices.find(v => v.name.includes('English'))
+                     || voices.find(v => v.lang === 'en-US')
+                     || voices.find(v => v.lang.startsWith('en'));
+                     
+        if (enVoice) {
+            utterance.voice = enVoice;
+        }
+        
+        // Tốc độ hơi chậm lại tí xíu để phát âm tròn vành rõ chữ hơn trên điện thoại
+        utterance.rate = 0.9;
         window.speechSynthesis.speak(utterance);
     };
 

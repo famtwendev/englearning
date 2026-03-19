@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict hUur4GGSDtJu4s8ysl06iquKewUZUTbKeV8QCFr79ImfEj3RkxdwKt0JbzeXFfr
+\restrict cWAOOd9OC4bRvVysQZYUDg9EFMz7V5pJ7eOq8vDhBUd0nXsHCQubKc8xfvIRLir
 
 -- Dumped from database version 15.17
 -- Dumped by pg_dump version 15.17
@@ -581,23 +581,23 @@ COPY public.topics (id, description, difficulty, name) FROM stdin;
 9	Flora and fauna, agriculture	LOW	The Natural World
 10	Space, the planets.	LOW	Reaching for the Skies
 8	Time ,historical	LOW	Through the Ages
-11		MEDIUM	TOEIC Vocabulary Part 1
-12		MEDIUM	TOEIC Vocabulary Part 2
-13		MEDIUM	TOEIC Vocabulary Part 3
-14		MEDIUM	TOEIC Vocabulary Part 4
-15		MEDIUM	TOEIC Vocabulary Part 5
-16		MEDIUM	TOEIC Vocabulary Part 6
-17		MEDIUM	TOEIC Vocabulary Part 7
-18		MEDIUM	TOEIC Vocabulary Part 8
-19		MEDIUM	TOEIC Vocabulary Part 9
-20		MEDIUM	TOEIC Vocabulary Part 10
-28		MEDIUM	TOEIC Vocabulary Part 11
-29		MEDIUM	TOEIC Vocabulary Part 12
-30		MEDIUM	TOEIC Vocabulary Part 13
-31		MEDIUM	TOEIC Vocabulary Part 14
-32		MEDIUM	TOEIC Vocabulary Part 15
-33		MEDIUM	TOEIC Vocabulary Part 16
-34		MEDIUM	TOEIC Vocabulary Part 17
+11	Essential words frequently appearing in the TOEIC exam, covering various parts of speech.	MEDIUM	TOEIC Common Vocabulary Part 1
+12	Essential TOEIC words covering business operations, professional services, and logistics.	MEDIUM	TOEIC Common Vocabulary Part 2
+14	Essential TOEIC terms focusing on workplace duties, office procedures, and commercial travel.	MEDIUM	TOEIC Common Vocabulary Part 4
+15	Essential TOEIC terms covering workplace behavior, office supplies, business growth, and travel services.	MEDIUM	TOEIC Common Vocabulary Part 5
+16	Essential TOEIC terms focusing on financial calculations, recruitment, professional qualities, and business operations.	MEDIUM	TOEIC Common Vocabulary Part 6
+17	Essential TOEIC terms focusing on travel, legal claims, professional competition, and workplace interactions.	MEDIUM	TOEIC Common Vocabulary Part 7
+18	Focusing on workplace compliance, consumer behavior, and professional conduct.	MEDIUM	TOEIC Common Vocabulary Part 8
+19	Essential TOEIC vocabulary covering corporate structure, customer service, financial terms, and critical evaluation.	MEDIUM	TOEIC Common Vocabulary Part 9
+20	Essential TOEIC terms focusing on finances, professional commitment, logistics, and office administration.	MEDIUM	TOEIC Common Vocabulary Part 10
+21	Essential TOEIC terms focusing on logistics, finance, corporate restructuring, and economic principles.	MEDIUM	TOEIC Common Vocabulary Part 12
+22	Essential TOEIC terms focusing on operational efficiency, professional development, and workplace rights.	MEDIUM	TOEIC Common Vocabulary Part 13
+13	Focusing on administrative procedures, recruitment, evaluation, and professional interactions.	MEDIUM	TOEIC Common Vocabulary Part 3
+23	Essential TOEIC terms focusing on professional development, office technology, conflict resolution, and retail operations.	MEDIUM	TOEIC Common Vocabulary Part 11
+24	Essential TOEIC terms focusing on evaluation, business expansion, corporate leadership, and financial spending.	MEDIUM	TOEIC Common Vocabulary Part 14
+25	Essential TOEIC terms focusing on logistics, contract extensions, financial figures, and travel services.	MEDIUM	TOEIC Common Vocabulary Part 15
+26	Essential TOEIC terms focusing on market trends, office organization, forecasting, and workplace relations.	MEDIUM	TOEIC Common Vocabulary Part 16
+27	Essential TOEIC terms focusing on business growth, operations, workplace safety, and professional behavior.	MEDIUM	TOEIC Common Vocabulary Part 17
 \.
 
 
@@ -1006,34 +1006,6 @@ COPY public.vocabularies (id, audio_url, difficulty_level, example, ipa, meaning
 374	\N	LOW	Urban planning is crucial for the sustainable growth of cities.	/ˈɜːbən/	thuộc đô thị	adj	urban	7
 375	\N	LOW	The bad weather might affect our travel plans.	/əˈfekt/	ảnh hưởng	v	affect	7
 376	\N	LOW	Airfares tend to fluctuate depending on the season.	/ˈflʌktʃueɪt/	dao động, biến động	v	fluctuate	7
-971	\N	MEDIUM	The project manager went over every detail of the contract before signing.	/ˈdiː.teɪl/	chi tiết, tiểu tiết	n	detail	28
-972	\N	MEDIUM	The deterioration of the building's structure required immediate renovation.	/dɪˌtɪr.i.əˈreɪ.ʃən/	sự hư hại, xuống cấp	n	deterioration	28
-973	\N	MEDIUM	Our lead developer is working on a new feature for the mobile app.	/dɪˈvel.ə.pɚ/	người phát triển, lập trình viên	n	developer	28
-974	\N	MEDIUM	The development of the new software took over six months to complete.	/dɪˈvel.əp.mənt/	sự phát triển	n	development	28
-975	\N	MEDIUM	Please turn off all electronic devices before the flight takes off.	/dɪˈvaɪs/	thiết bị, máy móc	n	device	28
-976	\N	MEDIUM	The board of directors will meet next week to discuss the annual report.	/daɪˈrek.tɚ/	giám đốc, người điều hành	n	director	28
-977	\N	MEDIUM	There was a slight disagreement between the two departments regarding the budget.	/ˌdɪs.əˈɡriː.mənt/	sự bất đồng, mâu thuẫn	n	disagreement	28
-978	\N	MEDIUM	Employees are entitled to a 20% discount on all company products.	/ˈdɪs.kaʊnt/	sự giảm giá, chiết khấu	n	discount	28
-979	\N	MEDIUM	The auditor found a discrepancy between the receipts and the bank statement.	/dɪˈskrep.ən.si/	sự khác biệt, chênh lệch (số liệu)	n	discrepancy	28
-980	\N	MEDIUM	The company has strict policies against any form of workplace discrimination.	/dɪˌskrɪm.əˈneɪ.ʃən/	sự phân biệt đối xử	n	discrimination	28
-981	\N	MEDIUM	We had a productive discussion about the upcoming marketing strategy.	/dɪˈskʌʃ.ən/	cuộc thảo luận	n	discussion	28
-982	\N	MEDIUM	The signature dish at this restaurant is grilled salmon with asparagus.	/dɪʃ/	món ăn, đĩa đựng	n	dish	28
-983	\N	MEDIUM	The latest products are currently on display in the main lobby.	/dɪˈspleɪ/	sự trưng bày, màn hình	n	display	28
-984	\N	MEDIUM	The technician provided a detailed explanation of how the system works.	/ˈdiː.teɪld/	chi tiết, cụ thể	adj	detailed	28
-985	\N	MEDIUM	She is determined to finish the report before the end of the day.	/dɪˈtɝː.mɪnd/	quyết tâm, kiên quyết	adj	determined	28
-986	\N	MEDIUM	Differential pricing is used to target different segments of the market.	/ˌdɪf.əˈren.ʃəl/	khác biệt, chênh lệch	adj	differential	28
-987	\N	MEDIUM	He is a diligent worker who always pays attention to small details.	/ˈdɪl.ə.dʒənt/	chăm chỉ, cần cù	adj	diligent	28
-988	\N	MEDIUM	The quarterly sales results were quite disappointing for the investors.	/ˌdɪs.əˈpɔɪn.t̬ɪŋ/	đáng thất vọng	adj	disappointing	28
-989	\N	MEDIUM	The manager was dismissive of the employee's concerns about safety.	/dɪˈsmɪs.ɪv/	thô bạo, tùy tiện, gạt bỏ	adj	dismissive	28
-990	\N	MEDIUM	The cafeteria replaced plastic plates with biodegradable disposable ones.	/dɪˈspoʊ.zə.bəl/	dùng một lần, sẵn có	adj	disposable	28
-991	\N	MEDIUM	The security system is designed to detect any unauthorized entry.	/dɪˈtekt/	dò ra, phát hiện	v	detect	28
-992	\N	MEDIUM	The committee will determine which candidate is best suited for the job.	/dɪˈtɝː.mɪn/	xác định rõ, quyết định	v	determine	28
-993	\N	MEDIUM	The company plans to develop a new line of organic skincare products.	/dɪˈvel.əp/	phát triển	v	develop	28
-994	\N	MEDIUM	The IT team is trying to diagnose the cause of the network failure.	/ˌdaɪ.əɡˈnoʊz/	chẩn đoán	v	diagnose	28
-995	\N	MEDIUM	I'm afraid I disagree with the proposed changes to the policy.	/ˌdɪs.əˈɡriː/	bất đồng, không đồng ý	v	disagree	28
-996	\N	MEDIUM	Remember to disconnect the power supply before repairing the machine.	/ˌdɪs.kəˈnekt/	ngắt kết nối	v	disconnect	28
-997	\N	MEDIUM	We need to discuss the feedback from our latest customer survey.	/dɪˈskʌs/	thảo luận	v	discuss	28
-998	\N	MEDIUM	The judge decided to dismiss the case due to a lack of evidence.	/dɪˈsmɪs/	giải tán, sa thải, gạt bỏ	v	dismiss	28
 406	\N	LOW	Modern agriculture relies heavily on technology and irrigation.	/ˈæɡrɪkʌltʃə(r)/	nông nghiệp	n	agriculture	9
 407	\N	LOW	Lions are often called the kings of the animal kingdom.	/ˈænɪml ˈkɪŋdəm/	vương quốc động vật	n	animal kingdom	9
 408	\N	LOW	Rabbits spend a lot of their time underground in a burrow.	/ˈbʌrəʊ/	hang (thỏ, chuột đào để ở)	n	burrow	9
@@ -1442,164 +1414,192 @@ COPY public.vocabularies (id, audio_url, difficulty_level, example, ipa, meaning
 782	\N	MEDIUM	The train is scheduled to depart from platform 4 at 10:30.	/dɪˈpɑːrt/	rời đi, khởi hành	v	depart	20
 783	\N	MEDIUM	Our success depends on the hard work of all our employees.	/dɪˈpend/	phụ thuộc, tùy thuộc vào	v	depend	20
 784	\N	MEDIUM	The manager will designate a team leader for the new project.	/ˈdez.ɪɡ.neɪt/	chỉ định, bổ nhiệm	v	designate	20
-999	\N	MEDIUM	We need to dispose of the waste properly.	/dɪˈspoʊz/	vứt bỏ, giải quyết	v	dispose	29
-1000	\N	MEDIUM	The labor dispute was finally settled after a week of negotiations.	/dɪˈspjuːt/	cuộc bàn cãi, tranh chấp	n	dispute	29
-1001	\N	MEDIUM	The storm caused a major disruption to the local train services.	/dɪsˈrʌp.ʃən/	sự phá vỡ, gián đoạn	n	disruption	29
-1002	\N	MEDIUM	The company is looking for a new partner to handle the distribution of its products.	/ˌdɪs.trɪˈbjuː.ʃən/	sự phân phát, phân phối	n	distribution	29
-1003	\N	MEDIUM	Shareholders will receive a higher dividend this year due to increased profits.	/ˈdɪv.ə.dend/	cổ tức, số bị chia	n	dividend	29
-1004	\N	MEDIUM	Please make sure you save the document before closing the program.	/ˈdɑː.kjə.mənt/	văn kiện, tài liệu	n	document	29
-1005	\N	MEDIUM	The museum received a generous donation from a local businessman.	/doʊˈneɪ.ʃən/	sự quyên góp, hiến tặng	n	donation	29
-1006	\N	MEDIUM	I'll have a double of whatever she's having.	/ˈdʌb.əl/	số lượng gấp đôi	n	double	29
-1007	\N	MEDIUM	The economic downturn has led to a decrease in consumer spending.	/ˈdaʊn.tɝːn/	sự suy thoái, sụt giảm	n	downturn	29
-1008	\N	MEDIUM	The files you are looking for are in the bottom drawer of the desk.	/drɑːr/	ngăn kéo	n	drawer	29
-1009	\N	MEDIUM	The annual recruitment drive will start early next month.	/draɪv/	cuộc đua, chiến dịch	n	drive	29
-1010	\N	MEDIUM	The duration of the training course is three weeks.	/djʊəˈreɪ.ʃən/	khoảng thời gian, thời hạn	n	duration	29
-1011	\N	MEDIUM	The company's quarterly earnings exceeded market expectations.	/ˈɝː.nɪŋz/	thu nhập, tiền kiếm được	n	earnings	29
-1012	\N	MEDIUM	Tourism plays a vital role in the national economy.	/iˈkɑː.nə.mi/	nền kinh tế	n	economy	29
-1013	\N	MEDIUM	The brand is known for its distinctive logo and packaging.	/dɪˈstɪŋ.kɪv/	đặc biệt, độc đáo	adj	distinctive	29
-1014	\N	MEDIUM	The presentation was quite dull and hard to follow.	/dʌl/	buồn tẻ, chậm hiểu	adj	dull	29
-1015	\N	MEDIUM	You can buy perfume and alcohol at the duty-free shop in the airport.	/ˌduː.t̬iˈfriː/	miễn thuế	adj	duty-free	29
-1016	\N	MEDIUM	It is more economical to buy office supplies in bulk.	/ˌiː.kəˈnɑː.mɪ.kəl/	tiết kiệm, kinh tế	adj	economical	29
-1017	\N	MEDIUM	It is sometimes difficult to distinguish between the two models.	/dɪˈstɪŋ.ɡwɪʃ/	phân biệt, nhận ra	v	distinguish	29
-1018	\N	MEDIUM	The assistant will distribute the meeting agenda to all participants.	/dɪˈstrɪb.juːt/	phân phát, phân bổ	v	distribute	29
-1019	\N	MEDIUM	Many employees choose to donate a portion of their salary to charity.	\N	quyên góp	/ˈdoʊ.neɪt/	donate	29
-1020	\N	MEDIUM	You can download the full report from our website.	/ˈdaʊn.loʊd/	tải xuống	v	download	29
-1021	\N	MEDIUM	The firm had to downsize its workforce to stay afloat during the crisis.	/ˈdaʊn.saɪz/	cắt giảm nhân sự/quy mô	v	downsize	29
-1022	\N	MEDIUM	The trade fair is expected to draw thousands of visitors.	/drɑː/	vẽ, thu hút	v	draw	29
-1023	\N	MEDIUM	The company hopes to earn a profit by the end of the second year.	/ɝːn/	kiếm tiền, giành được	v	earn	29
-1024	\N	MEDIUM	We need to economize on electricity and paper usage.	/iˈkɑː.nə.maɪz/	tiết kiệm chi phí	v	economize	29
-1025	\N	MEDIUM	The effectiveness of the new marketing campaign will be measured by sales growth.	/əˈfek.tɪv.nəs/	sự hiệu quả	n	effectiveness	30
-1026	\N	MEDIUM	We are looking for ways to improve the energy efficiency of our manufacturing plant.	/ɪˈfɪʃ.ən.si/	hiệu suất, năng suất	n	efficiency	30
-1027	\N	MEDIUM	The freight elevator is currently out of service for maintenance.	/ˈel.ə.veɪ.t̬ɚ/	thang máy	n	elevator	30
-1028	\N	MEDIUM	In case of an emergency, please use the stairs instead of the lift.	/ɪˈmɝː.dʒən.si/	trường hợp khẩn cấp	n	emergency	30
-1029	\N	MEDIUM	As an employer, the company is responsible for providing a safe working environment.	/ɪmˈplɔɪ.ɚ/	người làm chủ, chủ lao động	n	employer	30
-1030	\N	MEDIUM	The terms of your employment are clearly stated in the contract.	/ɪmˈplɔɪ.mənt/	việc làm, sự thuê mướn	n	employment	30
-1031	\N	MEDIUM	The software engineer fixed the bug in the system within an hour.	/ˌen.dʒɪˈnɪr/	kỹ sư	n	engineer	30
-1032	\N	MEDIUM	The firm specializes in civil engineering and urban planning.	/ˌen.dʒɪˈnɪr.ɪŋ/	công việc kỹ sư, ngành kỹ thuật	n	engineering	30
-1033	\N	MEDIUM	This small enterprise has grown into a global leader in just five years.	/ˈen.t̬ɚ.praɪz/	doanh nghiệp, xí nghiệp	n	enterprise	30
-1034	\N	MEDIUM	Your holiday entitlement increases after two years of service with the company.	/ɪnˈtaɪ.t̬əl.mənt/	quyền hạn, sự được phép hưởng	n	entitlement	30
-1035	\N	MEDIUM	The waiter recommended the grilled salmon as the best entrée on the menu.	/ˈɑːn.treɪ/	món chính, sự gia nhập	n	entrée	30
-1036	\N	MEDIUM	The new safety regulations will be effective starting from next Monday.	/əˈfek.tɪv/	hiệu quả, có hiệu lực	adj	effective	30
-1037	\N	MEDIUM	An efficient filing system can save a lot of time in the office.	/ɪˈfɪʃ.ənt/	năng suất cao, hiệu quả tốt	adj	efficient	30
-1038	\N	MEDIUM	The community center offers various programs for elderly residents.	/ˈel.dɚ.li/	lớn tuổi, có tuổi	adj	elderly	30
-1039	\N	MEDIUM	The manager was very enthusiastic about the new project proposal.	/ɪnˌθuː.ziˈæs.tɪk/	nhiệt tình, hứng khởi	adj	enthusiastic	30
-1040	\N	MEDIUM	The company is about to embark on a major restructuring plan.	/ɪmˈbɑːrk/	bắt đầu, dấn thân, lên tàu/máy bay	v	embark	30
-1041	\N	MEDIUM	I must emphasize that all data in this report is strictly confidential.	/ˈem.fə.saɪz/	nhấn mạnh	v	emphasize	30
-1042	\N	MEDIUM	This software update will enable users to share files more easily.	/ɪˈneɪ.bəl/	cho phép, làm cho có thể	v	enable	30
-1043	\N	MEDIUM	Please find the invoice and the shipping label enclosed with this letter.	/ɪnˈkloʊz/	gửi kèm, vây quanh	v	enclose	30
-1044	\N	MEDIUM	Managers are encouraged to provide regular feedback to their teams.	/ɪnˈkɝː.ɪʒ/	động viên, cổ vũ	v	encourage	30
-1045	\N	MEDIUM	The company has managed to endure several economic recessions.	/ɪnˈdʊr/	chịu đựng, tồn tại lâu dài	v	endure	30
-1046	\N	MEDIUM	We need to enhance our customer service to compete in the current market.	/ɪnˈhæns/	làm tăng thêm, đẩy mạnh	v	enhance	30
-1047	\N	MEDIUM	The seminar aims to enlighten participants on new financial regulations.	/ɪnˈlaɪ.t̬ən/	làm sáng tỏ, khai sáng	v	enlighten	30
-1048	\N	MEDIUM	Employees can enroll in the company’s retirement plan after six months.	/ɪnˈroʊl/	đăng ký, ghi danh	v	enroll	30
-1049	\N	MEDIUM	Please double-check the figures to ensure accuracy in the final report.	/ɪnˈʃʊr/	bảo đảm, chắc chắn	v	ensure	30
-1050	\N	MEDIUM	We strive to create a working environment that fosters creativity and collaboration.	/ɪnˈvaɪ.rən.mənt/	môi trường	n	environment	31
-1051	\N	MEDIUM	The cost of the repair is the equivalent of a new machine.	/ɪˈkwɪv.əl.ənt/	vật tương đương, sự tương đương	n	equivalent	31
-1052	\N	MEDIUM	The networking event is a great opportunity to meet industry leaders.	/ɪˈvent/	sự kiện	n	event	31
-1053	\N	MEDIUM	There is clear evidence that the new marketing strategy is working.	/ˈev.ə.dəns/	bằng chứng, chứng cớ	n	evidence	31
-1054	\N	MEDIUM	A thorough examination of the financial records revealed some errors.	/ɪɡˌzæm.əˈneɪ.ʃən/	sự khám xét, kiểm tra, kỳ thi	n	examination	31
-1055	\N	MEDIUM	The chief executive decided to delay the product launch by two weeks.	/ɪɡˈzek.jə.t̬ɪv/	người điều hành, ủy viên ban quản trị	n	executive	31
-1056	\N	MEDIUM	The company’s rapid expansion into Asian markets has been very successful.	/ɪkˈspæn.ʃən/	sự mở rộng	n	expansion	31
-1057	\N	MEDIUM	The final sales figures exceeded our highest expectations.	/ˌek.spekˈteɪ.ʃən/	sự mong chờ, kỳ vọng	n	expectation	31
-1058	\N	MEDIUM	The government is planning to increase its expenditure on infrastructure.	/ɪkˈspen.də.tʃɚ/	sự tiêu dùng, phí tổn (ngân sách)	n	expenditure	31
-1059	\N	MEDIUM	Travel expenses will be reimbursed by the company upon submission of receipts.	/ɪkˈspens/	chi phí	n	expense	31
-1060	\N	MEDIUM	Applicants must have at least three years of experience in accounting.	/ɪkˈspɪr.i.əns/	trải nghiệm, kinh nghiệm	n	experience	31
-1061	\N	MEDIUM	The laboratory is conducting an experiment to test the new drug's safety.	/ɪkˈsper.ə.mənt/	thí nghiệm, cuộc thử nghiệm	n	experiment	31
-1062	\N	MEDIUM	The company is involved in the exploration of new oil fields in the North Sea.	/ˌek.spləˈreɪ.ʃən/	cuộc thăm dò, thám hiểm	n	exploration	31
-1063	\N	MEDIUM	If you send it by express, it should arrive by tomorrow morning.	/ɪkˈspres/	công văn hỏa tốc, dịch vụ chuyển phát nhanh	n	express	31
-1064	\N	MEDIUM	The firm was fined for violating several environmental regulations.	/ɪnˌvaɪ.rənˈmen.t̬əl/	(thuộc) môi trường	adj	environmental	31
-1065	\N	MEDIUM	Good communication skills are essential for this customer-facing role.	/ɪˈsen.ʃəl/	cốt lõi, thiết yếu	adj	essential	31
-1066	\N	MEDIUM	We need the exact measurements before we can start the installation.	/ɪɡˈzækt/	chính xác	adj	exact	31
-1067	\N	MEDIUM	The hotel is famous for its excellent service and luxurious rooms.	/ˈek.səl.ənt/	xuất sắc, ưu tú	adj	excellent	31
-1068	\N	MEDIUM	Maintaining the old equipment has become too expensive for the factory.	/ɪkˈspen.sɪv/	đắt tiền	adj	expensive	31
-1069	\N	MEDIUM	Our team consists of highly experienced professionals in the tech industry.	/ɪkˈspɪə.ri.ənst/	có kinh nghiệm	adj	experienced	31
-1070	\N	MEDIUM	Experts estimate that the global economy will grow by 3% this year.	/ˈes.tə.meɪt/	ước tính, dự đoán	v	estimate	31
-1071	\N	MEDIUM	We need to evaluate the performance of our suppliers every quarter.	/ɪˈvæl.ju.eɪt/	đánh giá, định giá	v	evaluate	31
-1072	\N	MEDIUM	The small family business has evolved into a major international firm.	/ɪˈvɑːlv/	tiến hóa, phát triển dần	v	evolve	31
-1073	\N	MEDIUM	The safety inspector will examine the machinery for any potential risks.	/ɪɡˈzæm.ɪn/	khảo sát, kiểm tra kỹ	v	examine	31
-1074	\N	MEDIUM	She has always managed to excel in competitive environments.	/ɪkˈsel/	vượt trội, xuất sắc ở lĩnh vực nào đó	v	excel	31
-1075	\N	MEDIUM	Local artists will exhibit their work at the gallery next month.	/ɪɡˈzɪb.ɪt/	trưng bày, triển lãm	v	exhibit	31
-1076	\N	MEDIUM	The retail chain plans to expand its operations to three more cities.	/ɪkˈspænd/	mở rộng	v	expand	31
-1077	\N	MEDIUM	We expect the new software to be available for download by Friday.	/ɪkˈspekt/	chờ đợi, hy vọng, liệu rằng	v	expect	31
-1106	\N	MEDIUM	Investors are concerned about the constant fluctuation in oil prices.	/ˌflʌk.tʃuˈeɪ.ʃən/	sự dao động, biến động	n	fluctuation	33
-1107	\N	MEDIUM	The main focus of today's meeting is the upcoming product launch.	/ˈfoʊ.kəs/	sự tập trung, tiêu điểm	n	focus	33
-1108	\N	MEDIUM	Make a sharp fold at the top of the page to mark your place.	/foʊld/	nếp gấp	n	fold	33
-1109	\N	MEDIUM	Please organize these invoices into the blue folder on my desk.	/ˈfoʊl.dɚ/	bìa đựng hồ sơ, kẹp tài liệu	n	folder	33
-1110	\N	MEDIUM	The sales force has been doubled to reach more potential customers.	/fɔːrs/	lực lượng, sức mạnh	n	force	33
-1111	\N	MEDIUM	The weather forecast predicts heavy rain for the weekend.	/ˈfɔːr.kæst/	sự dự báo	n	forecast	33
-1112	\N	MEDIUM	Applicants are required to fill out an application form online.	/fɔːrm/	mẫu đơn, hình dáng	n	form	33
-1113	\N	MEDIUM	Rising fuel costs have impacted the shipping industry significantly.	/ˈfjuː.əl/	nhiên liệu, chất đốt	n	fuel	33
-1114	\N	MEDIUM	The main function of this software is to track inventory in real-time.	/ˈfʌŋk.ʃən/	chức năng, buổi lễ/tiệc	n	function	33
-1115	\N	MEDIUM	The charity organized a fundraising event to build a new community center.	/ˈfʌndˌreɪ.zɪŋ/	sự huy động vốn, gây quỹ	n	fundraising	33
-1116	\N	MEDIUM	The office furniture was replaced to create a more ergonomic workspace.	/ˈfɝː.nɪ.tʃɚ/	đồ nội thất	n	furniture	33
-1117	\N	MEDIUM	Sending a thank-you note is a nice gesture after a job interview.	/ˈdʒes.tʃɚ/	cử chỉ, điệu bộ	n	gesture	33
-1118	\N	MEDIUM	Our primary goal is to achieve a 15% increase in sales this quarter.	/ɡoʊl/	mục tiêu	n	goal	33
-1119	\N	MEDIUM	The warehouse is used to store finished goods before they are shipped.	/ɡʊdz/	hàng hóa	n	goods	33
-1120	\N	MEDIUM	The employee filed a formal grievance regarding unfair treatment.	/ˈɡriː.vəns/	lời than phiền, khiếu nại (trong công việc)	n	grievance	33
-1121	\N	MEDIUM	The restaurant is famous for its mixed grill platter.	/ɡrɪl/	vỉ nướng, món nướng	n	grill	33
-1122	\N	MEDIUM	She remained focused on her work despite the noise in the office.	/ˈfoʊ.kəst/	tập trung, chú ý	adj	focused	33
-1123	\N	MEDIUM	Learning a foreign language is beneficial for international business.	/ˈfɔːr.ən/	nước ngoài, ngoại quốc	adj	foreign	33
-1124	\N	MEDIUM	He has become quite forgetful lately, often losing his keys.	/fɚˈɡet.fəl/	hay quên	adj	forgetful	33
-1125	\N	MEDIUM	To be frank, I don't think the new design will be popular with customers.	/fræŋk/	thẳng thắn, bộc trực	adj	frank	33
-1126	\N	MEDIUM	The new office layout is both stylish and highly functional.	/ˈfʌŋk.ʃən.əl/	(thuộc) chức năng, hữu dụng	adj	functional	33
-1127	\N	MEDIUM	For further information, please visit our official website.	/ˈfɝː.ðɚ/	xa hơn, thêm nữa	adj	further	33
-1128	\N	MEDIUM	Exchange rates fluctuate daily based on market conditions.	/ˈflʌk.tʃu.eɪt/	dao động, thay đổi thất thường	v	fluctuate	33
-1129	\N	MEDIUM	Don't forget to back up your files before the system update.	/fɚˈɡet/	quên	v	forget	33
-1130	\N	MEDIUM	The company worked hard to fulfill all customer orders on time.	/fʊlˈfɪl/	hoàn thành, đáp ứng	v	fulfill	33
-1078	\N	MEDIUM	If you need more time to finish the report, you can request a two-day extension.	/ɪkˈsten.ʃən/	sự mở rộng, sự gia hạn, số máy nhánh	n	extension	32
-1079	\N	MEDIUM	The research facility is equipped with the latest technology in the field.	/fəˈsɪl.ə.t̬i/	cơ sở vật chất, điều kiện thuận lợi	n	facility	32
-1080	\N	MEDIUM	Location is a key factor to consider when opening a new retail store.	/ˈfæk.tɚ/	nhân tố	n	factor	32
-1081	\N	MEDIUM	The company plans to build a new factory to increase production capacity.	/ˈfæk.tɚ.i/	nhà máy, xí nghiệp	n	factory	32
-1082	\N	MEDIUM	The power failure resulted in the loss of unsaved data on many computers.	/ˈfeɪ.ljɚ/	sự thất bại, sự hỏng hóc (máy móc)	n	failure	32
-1083	\N	MEDIUM	Many local businesses will participate in the annual job fair this weekend.	/fer/	hội chợ, phiên chợ	n	fair	32
-1084	\N	MEDIUM	Bus fares are expected to increase by ten percent next month.	/fer/	tiền xe, tiền vé (tàu, xe, máy bay)	n	fare	32
-1085	\N	MEDIUM	The technician identified a minor fault in the wiring system.	/fɑːlt/	lỗi, sai lầm, khuyết điểm	n	fault	32
-1086	\N	MEDIUM	Could you do me a favor and drop these documents off at the post office?	/ˈfeɪ.vɚ/	thiện ý, sự giúp đỡ	n	favor	32
-1087	\N	MEDIUM	Please send the signed agreement via fax to our headquarters.	/fæks/	bản fax, máy fax	n	fax	32
-1088	\N	MEDIUM	The most impressive feature of the new smartphone is its long battery life.	/ˈfiː.tʃɚ/	đặc điểm, tính năng	n	feature	32
-1089	\N	MEDIUM	There is a small processing fee for all credit card transactions.	/fiː/	lệ phí, phí dịch vụ	n	fee	32
-1090	\N	MEDIUM	Positive feedback from customers has boosted the team's morale.	/ˈfiːd.bæk/	phản hồi, góp ý	n	feedback	32
-1091	\N	MEDIUM	The latest sales figures show a steady increase in revenue.	/ˈfɪɡ.jɚ/	con số, số liệu, nhân vật	n	figure	32
-1092	\N	MEDIUM	I need to organize these files before the meeting starts.	/faɪl/	hồ sơ, tập tin	n	file	32
-1093	\N	MEDIUM	She has a background in international finance and investment.	/ˈfaɪ.næns/	tài chính	n	finance	32
-1094	\N	MEDIUM	My flight was delayed due to heavy fog at the airport.	/flaɪt/	chuyến bay	n	flight	32
-1095	\N	MEDIUM	The flight attendant helped the passengers locate their seats.	/ˈflaɪt əˌten.dənt/	tiếp viên hàng không	n	flight attendant	32
-1096	\N	MEDIUM	The company hired an external consultant to review its safety procedures.	/ɪkˈstɝː.nəl/	bên ngoài, đối ngoại	adj	external	32
-1097	\N	MEDIUM	The city is famed for its historic architecture and vibrant culture.	/feɪmd/	nổi tiếng, lừng danh	adj	famed	32
-1098	\N	MEDIUM	You can return the faulty goods and ask for a full refund.	/ˈfɑːl.t̬i/	có lỗi, bị hỏng	adj	faulty	32
-1099	\N	MEDIUM	The final decision regarding the budget will be made by the CEO.	/ˈfaɪ.nəl/	cuối cùng	adj	final	32
-1100	\N	MEDIUM	The company is in a strong financial position following the merger.	/faɪˈnæn.ʃəl/	(thuộc) tài chính	adj	financial	32
-1101	\N	MEDIUM	We offer flexible working hours to help employees balance work and life.	/ˈflek.sə.bəl/	linh hoạt	adj	flexible	32
-1102	\N	MEDIUM	The deadline for the scholarship application has been extended to next Friday.	/ɪkˈstend/	gia hạn, kéo dài, gửi tới	v	extend	32
-1103	\N	MEDIUM	If the negotiations fail, the company will have to look for a different partner.	/feɪl/	thất bại, trượt	v	fail	32
-1104	\N	MEDIUM	Please fill out the application form and sign it at the bottom.	/fɪl/	làm đầy, điền vào (fill out/in)	v	fill	32
-1105	\N	MEDIUM	The IT department is working to fix the server issue as quickly as possible.	/fɪks/	sửa chữa, cố định	v	fix	32
-1131	\N	MEDIUM	The company has seen a significant growth in international sales this year.	/ɡroʊθ/	sự tăng trưởng, phát triển	n	growth	34
-1132	\N	MEDIUM	The electronic equipment comes with a two-year guarantee against defects.	/ˌɡer.ənˈtiː/	sự đảm bảo, giấy bảo hành	n	guarantee	34
-1133	\N	MEDIUM	Please follow the guidelines provided in the employee handbook.	/ˈɡaɪd.laɪn/	quy tắc, nguyên tắc chỉ đạo	n	guideline	34
-1134	\N	MEDIUM	It's common to haggle over prices at local street markets.	/ˈhæɡ.əl/	sự mặc cả	n	haggle	34
-1135	\N	MEDIUM	The handle of the suitcase was damaged during the flight.	/ˈhæn.dəl/	tay cầm, cán	n	handle	34
-1136	\N	MEDIUM	The ship is docked in the harbor for repairs.	/ˈhɑː.bər/	bến cảng	n	harbor	34
-1137	\N	MEDIUM	Our head office is located in the financial district of New York.	/ˌhed ˈɑː.fɪs/	trụ sở chính, văn phòng chính	n	head office	34
-1138	\N	MEDIUM	The global headquarters of the firm moved to London last summer.	/ˈhedˌkwɔːr.t̬ɚz/	sở chỉ huy, trụ sở chính	n	headquarters	34
-1139	\N	MEDIUM	After a brief hesitation, the candidate signed the job offer.	/ˌhez.əˈteɪ.ʃən/	sự do dự, ngập ngừng	n	hesitation	34
-1140	\N	MEDIUM	The highlight of the conference was the keynote speech by the CEO.	/ˈhaɪ.laɪt/	điểm nổi bật	n	highlight	34
-1141	\N	MEDIUM	The recent price hike has caused concern among regular customers.	/haɪk/	cuộc đi bộ đường dài, sự tăng vọt (giá)	n	hike	34
-1142	\N	MEDIUM	The new hires are required to attend an orientation session tomorrow.	/haɪr/	sự thuê, người mới được thuê	n	hire	34
-1143	\N	MEDIUM	All large luggage must be stored in the aircraft's hold.	/hoʊld/	sự cầm nắm, khoang hàng (tàu)	n	hold	34
-1144	\N	MEDIUM	The city is proud to be the host of the international trade fair.	/hoʊst/	chủ nhà, người chủ trì	n	host	34
-1145	\N	MEDIUM	Please show your identification at the security desk upon arrival.	/aɪˌden.t̬ə.fəˈkeɪ.ʃən/	sự nhận diện, giấy tờ tùy thân	n	identification	34
-1146	\N	MEDIUM	The new tax policy will have a major impact on small businesses.	/ˈɪm.pækt/	tác động, ảnh hưởng	n	impact	34
-1147	\N	MEDIUM	It's always handy to have a backup of your files on a portable drive.	/ˈhæn.di/	thuận tiện, có sẵn	adj	handy	34
-1148	\N	MEDIUM	The report warns that high levels of stress can be harmful to health.	/ˈhɑːrm.fəl/	gây hại	adj	harmful	34
-1149	\N	MEDIUM	The workers wear protective gear when handling hazardous chemicals.	/ˈhæz.ɚ.dəs/	nguy hiểm, mạo hiểm	adj	hazardous	34
-1150	\N	MEDIUM	The marketing team came up with an imaginative solution for the ad campaign.	/ɪˈmædʒ.ə.nə.t̬ɪv/	giàu tưởng tượng, sáng tạo	adj	imaginative	34
-1151	\N	MEDIUM	The new software update requires an immediate restart of the system.	/ɪˈmiː.di.ət/	ngay lập tức, trực tiếp	adj	immediate	34
-1152	\N	MEDIUM	The customer became impatient after waiting for thirty minutes.	/ɪmˈpeɪ.ʃənt/	thiếu kiên nhẫn	adj	impatient	34
-1153	\N	MEDIUM	Please do not hesitate to contact us if you have any questions.	/ˈhez.ə.teɪt/	do dự	v	hesitate	34
-1154	\N	MEDIUM	The company was accused of trying to hide its financial losses.	/haɪd/	che giấu	v	hide	34
-1155	\N	MEDIUM	The investigation aims to identify the cause of the system failure.	/aɪˈden.t̬ə.faɪ/	nhận diện, xác định	v	identify	34
-1156	\N	MEDIUM	He was arrested for trying to impersonate a police officer.	/ɪmˈpɝː.sən.eɪt/	mạo danh, đóng vai	v	impersonate	34
+785	\N	MEDIUM	We need to dispose of the waste properly.	/dɪˈspoʊz/	vứt bỏ, giải quyết	v	dispose	21
+786	\N	MEDIUM	The labor dispute was finally settled after a week of negotiations.	/dɪˈspjuːt/	cuộc bàn cãi, tranh chấp	n	dispute	21
+787	\N	MEDIUM	The storm caused a major disruption to the local train services.	/dɪsˈrʌp.ʃən/	sự phá vỡ, gián đoạn	n	disruption	21
+788	\N	MEDIUM	The company is looking for a new partner to handle the distribution of its products.	/ˌdɪs.trɪˈbjuː.ʃən/	sự phân phát, phân phối	n	distribution	21
+789	\N	MEDIUM	Shareholders will receive a higher dividend this year due to increased profits.	/ˈdɪv.ə.dend/	cổ tức, số bị chia	n	dividend	21
+790	\N	MEDIUM	Please make sure you save the document before closing the program.	/ˈdɑː.kjə.mənt/	văn kiện, tài liệu	n	document	21
+791	\N	MEDIUM	The museum received a generous donation from a local businessman.	/doʊˈneɪ.ʃən/	sự quyên góp, hiến tặng	n	donation	21
+792	\N	MEDIUM	I'll have a double of whatever she's having.	/ˈdʌb.əl/	số lượng gấp đôi	n	double	21
+793	\N	MEDIUM	The economic downturn has led to a decrease in consumer spending.	/ˈdaʊn.tɝːn/	sự suy thoái, sụt giảm	n	downturn	21
+794	\N	MEDIUM	The files you are looking for are in the bottom drawer of the desk.	/drɑːr/	ngăn kéo	n	drawer	21
+795	\N	MEDIUM	The annual recruitment drive will start early next month.	/draɪv/	cuộc đua, chiến dịch	n	drive	21
+796	\N	MEDIUM	The duration of the training course is three weeks.	/djʊəˈreɪ.ʃən/	khoảng thời gian, thời hạn	n	duration	21
+797	\N	MEDIUM	The company's quarterly earnings exceeded market expectations.	/ˈɝː.nɪŋz/	thu nhập, tiền kiếm được	n	earnings	21
+798	\N	MEDIUM	Tourism plays a vital role in the national economy.	/iˈkɑː.nə.mi/	nền kinh tế	n	economy	21
+799	\N	MEDIUM	The brand is known for its distinctive logo and packaging.	/dɪˈstɪŋ.kɪv/	đặc biệt, độc đáo	adj	distinctive	21
+800	\N	MEDIUM	The presentation was quite dull and hard to follow.	/dʌl/	buồn tẻ, chậm hiểu	adj	dull	21
+801	\N	MEDIUM	You can buy perfume and alcohol at the duty-free shop in the airport.	/ˌduː.t̬iˈfriː/	miễn thuế	adj	duty-free	21
+802	\N	MEDIUM	It is more economical to buy office supplies in bulk.	/ˌiː.kəˈnɑː.mɪ.kəl/	tiết kiệm, kinh tế	adj	economical	21
+803	\N	MEDIUM	It is sometimes difficult to distinguish between the two models.	/dɪˈstɪŋ.ɡwɪʃ/	phân biệt, nhận ra	v	distinguish	21
+804	\N	MEDIUM	The assistant will distribute the meeting agenda to all participants.	/dɪˈstrɪb.juːt/	phân phát, phân bổ	v	distribute	21
+805	\N	MEDIUM	Many employees choose to donate a portion of their salary to charity.	\N	quyên góp	/ˈdoʊ.neɪt/	donate	21
+806	\N	MEDIUM	You can download the full report from our website.	/ˈdaʊn.loʊd/	tải xuống	v	download	21
+807	\N	MEDIUM	The firm had to downsize its workforce to stay afloat during the crisis.	/ˈdaʊn.saɪz/	cắt giảm nhân sự/quy mô	v	downsize	21
+808	\N	MEDIUM	The trade fair is expected to draw thousands of visitors.	/drɑː/	vẽ, thu hút	v	draw	21
+809	\N	MEDIUM	The company hopes to earn a profit by the end of the second year.	/ɝːn/	kiếm tiền, giành được	v	earn	21
+810	\N	MEDIUM	We need to economize on electricity and paper usage.	/iˈkɑː.nə.maɪz/	tiết kiệm chi phí	v	economize	21
+811	\N	MEDIUM	The effectiveness of the new marketing campaign will be measured by sales growth.	/əˈfek.tɪv.nəs/	sự hiệu quả	n	effectiveness	22
+812	\N	MEDIUM	We are looking for ways to improve the energy efficiency of our manufacturing plant.	/ɪˈfɪʃ.ən.si/	hiệu suất, năng suất	n	efficiency	22
+813	\N	MEDIUM	The freight elevator is currently out of service for maintenance.	/ˈel.ə.veɪ.t̬ɚ/	thang máy	n	elevator	22
+814	\N	MEDIUM	In case of an emergency, please use the stairs instead of the lift.	/ɪˈmɝː.dʒən.si/	trường hợp khẩn cấp	n	emergency	22
+815	\N	MEDIUM	As an employer, the company is responsible for providing a safe working environment.	/ɪmˈplɔɪ.ɚ/	người làm chủ, chủ lao động	n	employer	22
+816	\N	MEDIUM	The terms of your employment are clearly stated in the contract.	/ɪmˈplɔɪ.mənt/	việc làm, sự thuê mướn	n	employment	22
+817	\N	MEDIUM	The software engineer fixed the bug in the system within an hour.	/ˌen.dʒɪˈnɪr/	kỹ sư	n	engineer	22
+818	\N	MEDIUM	The firm specializes in civil engineering and urban planning.	/ˌen.dʒɪˈnɪr.ɪŋ/	công việc kỹ sư, ngành kỹ thuật	n	engineering	22
+819	\N	MEDIUM	This small enterprise has grown into a global leader in just five years.	/ˈen.t̬ɚ.praɪz/	doanh nghiệp, xí nghiệp	n	enterprise	22
+820	\N	MEDIUM	Your holiday entitlement increases after two years of service with the company.	/ɪnˈtaɪ.t̬əl.mənt/	quyền hạn, sự được phép hưởng	n	entitlement	22
+821	\N	MEDIUM	The waiter recommended the grilled salmon as the best entrée on the menu.	/ˈɑːn.treɪ/	món chính, sự gia nhập	n	entrée	22
+822	\N	MEDIUM	The new safety regulations will be effective starting from next Monday.	/əˈfek.tɪv/	hiệu quả, có hiệu lực	adj	effective	22
+823	\N	MEDIUM	An efficient filing system can save a lot of time in the office.	/ɪˈfɪʃ.ənt/	năng suất cao, hiệu quả tốt	adj	efficient	22
+824	\N	MEDIUM	The community center offers various programs for elderly residents.	/ˈel.dɚ.li/	lớn tuổi, có tuổi	adj	elderly	22
+825	\N	MEDIUM	The manager was very enthusiastic about the new project proposal.	/ɪnˌθuː.ziˈæs.tɪk/	nhiệt tình, hứng khởi	adj	enthusiastic	22
+826	\N	MEDIUM	The company is about to embark on a major restructuring plan.	/ɪmˈbɑːrk/	bắt đầu, dấn thân, lên tàu/máy bay	v	embark	22
+827	\N	MEDIUM	I must emphasize that all data in this report is strictly confidential.	/ˈem.fə.saɪz/	nhấn mạnh	v	emphasize	22
+828	\N	MEDIUM	This software update will enable users to share files more easily.	/ɪˈneɪ.bəl/	cho phép, làm cho có thể	v	enable	22
+829	\N	MEDIUM	Please find the invoice and the shipping label enclosed with this letter.	/ɪnˈkloʊz/	gửi kèm, vây quanh	v	enclose	22
+830	\N	MEDIUM	Managers are encouraged to provide regular feedback to their teams.	/ɪnˈkɝː.ɪʒ/	động viên, cổ vũ	v	encourage	22
+831	\N	MEDIUM	The company has managed to endure several economic recessions.	/ɪnˈdʊr/	chịu đựng, tồn tại lâu dài	v	endure	22
+832	\N	MEDIUM	We need to enhance our customer service to compete in the current market.	/ɪnˈhæns/	làm tăng thêm, đẩy mạnh	v	enhance	22
+833	\N	MEDIUM	The seminar aims to enlighten participants on new financial regulations.	/ɪnˈlaɪ.t̬ən/	làm sáng tỏ, khai sáng	v	enlighten	22
+834	\N	MEDIUM	Employees can enroll in the company’s retirement plan after six months.	/ɪnˈroʊl/	đăng ký, ghi danh	v	enroll	22
+835	\N	MEDIUM	Please double-check the figures to ensure accuracy in the final report.	/ɪnˈʃʊr/	bảo đảm, chắc chắn	v	ensure	22
+836	\N	MEDIUM	The project manager went over every detail of the contract before signing.	/ˈdiː.teɪl/	chi tiết, tiểu tiết	n	detail	23
+837	\N	MEDIUM	The deterioration of the building's structure required immediate renovation.	/dɪˌtɪr.i.əˈreɪ.ʃən/	sự hư hại, xuống cấp	n	deterioration	23
+838	\N	MEDIUM	Our lead developer is working on a new feature for the mobile app.	/dɪˈvel.ə.pɚ/	người phát triển, lập trình viên	n	developer	23
+839	\N	MEDIUM	The development of the new software took over six months to complete.	/dɪˈvel.əp.mənt/	sự phát triển	n	development	23
+840	\N	MEDIUM	Please turn off all electronic devices before the flight takes off.	/dɪˈvaɪs/	thiết bị, máy móc	n	device	23
+841	\N	MEDIUM	The board of directors will meet next week to discuss the annual report.	/daɪˈrek.tɚ/	giám đốc, người điều hành	n	director	23
+842	\N	MEDIUM	There was a slight disagreement between the two departments regarding the budget.	/ˌdɪs.əˈɡriː.mənt/	sự bất đồng, mâu thuẫn	n	disagreement	23
+843	\N	MEDIUM	Employees are entitled to a 20% discount on all company products.	/ˈdɪs.kaʊnt/	sự giảm giá, chiết khấu	n	discount	23
+844	\N	MEDIUM	The auditor found a discrepancy between the receipts and the bank statement.	/dɪˈskrep.ən.si/	sự khác biệt, chênh lệch (số liệu)	n	discrepancy	23
+845	\N	MEDIUM	The company has strict policies against any form of workplace discrimination.	/dɪˌskrɪm.əˈneɪ.ʃən/	sự phân biệt đối xử	n	discrimination	23
+846	\N	MEDIUM	We had a productive discussion about the upcoming marketing strategy.	/dɪˈskʌʃ.ən/	cuộc thảo luận	n	discussion	23
+847	\N	MEDIUM	The signature dish at this restaurant is grilled salmon with asparagus.	/dɪʃ/	món ăn, đĩa đựng	n	dish	23
+848	\N	MEDIUM	The latest products are currently on display in the main lobby.	/dɪˈspleɪ/	sự trưng bày, màn hình	n	display	23
+849	\N	MEDIUM	The technician provided a detailed explanation of how the system works.	/ˈdiː.teɪld/	chi tiết, cụ thể	adj	detailed	23
+850	\N	MEDIUM	She is determined to finish the report before the end of the day.	/dɪˈtɝː.mɪnd/	quyết tâm, kiên quyết	adj	determined	23
+851	\N	MEDIUM	Differential pricing is used to target different segments of the market.	/ˌdɪf.əˈren.ʃəl/	khác biệt, chênh lệch	adj	differential	23
+852	\N	MEDIUM	He is a diligent worker who always pays attention to small details.	/ˈdɪl.ə.dʒənt/	chăm chỉ, cần cù	adj	diligent	23
+853	\N	MEDIUM	The quarterly sales results were quite disappointing for the investors.	/ˌdɪs.əˈpɔɪn.t̬ɪŋ/	đáng thất vọng	adj	disappointing	23
+854	\N	MEDIUM	The manager was dismissive of the employee's concerns about safety.	/dɪˈsmɪs.ɪv/	thô bạo, tùy tiện, gạt bỏ	adj	dismissive	23
+855	\N	MEDIUM	The cafeteria replaced plastic plates with biodegradable disposable ones.	/dɪˈspoʊ.zə.bəl/	dùng một lần, sẵn có	adj	disposable	23
+856	\N	MEDIUM	The security system is designed to detect any unauthorized entry.	/dɪˈtekt/	dò ra, phát hiện	v	detect	23
+857	\N	MEDIUM	The committee will determine which candidate is best suited for the job.	/dɪˈtɝː.mɪn/	xác định rõ, quyết định	v	determine	23
+858	\N	MEDIUM	The company plans to develop a new line of organic skincare products.	/dɪˈvel.əp/	phát triển	v	develop	23
+859	\N	MEDIUM	The IT team is trying to diagnose the cause of the network failure.	/ˌdaɪ.əɡˈnoʊz/	chẩn đoán	v	diagnose	23
+860	\N	MEDIUM	I'm afraid I disagree with the proposed changes to the policy.	/ˌdɪs.əˈɡriː/	bất đồng, không đồng ý	v	disagree	23
+861	\N	MEDIUM	Remember to disconnect the power supply before repairing the machine.	/ˌdɪs.kəˈnekt/	ngắt kết nối	v	disconnect	23
+862	\N	MEDIUM	We need to discuss the feedback from our latest customer survey.	/dɪˈskʌs/	thảo luận	v	discuss	23
+863	\N	MEDIUM	The judge decided to dismiss the case due to a lack of evidence.	/dɪˈsmɪs/	giải tán, sa thải, gạt bỏ	v	dismiss	23
+864	\N	MEDIUM	We strive to create a working environment that fosters creativity and collaboration.	/ɪnˈvaɪ.rən.mənt/	môi trường	n	environment	24
+865	\N	MEDIUM	The cost of the repair is the equivalent of a new machine.	/ɪˈkwɪv.əl.ənt/	vật tương đương, sự tương đương	n	equivalent	24
+866	\N	MEDIUM	The networking event is a great opportunity to meet industry leaders.	/ɪˈvent/	sự kiện	n	event	24
+867	\N	MEDIUM	There is clear evidence that the new marketing strategy is working.	/ˈev.ə.dəns/	bằng chứng, chứng cớ	n	evidence	24
+868	\N	MEDIUM	A thorough examination of the financial records revealed some errors.	/ɪɡˌzæm.əˈneɪ.ʃən/	sự khám xét, kiểm tra, kỳ thi	n	examination	24
+869	\N	MEDIUM	The chief executive decided to delay the product launch by two weeks.	/ɪɡˈzek.jə.t̬ɪv/	người điều hành, ủy viên ban quản trị	n	executive	24
+870	\N	MEDIUM	The company’s rapid expansion into Asian markets has been very successful.	/ɪkˈspæn.ʃən/	sự mở rộng	n	expansion	24
+871	\N	MEDIUM	The final sales figures exceeded our highest expectations.	/ˌek.spekˈteɪ.ʃən/	sự mong chờ, kỳ vọng	n	expectation	24
+872	\N	MEDIUM	The government is planning to increase its expenditure on infrastructure.	/ɪkˈspen.də.tʃɚ/	sự tiêu dùng, phí tổn (ngân sách)	n	expenditure	24
+873	\N	MEDIUM	Travel expenses will be reimbursed by the company upon submission of receipts.	/ɪkˈspens/	chi phí	n	expense	24
+874	\N	MEDIUM	Applicants must have at least three years of experience in accounting.	/ɪkˈspɪr.i.əns/	trải nghiệm, kinh nghiệm	n	experience	24
+875	\N	MEDIUM	The laboratory is conducting an experiment to test the new drug's safety.	/ɪkˈsper.ə.mənt/	thí nghiệm, cuộc thử nghiệm	n	experiment	24
+876	\N	MEDIUM	The company is involved in the exploration of new oil fields in the North Sea.	/ˌek.spləˈreɪ.ʃən/	cuộc thăm dò, thám hiểm	n	exploration	24
+877	\N	MEDIUM	If you send it by express, it should arrive by tomorrow morning.	/ɪkˈspres/	công văn hỏa tốc, dịch vụ chuyển phát nhanh	n	express	24
+878	\N	MEDIUM	The firm was fined for violating several environmental regulations.	/ɪnˌvaɪ.rənˈmen.t̬əl/	(thuộc) môi trường	adj	environmental	24
+879	\N	MEDIUM	Good communication skills are essential for this customer-facing role.	/ɪˈsen.ʃəl/	cốt lõi, thiết yếu	adj	essential	24
+880	\N	MEDIUM	We need the exact measurements before we can start the installation.	/ɪɡˈzækt/	chính xác	adj	exact	24
+881	\N	MEDIUM	The hotel is famous for its excellent service and luxurious rooms.	/ˈek.səl.ənt/	xuất sắc, ưu tú	adj	excellent	24
+882	\N	MEDIUM	Maintaining the old equipment has become too expensive for the factory.	/ɪkˈspen.sɪv/	đắt tiền	adj	expensive	24
+883	\N	MEDIUM	Our team consists of highly experienced professionals in the tech industry.	/ɪkˈspɪə.ri.ənst/	có kinh nghiệm	adj	experienced	24
+884	\N	MEDIUM	Experts estimate that the global economy will grow by 3% this year.	/ˈes.tə.meɪt/	ước tính, dự đoán	v	estimate	24
+885	\N	MEDIUM	We need to evaluate the performance of our suppliers every quarter.	/ɪˈvæl.ju.eɪt/	đánh giá, định giá	v	evaluate	24
+886	\N	MEDIUM	The small family business has evolved into a major international firm.	/ɪˈvɑːlv/	tiến hóa, phát triển dần	v	evolve	24
+887	\N	MEDIUM	The safety inspector will examine the machinery for any potential risks.	/ɪɡˈzæm.ɪn/	khảo sát, kiểm tra kỹ	v	examine	24
+888	\N	MEDIUM	She has always managed to excel in competitive environments.	/ɪkˈsel/	vượt trội, xuất sắc ở lĩnh vực nào đó	v	excel	24
+889	\N	MEDIUM	Local artists will exhibit their work at the gallery next month.	/ɪɡˈzɪb.ɪt/	trưng bày, triển lãm	v	exhibit	24
+890	\N	MEDIUM	The retail chain plans to expand its operations to three more cities.	/ɪkˈspænd/	mở rộng	v	expand	24
+891	\N	MEDIUM	We expect the new software to be available for download by Friday.	/ɪkˈspekt/	chờ đợi, hy vọng, liệu rằng	v	expect	24
+892	\N	MEDIUM	If you need more time to finish the report, you can request a two-day extension.	/ɪkˈsten.ʃən/	sự mở rộng, sự gia hạn, số máy nhánh	n	extension	25
+893	\N	MEDIUM	The research facility is equipped with the latest technology in the field.	/fəˈsɪl.ə.t̬i/	cơ sở vật chất, điều kiện thuận lợi	n	facility	25
+894	\N	MEDIUM	Location is a key factor to consider when opening a new retail store.	/ˈfæk.tɚ/	nhân tố	n	factor	25
+895	\N	MEDIUM	The company plans to build a new factory to increase production capacity.	/ˈfæk.tɚ.i/	nhà máy, xí nghiệp	n	factory	25
+896	\N	MEDIUM	The power failure resulted in the loss of unsaved data on many computers.	/ˈfeɪ.ljɚ/	sự thất bại, sự hỏng hóc (máy móc)	n	failure	25
+897	\N	MEDIUM	Many local businesses will participate in the annual job fair this weekend.	/fer/	hội chợ, phiên chợ	n	fair	25
+898	\N	MEDIUM	Bus fares are expected to increase by ten percent next month.	/fer/	tiền xe, tiền vé (tàu, xe, máy bay)	n	fare	25
+899	\N	MEDIUM	The technician identified a minor fault in the wiring system.	/fɑːlt/	lỗi, sai lầm, khuyết điểm	n	fault	25
+900	\N	MEDIUM	Could you do me a favor and drop these documents off at the post office?	/ˈfeɪ.vɚ/	thiện ý, sự giúp đỡ	n	favor	25
+901	\N	MEDIUM	Please send the signed agreement via fax to our headquarters.	/fæks/	bản fax, máy fax	n	fax	25
+902	\N	MEDIUM	The most impressive feature of the new smartphone is its long battery life.	/ˈfiː.tʃɚ/	đặc điểm, tính năng	n	feature	25
+903	\N	MEDIUM	There is a small processing fee for all credit card transactions.	/fiː/	lệ phí, phí dịch vụ	n	fee	25
+904	\N	MEDIUM	Positive feedback from customers has boosted the team's morale.	/ˈfiːd.bæk/	phản hồi, góp ý	n	feedback	25
+905	\N	MEDIUM	The latest sales figures show a steady increase in revenue.	/ˈfɪɡ.jɚ/	con số, số liệu, nhân vật	n	figure	25
+906	\N	MEDIUM	I need to organize these files before the meeting starts.	/faɪl/	hồ sơ, tập tin	n	file	25
+907	\N	MEDIUM	She has a background in international finance and investment.	/ˈfaɪ.næns/	tài chính	n	finance	25
+908	\N	MEDIUM	My flight was delayed due to heavy fog at the airport.	/flaɪt/	chuyến bay	n	flight	25
+909	\N	MEDIUM	The flight attendant helped the passengers locate their seats.	/ˈflaɪt əˌten.dənt/	tiếp viên hàng không	n	flight attendant	25
+910	\N	MEDIUM	The company hired an external consultant to review its safety procedures.	/ɪkˈstɝː.nəl/	bên ngoài, đối ngoại	adj	external	25
+911	\N	MEDIUM	The city is famed for its historic architecture and vibrant culture.	/feɪmd/	nổi tiếng, lừng danh	adj	famed	25
+912	\N	MEDIUM	You can return the faulty goods and ask for a full refund.	/ˈfɑːl.t̬i/	có lỗi, bị hỏng	adj	faulty	25
+913	\N	MEDIUM	The final decision regarding the budget will be made by the CEO.	/ˈfaɪ.nəl/	cuối cùng	adj	final	25
+914	\N	MEDIUM	The company is in a strong financial position following the merger.	/faɪˈnæn.ʃəl/	(thuộc) tài chính	adj	financial	25
+915	\N	MEDIUM	We offer flexible working hours to help employees balance work and life.	/ˈflek.sə.bəl/	linh hoạt	adj	flexible	25
+916	\N	MEDIUM	The deadline for the scholarship application has been extended to next Friday.	/ɪkˈstend/	gia hạn, kéo dài, gửi tới	v	extend	25
+917	\N	MEDIUM	If the negotiations fail, the company will have to look for a different partner.	/feɪl/	thất bại, trượt	v	fail	25
+918	\N	MEDIUM	Please fill out the application form and sign it at the bottom.	/fɪl/	làm đầy, điền vào (fill out/in)	v	fill	25
+919	\N	MEDIUM	The IT department is working to fix the server issue as quickly as possible.	/fɪks/	sửa chữa, cố định	v	fix	25
+920	\N	MEDIUM	Investors are concerned about the constant fluctuation in oil prices.	/ˌflʌk.tʃuˈeɪ.ʃən/	sự dao động, biến động	n	fluctuation	26
+921	\N	MEDIUM	The main focus of today's meeting is the upcoming product launch.	/ˈfoʊ.kəs/	sự tập trung, tiêu điểm	n	focus	26
+922	\N	MEDIUM	Make a sharp fold at the top of the page to mark your place.	/foʊld/	nếp gấp	n	fold	26
+923	\N	MEDIUM	Please organize these invoices into the blue folder on my desk.	/ˈfoʊl.dɚ/	bìa đựng hồ sơ, kẹp tài liệu	n	folder	26
+924	\N	MEDIUM	The sales force has been doubled to reach more potential customers.	/fɔːrs/	lực lượng, sức mạnh	n	force	26
+925	\N	MEDIUM	The weather forecast predicts heavy rain for the weekend.	/ˈfɔːr.kæst/	sự dự báo	n	forecast	26
+926	\N	MEDIUM	Applicants are required to fill out an application form online.	/fɔːrm/	mẫu đơn, hình dáng	n	form	26
+927	\N	MEDIUM	Rising fuel costs have impacted the shipping industry significantly.	/ˈfjuː.əl/	nhiên liệu, chất đốt	n	fuel	26
+928	\N	MEDIUM	The main function of this software is to track inventory in real-time.	/ˈfʌŋk.ʃən/	chức năng, buổi lễ/tiệc	n	function	26
+929	\N	MEDIUM	The charity organized a fundraising event to build a new community center.	/ˈfʌndˌreɪ.zɪŋ/	sự huy động vốn, gây quỹ	n	fundraising	26
+930	\N	MEDIUM	The office furniture was replaced to create a more ergonomic workspace.	/ˈfɝː.nɪ.tʃɚ/	đồ nội thất	n	furniture	26
+931	\N	MEDIUM	Sending a thank-you note is a nice gesture after a job interview.	/ˈdʒes.tʃɚ/	cử chỉ, điệu bộ	n	gesture	26
+932	\N	MEDIUM	Our primary goal is to achieve a 15% increase in sales this quarter.	/ɡoʊl/	mục tiêu	n	goal	26
+933	\N	MEDIUM	The warehouse is used to store finished goods before they are shipped.	/ɡʊdz/	hàng hóa	n	goods	26
+934	\N	MEDIUM	The employee filed a formal grievance regarding unfair treatment.	/ˈɡriː.vəns/	lời than phiền, khiếu nại (trong công việc)	n	grievance	26
+935	\N	MEDIUM	The restaurant is famous for its mixed grill platter.	/ɡrɪl/	vỉ nướng, món nướng	n	grill	26
+936	\N	MEDIUM	She remained focused on her work despite the noise in the office.	/ˈfoʊ.kəst/	tập trung, chú ý	adj	focused	26
+937	\N	MEDIUM	Learning a foreign language is beneficial for international business.	/ˈfɔːr.ən/	nước ngoài, ngoại quốc	adj	foreign	26
+938	\N	MEDIUM	He has become quite forgetful lately, often losing his keys.	/fɚˈɡet.fəl/	hay quên	adj	forgetful	26
+939	\N	MEDIUM	To be frank, I don't think the new design will be popular with customers.	/fræŋk/	thẳng thắn, bộc trực	adj	frank	26
+940	\N	MEDIUM	The new office layout is both stylish and highly functional.	/ˈfʌŋk.ʃən.əl/	(thuộc) chức năng, hữu dụng	adj	functional	26
+941	\N	MEDIUM	For further information, please visit our official website.	/ˈfɝː.ðɚ/	xa hơn, thêm nữa	adj	further	26
+942	\N	MEDIUM	Exchange rates fluctuate daily based on market conditions.	/ˈflʌk.tʃu.eɪt/	dao động, thay đổi thất thường	v	fluctuate	26
+943	\N	MEDIUM	Don't forget to back up your files before the system update.	/fɚˈɡet/	quên	v	forget	26
+944	\N	MEDIUM	The company worked hard to fulfill all customer orders on time.	/fʊlˈfɪl/	hoàn thành, đáp ứng	v	fulfill	26
+945	\N	MEDIUM	The company has seen a significant growth in international sales this year.	/ɡroʊθ/	sự tăng trưởng, phát triển	n	growth	27
+946	\N	MEDIUM	The electronic equipment comes with a two-year guarantee against defects.	/ˌɡer.ənˈtiː/	sự đảm bảo, giấy bảo hành	n	guarantee	27
+947	\N	MEDIUM	Please follow the guidelines provided in the employee handbook.	/ˈɡaɪd.laɪn/	quy tắc, nguyên tắc chỉ đạo	n	guideline	27
+948	\N	MEDIUM	It's common to haggle over prices at local street markets.	/ˈhæɡ.əl/	sự mặc cả	n	haggle	27
+949	\N	MEDIUM	The handle of the suitcase was damaged during the flight.	/ˈhæn.dəl/	tay cầm, cán	n	handle	27
+950	\N	MEDIUM	The ship is docked in the harbor for repairs.	/ˈhɑː.bər/	bến cảng	n	harbor	27
+951	\N	MEDIUM	Our head office is located in the financial district of New York.	/ˌhed ˈɑː.fɪs/	trụ sở chính, văn phòng chính	n	head office	27
+952	\N	MEDIUM	The global headquarters of the firm moved to London last summer.	/ˈhedˌkwɔːr.t̬ɚz/	sở chỉ huy, trụ sở chính	n	headquarters	27
+953	\N	MEDIUM	After a brief hesitation, the candidate signed the job offer.	/ˌhez.əˈteɪ.ʃən/	sự do dự, ngập ngừng	n	hesitation	27
+954	\N	MEDIUM	The highlight of the conference was the keynote speech by the CEO.	/ˈhaɪ.laɪt/	điểm nổi bật	n	highlight	27
+955	\N	MEDIUM	The recent price hike has caused concern among regular customers.	/haɪk/	cuộc đi bộ đường dài, sự tăng vọt (giá)	n	hike	27
+956	\N	MEDIUM	The new hires are required to attend an orientation session tomorrow.	/haɪr/	sự thuê, người mới được thuê	n	hire	27
+957	\N	MEDIUM	All large luggage must be stored in the aircraft's hold.	/hoʊld/	sự cầm nắm, khoang hàng (tàu)	n	hold	27
+958	\N	MEDIUM	The city is proud to be the host of the international trade fair.	/hoʊst/	chủ nhà, người chủ trì	n	host	27
+959	\N	MEDIUM	Please show your identification at the security desk upon arrival.	/aɪˌden.t̬ə.fəˈkeɪ.ʃən/	sự nhận diện, giấy tờ tùy thân	n	identification	27
+960	\N	MEDIUM	The new tax policy will have a major impact on small businesses.	/ˈɪm.pækt/	tác động, ảnh hưởng	n	impact	27
+961	\N	MEDIUM	It's always handy to have a backup of your files on a portable drive.	/ˈhæn.di/	thuận tiện, có sẵn	adj	handy	27
+962	\N	MEDIUM	The report warns that high levels of stress can be harmful to health.	/ˈhɑːrm.fəl/	gây hại	adj	harmful	27
+963	\N	MEDIUM	The workers wear protective gear when handling hazardous chemicals.	/ˈhæz.ɚ.dəs/	nguy hiểm, mạo hiểm	adj	hazardous	27
+964	\N	MEDIUM	The marketing team came up with an imaginative solution for the ad campaign.	/ɪˈmædʒ.ə.nə.t̬ɪv/	giàu tưởng tượng, sáng tạo	adj	imaginative	27
+965	\N	MEDIUM	The new software update requires an immediate restart of the system.	/ɪˈmiː.di.ət/	ngay lập tức, trực tiếp	adj	immediate	27
+966	\N	MEDIUM	The customer became impatient after waiting for thirty minutes.	/ɪmˈpeɪ.ʃənt/	thiếu kiên nhẫn	adj	impatient	27
+967	\N	MEDIUM	Please do not hesitate to contact us if you have any questions.	/ˈhez.ə.teɪt/	do dự	v	hesitate	27
+968	\N	MEDIUM	The company was accused of trying to hide its financial losses.	/haɪd/	che giấu	v	hide	27
+969	\N	MEDIUM	The investigation aims to identify the cause of the system failure.	/aɪˈden.t̬ə.faɪ/	nhận diện, xác định	v	identify	27
+970	\N	MEDIUM	He was arrested for trying to impersonate a police officer.	/ɪmˈpɝː.sən.eɪt/	mạo danh, đóng vai	v	impersonate	27
 \.
 
 
@@ -1621,7 +1621,7 @@ SELECT pg_catalog.setval('public.quiz_attempts_id_seq', 5, true);
 -- Name: topics_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
 --
 
-SELECT pg_catalog.setval('public.topics_id_seq', 34, true);
+SELECT pg_catalog.setval('public.topics_id_seq', 27, true);
 
 
 --
@@ -1642,7 +1642,7 @@ SELECT pg_catalog.setval('public.users_id_seq', 10, true);
 -- Name: vocabularies_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
 --
 
-SELECT pg_catalog.setval('public.vocabularies_id_seq', 1156, true);
+SELECT pg_catalog.setval('public.vocabularies_id_seq', 970, true);
 
 
 --
@@ -1865,5 +1865,5 @@ ALTER TABLE ONLY public.ipa_confusing_pairs
 -- PostgreSQL database dump complete
 --
 
-\unrestrict hUur4GGSDtJu4s8ysl06iquKewUZUTbKeV8QCFr79ImfEj3RkxdwKt0JbzeXFfr
+\unrestrict cWAOOd9OC4bRvVysQZYUDg9EFMz7V5pJ7eOq8vDhBUd0nXsHCQubKc8xfvIRLir
 

@@ -58,8 +58,13 @@ services:
   # Backend Services
   # ============================================================
   identity-service:
-    image: YOUR_DOCKER_USERNAME/eng-identity-service:latest
+    image: famtwen/eng-identity-service:latest
     container_name: identity-service
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
     environment:
       # Chúng ta dùng env vars lấy từ file .env nha 
       SPRING_DATASOURCE_URL: ${SPRING_DATASOURCE_URL}
@@ -67,6 +72,7 @@ services:
       SPRING_DATASOURCE_PASSWORD: ${POSTGRES_PASSWORD}
       JWT_SECRET: ${JWT_SECRET}
       JWT_EXPIRATION: ${JWT_EXPIRATION}
+      JAVA_TOOL_OPTIONS: ${JAVA_TOOL_OPTIONS}
     ports:
       - "8081:8081"
     depends_on:
@@ -83,14 +89,20 @@ services:
       - eng_network
 
   core-learning-service:
-    image: YOUR_DOCKER_USERNAME/eng-core-learning-service:latest
+    image: famtwen/eng-core-learning-service:latest
     container_name: core-learning-service
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
     environment:
       SPRING_DATASOURCE_URL: ${SPRING_DATASOURCE_URL}
       SPRING_DATASOURCE_USERNAME: ${POSTGRES_USER}
       SPRING_DATASOURCE_PASSWORD: ${POSTGRES_PASSWORD}
       JWT_SECRET: ${JWT_SECRET}
       JWT_EXPIRATION: ${JWT_EXPIRATION}
+      JAVA_TOOL_OPTIONS: ${JAVA_TOOL_OPTIONS}
     ports:
       - "8082:8082"
     depends_on:
@@ -107,12 +119,18 @@ services:
       - eng_network
 
   assessment-service:
-    image: YOUR_DOCKER_USERNAME/eng-assessment-service:latest
+    image: famtwen/eng-assessment-service:latest
     container_name: assessment-service
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
     environment:
       SPRING_DATASOURCE_URL: ${SPRING_DATASOURCE_URL}
       SPRING_DATASOURCE_USERNAME: ${POSTGRES_USER}
       SPRING_DATASOURCE_PASSWORD: ${POSTGRES_PASSWORD}
+      JAVA_TOOL_OPTIONS: ${JAVA_TOOL_OPTIONS}
     ports:
       - "8083:8083"
     depends_on:
@@ -129,10 +147,16 @@ services:
       - eng_network
 
   api-gateway:
-    image: YOUR_DOCKER_USERNAME/eng-api-gateway:latest
+    image: famtwen/eng-api-gateway:latest
     container_name: api-gateway
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
     environment:
       SPRING_PROFILES_ACTIVE: docker
+      JAVA_TOOL_OPTIONS: ${JAVA_TOOL_OPTIONS}
     ports:
       - "8080:8080"
     depends_on:
@@ -156,7 +180,7 @@ services:
   # Frontend
   # ============================================================
   frontend:
-    image: YOUR_DOCKER_USERNAME/eng-frontend:latest
+    image: famtwen/eng-frontend:latest
     container_name: frontend
     ports:
       - "80:80"

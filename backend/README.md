@@ -104,7 +104,7 @@ cd 'e:\eng-app\backend\import\'
 # Cách 1: Chạy trực tiếp (Nó sẽ ngầm định dùng file mental_and_physical_development.json)
 #.\import_script.ps1
 # Cách 2: Chèn tên file linh hoạt ở đằng sau đuôi lệnh
-#.\import_script.ps1 -File "keeping_fit.json"
+#.\import_script.ps1 -File "toeic_part11.json"
 ```
 
 
@@ -125,6 +125,66 @@ Restore database
 ```bash
 cat e:\eng-app\backend\import\backup_utf8.sql | docker exec -i eng_learning_db psql -U postgres -d eng_learning_db
 ```
-
+cat ./backup_utf8.sql | docker exec -i eng_learning_db psql -U postgres -d eng_learning_db
 # Từ thư mục e:\eng-app\
 docker-compose up --build
+
+
+Created docker-compose-ubuntu.yml
+
+Mình vừa tạo cho bạn file **[docker-compose-ubuntu.yml](cci:7://file:///e:/eng-app/docker-compose-ubuntu.yml:0:0-0:0)** nằm ở thư mục gốc của dự án ([e:\eng-app\docker-compose-ubuntu.yml](cci:7://file:///e:/eng-app/docker-compose-ubuntu.yml:0:0-0:0)). 
+
+File này đã được cấu hình chuẩn: dùng `image` thay vì `build`, và nó sẽ tự lấy các thông số từ cùng 1 file [.env](cci:7://file:///e:/eng-app/.env:0:0-0:0) bạn vừa tạo ở bước trước!
+
+---
+
+### Các bước tiếp theo để bạn đưa toàn bộ hệ thống lên Ubuntu:
+
+**BƯỚC 1: Đổi tên (Tag) và Push các image vừa build trên máy bạn lên Docker Hub**
+Tại máy tính Windows của bạn (mở 1 terminal MỚI ở thư mục `e:\eng-app`), làm lần lượt các lệnh này:
+
+1. Đăng nhập Docker:
+```bash
+docker login
+```
+*(Nhập Username và Password của Docker Hub. Nếu bạn chưa có tài khoản thì lên hub.docker.com tạo 1 cái miễn phí nhé).*
+
+2. Đổi tên Image đang chạy ở máy sang định dạng `<username>/<tên-image>`:
+*(Giả sử username Docker Hub của bạn là **`myusername`**, hãy đổi tương ứng)*
+```bash
+docker tag eng-app-frontend famtwen/eng-frontend:latest
+docker tag eng-app-api-gateway famtwen/eng-api-gateway:latest
+docker tag eng-app-identity-service famtwen/eng-identity-service:latest
+docker tag eng-app-core-learning-service famtwen/eng-core-learning-service:latest
+docker tag eng-app-assessment-service famtwen/eng-assessment-service:latest
+```
+
+3. Push tất cả lên Docker Hub:
+```bash
+docker push famtwen/eng-frontend:latest
+docker push famtwen/eng-api-gateway:latest
+docker push famtwen/eng-identity-service:latest
+docker push famtwen/eng-core-learning-service:latest
+docker push famtwen/eng-assessment-service:latest
+```
+
+---
+
+**BƯỚC 2: Cập nhật tên Username vào file `docker-compose-ubuntu.yml`**
+Mở file `docker-compose-ubuntu.yml` mình vừa tạo, bấm **Ctrl+H** (Tùy chọn Replace) để thay thế toàn bộ chữ `YOUR_DOCKER_USERNAME` thành username Docker Hub thật của bạn (ví dụ: `myusername`). Nhớ lưu lại nhé!
+
+---
+
+**BƯỚC 3: Triển khai trên UBUNTU SERVER siêu dễ**
+1. Copy 2 file duy nhất từ máy bạn ném lên máy ảo Ubuntu (vào cùng 1 thư mục):
+   - `docker-compose-ubuntu.yml`
+   - `.env` *(File quan trọng chứa mật khẩu, nhớ copy theo nhé!)*
+
+2. Trong terminal của Ubuntu, nếu chưa có Docker thì cài Docker. Sau đó chạy lệnh duy nhất này để kéo tất cả về và chạy lên:
+```bash
+docker compose -f docker-compose-ubuntu.yml up -d
+```
+
+Vậy là trọn bộ hệ thống Microservices của bạn + NGINX Frontend đã chạy mượt mà trên môi trường Ubuntu rồi đó! 🐳🚀
+
+Edited docker-compose-ubuntu.yml

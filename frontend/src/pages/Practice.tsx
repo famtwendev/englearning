@@ -26,6 +26,8 @@ const Practice: React.FC = () => {
         if (vocabularies && vocabularies.length > 0 && startTimeRef.current === 0) {
             startTimeRef.current = Date.now();
         }
+        // Preload voices on mobile to ensure they are available when playing audio
+        window.speechSynthesis.getVoices();
     }, [vocabularies]);
 
     useEffect(() => {
@@ -95,10 +97,8 @@ const Practice: React.FC = () => {
         } else {
             vocabApi.updateProgress(currentVocab.id, false, responseTime).catch(console.error);
         }
-
-        const utterance = new SpeechSynthesisUtterance(currentVocab.word);
-        utterance.lang = 'en-US';
-        window.speechSynthesis.speak(utterance);
+        // Play pronunciation immediately when answered
+        playAudio(currentVocab.word);
 
         setTimeout(() => {
             setCurrentIndex(c => c + 1);
@@ -136,9 +136,25 @@ const Practice: React.FC = () => {
         }
     };
 
-    const playAudio = () => {
-        const utterance = new SpeechSynthesisUtterance(currentVocab.word);
+    const playAudio = (wordOrEvent?: string | React.MouseEvent) => {
+        const wordText = typeof wordOrEvent === 'string' ? wordOrEvent : currentVocab.word;
+        const utterance = new SpeechSynthesisUtterance(wordText);
         utterance.lang = 'en-US';
+        
+        // Cố tình chọn giọng chuẩn tiếng Anh để sửa lỗi "đánh vần" trên form Android Chrome
+        const voices = window.speechSynthesis.getVoices();
+        const enVoice = voices.find(v => v.name.includes('Google US English'))
+                     || voices.find(v => v.name.includes('Google UK English Female'))
+                     || voices.find(v => v.name.includes('English'))
+                     || voices.find(v => v.lang === 'en-US')
+                     || voices.find(v => v.lang.startsWith('en'));
+                     
+        if (enVoice) {
+            utterance.voice = enVoice;
+        }
+        
+        // Tốc độ hơi chậm lại tí xíu để phát âm tròn vành rõ chữ hơn trên điện thoại
+        utterance.rate = 0.9;
         window.speechSynthesis.speak(utterance);
     };
 
