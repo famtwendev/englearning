@@ -14,6 +14,9 @@ COPY core-learning-service/pom.xml   core-learning-service/pom.xml
 COPY assessment-service/pom.xml      assessment-service/pom.xml
 COPY ai-evaluator-service/pom.xml    ai-evaluator-service/pom.xml
 
+# Giới hạn Maven chống ngốn CPU/RAM lúc Build
+ENV MAVEN_OPTS="-XX:+TieredCompilation -XX:TieredStopAtLevel=1 -Xmx512m -XX:MaxMetaspaceSize=128m"
+
 # Pre-download dependencies cho module này (tận dụng layer cache)
 RUN mvn -pl api-gateway dependency:go-offline -B --no-transfer-progress
 
@@ -21,6 +24,10 @@ RUN mvn -pl api-gateway dependency:go-offline -B --no-transfer-progress
 COPY api-gateway/src api-gateway/src
 
 RUN mvn -pl api-gateway package -DskipTests -B --no-transfer-progress
+
+# Giải nén JAR file thành các Layer (Spring Boot 3.3+)
+WORKDIR /build/api-gateway/target/extracted
+RUN java -Djarmode=tools -jar ../*.jar extract --layers --destination .
 
 # ============================================================
 # Stage 2: Runtime
@@ -31,12 +38,14 @@ WORKDIR /app
 
 RUN addgroup -S spring && adduser -S spring -G spring
 
-COPY --from=builder /build/api-gateway/target/*.jar app.jar
-
-RUN chown spring:spring app.jar
+# Tận dụng Layer Cache của Spring Boot
+COPY --from=builder --chown=spring:spring /build/api-gateway/target/extracted/dependencies/ ./
+COPY --from=builder --chown=spring:spring /build/api-gateway/target/extracted/spring-boot-loader/ ./
+COPY --from=builder --chown=spring:spring /build/api-gateway/target/extracted/snapshot-dependencies/ ./
+COPY --from=builder --chown=spring:spring /build/api-gateway/target/extracted/application/ ./
 
 USER spring
 
 EXPOSE 8080
 
-ENTRYPOINT ["java", "-jar", "app.jar"]
+ENTRYPOINT ["java", "org.springframework.boot.loader.launch.JarLauncher"]
